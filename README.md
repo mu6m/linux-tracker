@@ -77,6 +77,20 @@ last updated: Mon, 12 Aug 2024 00:56:02 -0400
 
 
 
+## [GhostBSD] GhostBSD-24.04.2-XFCE.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=a356eca3574ed2f194dffdfd0bc3bb479a329a53&f=GhostBSD-24.04.2-XFCE.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 11 Aug 2024 20:04:47 -0400
+
+
+
+## [GhostBSD] GhostBSD-24.04.2.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1bcc1ed05fc20b0692de1146c2c219f2e9cc7dec&f=GhostBSD-24.04.2.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 11 Aug 2024 18:04:47 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-BETA2-arm64-aarch64-mini-memstick.img (MULTI)
 [link](https://linuxtracker.org/download.php?id=60433b0dbd3a8475742d1a0e8e12f4c80ac8a505&f=FreeBSD-13.4-BETA2-arm64-aarch64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
@@ -161,10 +175,94 @@ last updated: Sun, 11 Aug 2024 16:16:11 -0400
 
 
 
+## [Pop!_OS] pop-os_24.04_amd64_intel_9.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=bc6c992741b7bf8c05eddbcc458fd1c9f92a90e3&f=pop-os_24.04_amd64_intel_9.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 11 Aug 2024 16:10:38 -0400
+
+
+
+## [Pop!_OS] pop-os_24.04_amd64_nvidia_9.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=08ebc9fe0006c7c56f1b266cd8c55812bca0609e&f=pop-os_24.04_amd64_nvidia_9.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 11 Aug 2024 16:09:43 -0400
+
+
+
 ## [Debian] gnoppix-24.8.1_LTS_XFCE_desktop_amd64.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=07d16fa42db394a2242ea1922e3c22d0a6c53c28&f=gnoppix-24.8.1_LTS_XFCE_desktop_amd64.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Thu, 08 Aug 2024 01:06:56 -0400
+
+
+
+## [Calculate Linux] Calculate Linux Scientific XFCE-20240807-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=9dcaab9c173ed95907dc73654f0c2cbb49e01eb9&f=Calculate%20Linux%20Scientific%20XFCE-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 08 Aug 2024 01:03:30 -0400
+
+
+
+## [Calculate Linux] Calculate Linux Desktop KDE-20240807-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=56324f29f8cec7f8053d11b53c00dd7d2d3129c9&f=Calculate%20Linux%20Desktop%20KDE-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 08 Aug 2024 01:02:46 -0400
+
+
+
+## [Calculate Linux] Calculate Linux Desktop Mate-20240807-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=6700c3a3d9c85d885fcda7f563c2f062f48281f2&f=Calculate%20Linux%20Desktop%20Mate-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 08 Aug 2024 01:02:08 -0400
+
+
+
+## [Calculate Linux] Calculate Linux Desktop LXQt-20240807-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=8687a8b46f3c811f4b7e53e14857e1c8778cf459&f=Calculate%20Linux%20Desktop%20LXQt-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 08 Aug 2024 01:01:20 -0400
+
+
+
+## [Calculate Linux] Calculate Linux Desktop Cinnamon-20240807-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1807ea85fd110a018823e5fc18b15ac5ef8a0e75&f=Calculate%20Linux%20Desktop%20Cinnamon-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 08 Aug 2024 01:00:45 -0400
+
+
+
+## [Calculate Linux] Calculate Linux Desktop XFCE-20240807-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1ab478b467a77d4930b05e2b80309b1581045e5a&f=Calculate%20Linux%20Desktop%20XFCE-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 08 Aug 2024 00:59:26 -0400
+
+
+
+## [Calculate Linux] Calculate Linux Scratch-20240807-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=f6ed182cc5e7a5f8430f09701a1e0373f761dddd&f=Calculate%20Linux%20Scratch-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 08 Aug 2024 00:58:07 -0400
+
+
+
+## [Calculate Linux] Calculate Directory Server-20240807-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=5ce94cba3f3da5f3c2166936066acc9731c66448&f=Calculate%20Directory%20Server-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 08 Aug 2024 00:56:56 -0400
+
+
+
+## [Calculate Linux] Calculate Container Manager-20240807-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=54798091658f77297e8d333aa7029a246345a15e&f=Calculate%20Container%20Manager-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 08 Aug 2024 00:56:21 -0400
+
+
+
+## [Calculate Linux] Calculate Scratch Server-20240807-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=6795e98ff8802bc02c57a67e5589fa66ce1f3212&f=Calculate%20Scratch%20Server-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 08 Aug 2024 00:55:46 -0400
 
 
 
@@ -249,102 +347,4 @@ last updated: Tue, 06 Aug 2024 01:04:25 -0400
 [link](https://linuxtracker.org/download.php?id=4c9694f7efd9e667dd419b3dcd0c2bfcbe998bc8&f=FreeBSD-13.4-BETA1-powerpc-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 06 Aug 2024 01:03:37 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-arm64-aarch64-RPI.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=528a4e13bb8c61582355a59e611a851aef186429&f=FreeBSD-13.4-BETA1-arm64-aarch64-RPI.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 01:02:09 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-arm64-aarch64-PINE64-LTS.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=3c21e80af5c5726e04157929068decafea53c4cb&f=FreeBSD-13.4-BETA1-arm64-aarch64-PINE64-LTS.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 01:01:21 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-arm64-aarch64-PINE64.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=d6301cda0b8bab756bb6e8f60d21af6979c4c0e2&f=FreeBSD-13.4-BETA1-arm64-aarch64-PINE64.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 01:00:16 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-arm64-aarch64-ROCKPRO64.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=f3de14404290f77ecc23c69fd2538925541925a8&f=FreeBSD-13.4-BETA1-arm64-aarch64-ROCKPRO64.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:59:38 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-arm64-aarch64-ROCK64.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=faf57f06a501d5b2e384f8d6b481d1d4f3d0a282&f=FreeBSD-13.4-BETA1-arm64-aarch64-ROCK64.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:58:56 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-powerpc-powerpcspe-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=5a551ed51ce517661d229b6b4f1789a48ba8396e&f=FreeBSD-13.4-BETA1-powerpc-powerpcspe-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:57:19 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-powerpc-powerpcspe-disc1.iso.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=f0f346e11877457a2962cb5170b51aa6c2ce00fe&f=FreeBSD-13.4-BETA1-powerpc-powerpcspe-disc1.iso.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:56:33 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-riscv-riscv64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=399c8e8f94caa18abe0ddfa9f9701f8f2ff8e1ce&f=FreeBSD-13.4-BETA1-riscv-riscv64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:55:45 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-riscv-riscv64-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=f6610ac5ce93680fb2ff6996516229b4a7d81fcb&f=FreeBSD-13.4-BETA1-riscv-riscv64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:55:00 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-riscv-riscv64-GENERICSD.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=c3dcb5ce0297844f737aeb9ddad7c8e59fa2dafd&f=FreeBSD-13.4-BETA1-riscv-riscv64-GENERICSD.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:53:34 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-amd64-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=1290de4d8ae8c41dfefb83eb4fa5333dece4b9ad&f=FreeBSD-13.4-BETA1-amd64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:52:51 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-arm-armv7-GENERICSD.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=dc7faa656c90da5d11299361998e7705adb1c3a3&f=FreeBSD-13.4-BETA1-arm-armv7-GENERICSD.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:52:16 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-arm-armv6-RPI-B.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=c6fe222838be8b41d84fe83199bf729ab737df1a&f=FreeBSD-13.4-BETA1-arm-armv6-RPI-B.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:50:54 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA1-riscv-riscv64-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=90a139dd60e95410f773c58b2ad304ad6dbf09da&f=FreeBSD-13.4-BETA1-riscv-riscv64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 06 Aug 2024 00:50:12 -0400
 
