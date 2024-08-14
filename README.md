@@ -1,5 +1,68 @@
 # Linux Torrents Tracker
 
+## [Endless OS] EndlessOS 6.0.2 amd64 Base OVF (MULTI)
+[link](https://linuxtracker.org/download.php?id=1ffe707e1fb1d4a898a1d3e36e558cc9cea548a3&f=EndlessOS%206.0.2%20amd64%20Base%20OVF.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 16:29:03 -0400
+
+
+
+## [Endless OS] EndlessOS 6.0.2 amd64 ES ISO (MULTI)
+[link](https://linuxtracker.org/download.php?id=88df81bc8aef9b188b23bed197d4bd62b4a71174&f=EndlessOS%206.0.2%20amd64%20ES%20ISO.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 16:28:06 -0400
+
+
+
+## [Endless OS] EndlessOS 6.0.2 amd64 FR ISO (MULTI)
+[link](https://linuxtracker.org/download.php?id=2e64df5fde6943c75eb74ad1b247f3cefdb6dc33&f=EndlessOS%206.0.2%20amd64%20FR%20ISO.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 16:26:15 -0400
+
+
+
+## [Endless OS] EndlessOS 6.0.2 amd64 EN ISO (MULTI)
+[link](https://linuxtracker.org/download.php?id=044cbe7845269707e231e20f5eda075aa4c4eee9&f=EndlessOS%206.0.2%20amd64%20EN%20ISO.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 16:25:07 -0400
+
+
+
+## [Endless OS] EndlessOS 6.0.2 amd64 PT BR ISO (MULTI)
+[link](https://linuxtracker.org/download.php?id=d6405588578c414cd928eef714028707f952626b&f=EndlessOS%206.0.2%20amd64%20PT%20BR%20ISO.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 16:20:13 -0400
+
+
+
+## [Endless OS] EndlessOS 6.0.2 amd64 Base ISO (MULTI)
+[link](https://linuxtracker.org/download.php?id=a79bae1604b8f5dc45bf1d71cc495c809ff7f2cc&f=EndlessOS%206.0.2%20amd64%20Base%20ISO.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 16:16:02 -0400
+
+
+
+## [Manjaro] manjaro-sway-24.0.1-240811-linux66.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=2ff0215a1ca10d42c9b26d63efc5d1c146260580&f=manjaro-sway-24.0.1-240811-linux66.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 16:11:32 -0400
+
+
+
+## [Manjaro] manjaro-i3-24.0.5-minimal-240729-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=199572246e47a781fa7ad491abd1703d07028803&f=manjaro-i3-24.0.5-minimal-240729-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 16:08:23 -0400
+
+
+
+## [Manjaro] manjaro-i3-24.0.5-240729-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=e21f4c809cee69afe2415afa67ff2422abce83be&f=manjaro-i3-24.0.5-240729-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 16:05:27 -0400
+
+
+
 ## [Manjaro] manjaro-cinnamon-24.0.5-minimal-240729-linux69.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=69a1bc84fdb4728e18f29b3c0a4cc0e78db8a625&f=manjaro-cinnamon-24.0.5-minimal-240729-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -284,67 +347,4 @@ last updated: Sun, 11 Aug 2024 16:59:25 -0400
 [link](https://linuxtracker.org/download.php?id=62b36faef949844d713780e651f9e903f74546a4&f=FreeBSD-13.4-BETA2-arm64-aarch64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 11 Aug 2024 16:58:23 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-arm-armv7-GENERICSD.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=203d5b06058fe522c2fd7b755f0c39aea0589fc6&f=FreeBSD-13.4-BETA2-arm-armv7-GENERICSD.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 16:56:50 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-arm-armv6-RPI-B.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=c487a778c722d5fb410ba8c0ac7d3d5c2a25e4f7&f=FreeBSD-13.4-BETA2-arm-armv6-RPI-B.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 16:55:59 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-amd64-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=6a91c7e948c488d201cdcb7a1cd2b537191d23fa&f=FreeBSD-13.4-BETA2-amd64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 16:21:42 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-amd64-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=fa0e9291f0e3694e97c62e07ecb06d2aee923c2e&f=FreeBSD-13.4-BETA2-amd64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 16:20:32 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-amd64-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=5af6a074f06fbcb2fae3b33d401d717e57f74e59&f=FreeBSD-13.4-BETA2-amd64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 16:19:42 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-amd64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=34b4e7f5aeb04be190f271ccba88a65e7db5bb22&f=FreeBSD-13.4-BETA2-amd64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 16:18:24 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-amd64-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=7fef11ef661ea84284eb5610e9c458044486ab16&f=FreeBSD-13.4-BETA2-amd64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 16:16:11 -0400
-
-
-
-## [Pop!_OS] pop-os_24.04_amd64_intel_9.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=bc6c992741b7bf8c05eddbcc458fd1c9f92a90e3&f=pop-os_24.04_amd64_intel_9.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 16:10:38 -0400
-
-
-
-## [Pop!_OS] pop-os_24.04_amd64_nvidia_9.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=08ebc9fe0006c7c56f1b266cd8c55812bca0609e&f=pop-os_24.04_amd64_nvidia_9.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 16:09:43 -0400
 
