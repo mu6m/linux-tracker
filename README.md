@@ -1,5 +1,33 @@
 # Linux Torrents Tracker
 
+## [Manjaro] manjaro-cinnamon-24.0.5-minimal-240729-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=69a1bc84fdb4728e18f29b3c0a4cc0e78db8a625&f=manjaro-cinnamon-24.0.5-minimal-240729-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 15:58:05 -0400
+
+
+
+## [Manjaro] manjaro-cinnamon-24.0.5-240729-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1d972ff575e8ee26c4443ce7b1e0e645115a956d&f=manjaro-cinnamon-24.0.5-240729-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 15:57:21 -0400
+
+
+
+## [Manjaro] manjaro-gnome-24.0.5-minimal-240730-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=0a22be617a15103502d761de5ba3ec8300e75586&f=manjaro-gnome-24.0.5-minimal-240730-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 15:56:20 -0400
+
+
+
+## [Manjaro] manjaro-gnome-24.0.5-240730-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=12a6c0a8cf33e868a7e4ed2346e109f1090fa670&f=manjaro-gnome-24.0.5-240730-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 14 Aug 2024 15:54:13 -0400
+
+
+
 ## [Manjaro] manjaro-xfce-24.0.5-minimal-240730-linux69.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=5c7682d5de14121b4bca2dd71b18b14853a2cbad&f=manjaro-xfce-24.0.5-minimal-240730-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -319,32 +347,4 @@ last updated: Sun, 11 Aug 2024 16:10:38 -0400
 [link](https://linuxtracker.org/download.php?id=08ebc9fe0006c7c56f1b266cd8c55812bca0609e&f=pop-os_24.04_amd64_nvidia_9.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 11 Aug 2024 16:09:43 -0400
-
-
-
-## [Debian] gnoppix-24.8.1_LTS_XFCE_desktop_amd64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=07d16fa42db394a2242ea1922e3c22d0a6c53c28&f=gnoppix-24.8.1_LTS_XFCE_desktop_amd64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 08 Aug 2024 01:06:56 -0400
-
-
-
-## [Calculate Linux] Calculate Linux Scientific XFCE-20240807-x86_64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9dcaab9c173ed95907dc73654f0c2cbb49e01eb9&f=Calculate%20Linux%20Scientific%20XFCE-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 08 Aug 2024 01:03:30 -0400
-
-
-
-## [Calculate Linux] Calculate Linux Desktop KDE-20240807-x86_64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=56324f29f8cec7f8053d11b53c00dd7d2d3129c9&f=Calculate%20Linux%20Desktop%20KDE-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 08 Aug 2024 01:02:46 -0400
-
-
-
-## [Calculate Linux] Calculate Linux Desktop Mate-20240807-x86_64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=6700c3a3d9c85d885fcda7f563c2f062f48281f2&f=Calculate%20Linux%20Desktop%20Mate-20240807-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 08 Aug 2024 01:02:08 -0400
 
