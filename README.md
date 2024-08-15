@@ -1,5 +1,54 @@
 # Linux Torrents Tracker
 
+## [Linux] PH-1 lineage-21.0-20240810-nightly-mata-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=7cb7a6811482207c017b32ad88ac23bf54d075ff&f=PH-1%20lineage-21.0-20240810-nightly-mata-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 01:05:03 -0400
+
+
+
+## [Linux] M5 (Tablet) lineage-21.0-20240809-nightly-m5_tab-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=967ad2ce31018a43021f39378b44f3db29e5f339&f=M5%20%28Tablet%29%20lineage-21.0-20240809-nightly-m5_tab-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 01:04:23 -0400
+
+
+
+## [Linux] M5 (Android TV) lineage-21.0-20240811-nightly-m5-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=61684bed0e9c67977ff46d6d5db2aca87fbccc36&f=M5%20%28Android%20TV%29%20lineage-21.0-20240811-nightly-m5-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 01:03:50 -0400
+
+
+
+## [Linux] Fairphone 5 lineage-21.0-20240806-nightly-FP5-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=b4912cba2082efeacbe89d38934a3e4588d3ba44&f=Fairphone%205%20lineage-21.0-20240806-nightly-FP5-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 01:02:51 -0400
+
+
+
+## [Linux] Fairphone 4 lineage-21.0-20240807-nightly-FP4-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=19dfb245c33338fc589f682867bd27b3ad2a05d6&f=Fairphone%204%20lineage-21.0-20240807-nightly-FP4-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 01:02:17 -0400
+
+
+
+## [Linux] Fairphone 3,3+ lineage-21.0-20240807-nightly-FP3-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=cad296f3b47363a90ea75e4c4615691d434a521b&f=Fairphone%203%2C3%2B%20lineage-21.0-20240807-nightly-FP3-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 01:01:40 -0400
+
+
+
+## [Linux] Aquaris X2 Pro lineage-20.0-20240807-nightly-zangyapro-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=3e7d255c1fdd95e9d79629c33301033e74d098ac&f=Aquaris%20X2%20Pro%20lineage-20.0-20240807-nightly-zangyapro-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 01:00:32 -0400
+
+
+
 ## [Linux] Aquaris X2 lineage-20.0-20240805-nightly-zangya-signed (MULTI)
 [link](https://linuxtracker.org/download.php?id=b86b3ffe2bfcb8882e15bc5b775737494002ac5f&f=Aquaris%20X2%20lineage-20.0-20240805-nightly-zangya-signed.torrent&rsspid=00000000000000000000000000000000)
 
@@ -298,53 +347,4 @@ last updated: Mon, 12 Aug 2024 01:06:02 -0400
 [link](https://linuxtracker.org/download.php?id=83db7d69fd78d39676032412fc2fb3ef3060477f&f=FreeBSD-13.4-BETA2-i386-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 12 Aug 2024 01:05:16 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-i386-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=b7713cc0660a9708ba40b861facea1a06a775b8b&f=FreeBSD-13.4-BETA2-i386-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 01:04:36 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-i386-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=f3b9102e832c08765879885319dcf110e5386f9a&f=FreeBSD-13.4-BETA2-i386-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 01:03:16 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-i386-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=ee935f1f4a1d3c4131ba40918b8686b895420af0&f=FreeBSD-13.4-BETA2-i386-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 01:02:34 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-arm64-aarch64-RPI.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=aefe6504f372691d46ccb738725580c778d00f73&f=FreeBSD-13.4-BETA2-arm64-aarch64-RPI.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 01:01:50 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-arm64-aarch64-ROCKPRO64.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=1293f2c3c985ce755a3e3e0350c02171350cb7f8&f=FreeBSD-13.4-BETA2-arm64-aarch64-ROCKPRO64.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 01:00:55 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-arm64-aarch64-ROCK64.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=dd11b35d5c41d1f7b01fe923e142bb48a2da690d&f=FreeBSD-13.4-BETA2-arm64-aarch64-ROCK64.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 00:59:36 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-arm64-aarch64-PINEBOOK.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=d5016c851b0496f9d0fb308c78073b4f797428ea&f=FreeBSD-13.4-BETA2-arm64-aarch64-PINEBOOK.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 00:57:47 -0400
 
