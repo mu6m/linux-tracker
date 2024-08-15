@@ -1,5 +1,33 @@
 # Linux Torrents Tracker
 
+## [Linux] Aquaris X2 lineage-20.0-20240805-nightly-zangya-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=b86b3ffe2bfcb8882e15bc5b775737494002ac5f&f=Aquaris%20X2%20lineage-20.0-20240805-nightly-zangya-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 00:59:57 -0400
+
+
+
+## [Linux] Aquaris X Pro lineage-20.0-20240810-nightly-bardockpro-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=9a78cbb54945ec4611fcff2757bf3994be8da5d0&f=Aquaris%20X%20Pro%20lineage-20.0-20240810-nightly-bardockpro-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 00:58:27 -0400
+
+
+
+## [Linux] Aquaris X lineage-20.0-20240805-nightly-bardock-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=9da26c9f047d2aba13a01777324e754920612551&f=Aquaris%20X%20lineage-20.0-20240805-nightly-bardock-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 00:57:41 -0400
+
+
+
+## [Linux] 10.or lineage-20.0-20240808-nightly-G-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=fb90cf4ebdc8cf50adea874f7721fd8d3a914177&f=10.or%20lineage-20.0-20240808-nightly-G-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 00:57:05 -0400
+
+
+
 ## [Endless OS] EndlessOS 6.0.2 arm64 PinebookPro EN Full (MULTI)
 [link](https://linuxtracker.org/download.php?id=f0f2f42c164bb5b528859a03fcb1c3aa9f542994&f=EndlessOS%206.0.2%20arm64%20PinebookPro%20EN%20Full.torrent&rsspid=00000000000000000000000000000000)
 
@@ -319,32 +347,4 @@ last updated: Mon, 12 Aug 2024 00:59:36 -0400
 [link](https://linuxtracker.org/download.php?id=d5016c851b0496f9d0fb308c78073b4f797428ea&f=FreeBSD-13.4-BETA2-arm64-aarch64-PINEBOOK.img.xz.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 12 Aug 2024 00:57:47 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-arm64-aarch64-PINE64.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=591ff898e4f69104e49125b450a68798a80b48c6&f=FreeBSD-13.4-BETA2-arm64-aarch64-PINE64.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 00:57:00 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-arm64-aarch64-PINE64-LTS.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=5cc6dc9a733057cce521cbf2c25722663063d7fd&f=FreeBSD-13.4-BETA2-arm64-aarch64-PINE64-LTS.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 00:56:02 -0400
-
-
-
-## [GhostBSD] GhostBSD-24.04.2-XFCE.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=a356eca3574ed2f194dffdfd0bc3bb479a329a53&f=GhostBSD-24.04.2-XFCE.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 20:04:47 -0400
-
-
-
-## [GhostBSD] GhostBSD-24.04.2.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=1bcc1ed05fc20b0692de1146c2c219f2e9cc7dec&f=GhostBSD-24.04.2.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 11 Aug 2024 18:04:47 -0400
 
