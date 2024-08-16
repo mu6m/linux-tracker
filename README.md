@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [SparkyLinux] sparkylinux-2024.08-x86_64-kde.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=c69725a0710a0ce818f4ddf3636deb249b759af4&f=sparkylinux-2024.08-x86_64-kde.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 16 Aug 2024 12:40:34 -0400
+
+
+
 ## [Tails] tails-amd64-6.6-iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=a1790d8bf06e2d9794b2307e6cf3df20cd3e2947&f=tails-amd64-6.6-iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Tue, 13 Aug 2024 15:16:52 -0400
 [link](https://linuxtracker.org/download.php?id=593ec282bd09095597fd3cb61e8d7f41a9310434&f=FreeBSD-13.4-BETA2-powerpc-powerpc64le-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 13 Aug 2024 15:15:33 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-powerpc-powerpc64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9bdb985cdd3b39f0915e9d071256603d075c358a&f=FreeBSD-13.4-BETA2-powerpc-powerpc64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 13 Aug 2024 15:14:51 -0400
 
