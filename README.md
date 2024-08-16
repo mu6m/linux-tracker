@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Tails] tails-amd64-6.6-iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=a1790d8bf06e2d9794b2307e6cf3df20cd3e2947&f=tails-amd64-6.6-iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 16 Aug 2024 01:03:00 -0400
+
+
+
+## [Tails] tails-amd64-6.6-img (MULTI)
+[link](https://linuxtracker.org/download.php?id=c9301d1022756a68c0e5733b49f1bcef419588c4&f=tails-amd64-6.6-img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 16 Aug 2024 01:02:26 -0400
+
+
+
 ## [Manjaro] manjaro-kde-24.0.6-240812-linux69.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=02782633f26fa3aa744a3bd7d0bc1ad33d2b50cf&f=manjaro-kde-24.0.6-240812-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Tue, 13 Aug 2024 15:15:33 -0400
 [link](https://linuxtracker.org/download.php?id=9bdb985cdd3b39f0915e9d071256603d075c358a&f=FreeBSD-13.4-BETA2-powerpc-powerpc64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 13 Aug 2024 15:14:51 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-powerpc-powerpc64-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=a0be4226a56370374f3be1fb6caa8ef81c593b3c&f=FreeBSD-13.4-BETA2-powerpc-powerpc64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 13 Aug 2024 15:12:39 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-powerpc-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=a5e341b214f5cd69ee10b28404589f529e03a38b&f=FreeBSD-13.4-BETA2-powerpc-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 13 Aug 2024 15:11:29 -0400
 
