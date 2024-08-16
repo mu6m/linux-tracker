@@ -1,5 +1,26 @@
 # Linux Torrents Tracker
 
+## [Manjaro] manjaro-kde-24.0.6-240812-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=02782633f26fa3aa744a3bd7d0bc1ad33d2b50cf&f=manjaro-kde-24.0.6-240812-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 21:29:00 -0400
+
+
+
+## [Manjaro] manjaro-gnome-24.0.6-240812-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=83ac126d34234e3dd87b11ca054cde42d25a4cd3&f=manjaro-gnome-24.0.6-240812-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 21:28:53 -0400
+
+
+
+## [Manjaro] manjaro-xfce-24.0.6-240812-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=86704285c44a603c446127695682357233a2c81e&f=manjaro-xfce-24.0.6-240812-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 15 Aug 2024 21:28:51 -0400
+
+
+
 ## [Linux] PH-1 lineage-21.0-20240810-nightly-mata-signed (MULTI)
 [link](https://linuxtracker.org/download.php?id=7cb7a6811482207c017b32ad88ac23bf54d075ff&f=PH-1%20lineage-21.0-20240810-nightly-mata-signed.torrent&rsspid=00000000000000000000000000000000)
 
@@ -326,25 +347,4 @@ last updated: Tue, 13 Aug 2024 15:12:39 -0400
 [link](https://linuxtracker.org/download.php?id=a5e341b214f5cd69ee10b28404589f529e03a38b&f=FreeBSD-13.4-BETA2-powerpc-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 13 Aug 2024 15:11:29 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-powerpc-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=123119b48e2048f28fe37d87d255714d4912f47f&f=FreeBSD-13.4-BETA2-powerpc-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 13 Aug 2024 15:10:12 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-i386-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=f5e7926628792dd9039cf4fdb0d3d50ade854162&f=FreeBSD-13.4-BETA2-i386-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 01:06:02 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-i386-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=83db7d69fd78d39676032412fc2fb3ef3060477f&f=FreeBSD-13.4-BETA2-i386-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 12 Aug 2024 01:05:16 -0400
 
