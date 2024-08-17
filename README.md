@@ -1,5 +1,103 @@
 # Linux Torrents Tracker
 
+## [Linux] Pixel 5a lineage-21.0-20240809-nightly-barbet-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=c9f30fce9f16fd5f86939c1ef73db7f82a4d5e28&f=Pixel%205a%20lineage-21.0-20240809-nightly-barbet-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:29:57 -0400
+
+
+
+## [Linux] Pixel 5 lineage-21.0-20240812-nightly-redfin-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=c8ec41ec986a21c60e1a44fc11dcd16feed40351&f=Pixel%205%20lineage-21.0-20240812-nightly-redfin-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:29:19 -0400
+
+
+
+## [Linux] Pixel 4a lineage-21.0-20240808-nightly-sunfish-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=6a61fd53b18c4879dda2848711b67d55da0f98ff&f=Pixel%204a%20lineage-21.0-20240808-nightly-sunfish-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:28:32 -0400
+
+
+
+## [Linux] Pixel 4a 5G lineage-21.0-20240810-nightly-bramble-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=89ba41875056dce35e087fb289ef3e077456b9b1&f=Pixel%204a%205G%20lineage-21.0-20240810-nightly-bramble-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:27:39 -0400
+
+
+
+## [Linux] Pixel 4 XL lineage-21.0-20240809-nightly-coral-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=6023358171f7fcfa75e521b37e2569a3d88a2997&f=Pixel%204%20XL%20lineage-21.0-20240809-nightly-coral-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:27:04 -0400
+
+
+
+## [Linux] Pixel 4 lineage-21.0-20240808-nightly-flame-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=a0a5da7c8c1738eece29aa0e3653f1e5d4a69db3&f=Pixel%204%20lineage-21.0-20240808-nightly-flame-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:16:21 -0400
+
+
+
+## [Linux] Pixel 3a XL lineage-21.0-20240810-nightly-bonito-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=78ccda8907233396b479093215e4a4cd12c65d09&f=Pixel%203a%20XL%20lineage-21.0-20240810-nightly-bonito-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:15:42 -0400
+
+
+
+## [Linux] Pixel 3a lineage-21.0-20240810-nightly-sargo-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=1d0aded40e70ca9e51b1c352397c24733f4eba83&f=Pixel%203a%20lineage-21.0-20240810-nightly-sargo-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:14:25 -0400
+
+
+
+## [Linux] Pixel 3 XL lineage-21.0-20240806-nightly-crosshatch-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=282de4fd83eda69440d01848aaa95e100a87904e&f=Pixel%203%20XL%20lineage-21.0-20240806-nightly-crosshatch-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:13:42 -0400
+
+
+
+## [Linux] Pixel 3 lineage-21.0-20240805-nightly-blueline-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=91ed17711b1c7d3898db294d36fb441e565517ce&f=Pixel%203%20lineage-21.0-20240805-nightly-blueline-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:13:12 -0400
+
+
+
+## [Linux] Pixel 2 XL lineage-21.0-20240808-nightly-taimen-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=1f650fefe251b054c410a933f9619c74595deb88&f=Pixel%202%20XL%20lineage-21.0-20240808-nightly-taimen-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:12:30 -0400
+
+
+
+## [Linux] Pixel 2 lineage-21.0-20240809-nightly-walleye-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=a20e888dceb9505d6e5df10c165dcdceae7fc3c0&f=Pixel%202%20lineage-21.0-20240809-nightly-walleye-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:11:51 -0400
+
+
+
+## [Linux] Chromecast with Google TV 4K lineage-21.0-20240810-nightly-sabrina-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=c37fa70b1dff163e9c863587aaf5c47686186236&f=Chromecast%20with%20Google%20TV%204K%20lineage-21.0-20240810-nightly-sabrina-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:10:16 -0400
+
+
+
+## [Linux] ADT-3 lineage-21.0-20240806-nightly-deadpool-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=da77c4803b28ff22bbba033a0ecda4482d5a41b9&f=ADT-3%20lineage-21.0-20240806-nightly-deadpool-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:09:41 -0400
+
+
+
 ## [SparkyLinux] sparkylinux-2024.08-x86_64-kde.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=c69725a0710a0ce818f4ddf3636deb249b759af4&f=sparkylinux-2024.08-x86_64-kde.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -249,102 +347,4 @@ last updated: Wed, 14 Aug 2024 15:54:13 -0400
 [link](https://linuxtracker.org/download.php?id=5c7682d5de14121b4bca2dd71b18b14853a2cbad&f=manjaro-xfce-24.0.5-minimal-240730-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Wed, 14 Aug 2024 15:20:06 -0400
-
-
-
-## [Manjaro] manjaro-xfce-24.0.5-240730-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=f42befa3ca1a590b5d38ff4f1b52853417754422&f=manjaro-xfce-24.0.5-240730-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 15:19:27 -0400
-
-
-
-## [Manjaro] manjaro-kde-24.0.5-minimal-240730-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=2d876b1086321ac8223f048ccba3c6708d668482&f=manjaro-kde-24.0.5-minimal-240730-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 15:18:51 -0400
-
-
-
-## [Manjaro] manjaro-kde-24.0.5-240730-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=68bdf6648f30578b01861c923cbda2c810239102&f=manjaro-kde-24.0.5-240730-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 15:16:32 -0400
-
-
-
-## [Tinycore] tinylinux-15.0-Core-current.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=013c49e59db6ebb4724d8d8b4c8505af4d959da0&f=tinylinux-15.0-Core-current.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 08:35:55 -0400
-
-
-
-## [Tinycore] tinylinux-15.0-CorePlus-current.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=380a63aaa8a2fe98c5916fdf2d165a2f4f95b8a9&f=tinylinux-15.0-CorePlus-current.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 07:16:05 -0400
-
-
-
-## [Tinycore] tinylinux-15.0-TinyCore-current.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=924ccd90360d43be172a85f48b508e5de9cfb4c1&f=tinylinux-15.0-TinyCore-current.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 07:10:20 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-riscv-riscv64-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=5e2ce38b87788f3d1a7bc7845fd3e0b171f59a08&f=FreeBSD-13.4-BETA2-riscv-riscv64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 00:56:56 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-riscv-riscv64-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=2572939b453445cc029bccca6499fc72d4a2bdf1&f=FreeBSD-13.4-BETA2-riscv-riscv64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 00:56:09 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-riscv-riscv64-GENERICSD.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=51a7ac743c110956dfaaa451910dcb8aded7ef76&f=FreeBSD-13.4-BETA2-riscv-riscv64-GENERICSD.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 00:54:41 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-riscv-riscv64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=6d3eb603d59779c93a14fed6ff277da3f8afec73&f=FreeBSD-13.4-BETA2-riscv-riscv64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 00:51:46 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-riscv-riscv64-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=e7a6e8f0c42869ef5db4eb9f62d096a154b81e25&f=FreeBSD-13.4-BETA2-riscv-riscv64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 00:50:51 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-powerpc-powerpcspe-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=7f5c48ac05db58f8461ddff7ac9e6363755cd6f7&f=FreeBSD-13.4-BETA2-powerpc-powerpcspe-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 13 Aug 2024 15:17:29 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-powerpc-powerpcspe-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=5fc3a756fdc5372813a9f2e57ac96474b9c7f2bd&f=FreeBSD-13.4-BETA2-powerpc-powerpcspe-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 13 Aug 2024 15:16:52 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA2-powerpc-powerpc64le-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=593ec282bd09095597fd3cb61e8d7f41a9310434&f=FreeBSD-13.4-BETA2-powerpc-powerpc64le-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 13 Aug 2024 15:15:33 -0400
 
