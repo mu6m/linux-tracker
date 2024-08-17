@@ -1,5 +1,152 @@
 # Linux Torrents Tracker
 
+## [Linux] Zenphone8 lineage-20.0-20240806-nightly-sake-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=784eec92ac9b6b58bb20270f14c46f1d4e9a41f3&f=Zenphone8%20lineage-20.0-20240806-nightly-sake-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:52:50 -0400
+
+
+
+## [Linux] Zenphone Max Pro M1 lineage-20.0-20240810-nightly-X00TD-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=b98d5956442eb13b836a94a42bd3015325239468&f=Zenphone%20Max%20Pro%20M1%20lineage-20.0-20240810-nightly-X00TD-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:52:14 -0400
+
+
+
+## [FreeNAS] TrueNAS-13.3-RELEASE.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=b2cc16f5cb348bb17d4a250cf75477d25e7519c3&f=TrueNAS-13.3-RELEASE.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:52:04 -0400
+
+
+
+## [Linux] Zenphone 5Z (ZS620KL) lineage-21.0-20240806-nightly-Z01R-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=19428700c1169f29efec5af0210680219b6463dc&f=Zenphone%205Z%20%28ZS620KL%29%20lineage-21.0-20240806-nightly-Z01R-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:51:42 -0400
+
+
+
+## [Linux] TV Box 4K (2021) lineage-21.0-20240808-nightly-wade-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=9c206a977f1ba1417d98961ee3cbd54d789d8cd5&f=TV%20Box%204K%20%282021%29%20lineage-21.0-20240808-nightly-wade-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:51:09 -0400
+
+
+
+## [Linux] Pro1 X lineage-21.0-20240805-nightly-pro1x-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=c3b410e9310ad2b68bd648ca217fbab42408298d&f=Pro1%20X%20lineage-21.0-20240805-nightly-pro1x-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:50:34 -0400
+
+
+
+## [Linux] Pro1 lineage-21.0-20240810-nightly-pro1-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=73717cfc567022bd5e41abef5b59fd8bcb0b03f1&f=Pro1%20lineage-21.0-20240810-nightly-pro1-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:49:51 -0400
+
+
+
+## [Linux] Pixel XL lineage-21.0-20240810-nightly-marlin-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=cac92e8ab33bd63f81d65d4a1099e61304dc974c&f=Pixel%20XL%20lineage-21.0-20240810-nightly-marlin-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:49:11 -0400
+
+
+
+## [Linux] Pixel Tablet lineage-21.0-20240807-nightly-tangorpro-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=1ff348a9888be62c50122f52f1efdc7610dc0d94&f=Pixel%20Tablet%20lineage-21.0-20240807-nightly-tangorpro-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:48:34 -0400
+
+
+
+## [Linux] Pixel lineage-21.0-20240811-nightly-sailfish-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=dc434a05ddadba76b977a0a7fd819908e714e320&f=Pixel%20lineage-21.0-20240811-nightly-sailfish-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:47:47 -0400
+
+
+
+## [Linux] Pixel Fold lineage-21.0-20240808-nightly-felix-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=1e88753e6a5ecfebf634eccb8d39ec42c12321d6&f=Pixel%20Fold%20lineage-21.0-20240808-nightly-felix-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:47:11 -0400
+
+
+
+## [Linux] Pixel 8a lineage-21.0-20240807-nightly-akita-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=9482e10ef43083978c64b1050a3d96b399abef42&f=Pixel%208a%20lineage-21.0-20240807-nightly-akita-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:46:02 -0400
+
+
+
+## [Linux] Pixel 8 Pro lineage-21.0-20240809-nightly-husky-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=7cfd52e4b38128c803c179e51eff352bd46e99dd&f=Pixel%208%20Pro%20lineage-21.0-20240809-nightly-husky-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:45:28 -0400
+
+
+
+## [Alpine Linux] Alpine Standard 3 20 2 x86 64 ISO (MULTI)
+[link](https://linuxtracker.org/download.php?id=01eeba6df78f87b95e2f60f64220f9a60e67b35a&f=Alpine%20Standard%203%2020%202%20x86%2064%20ISO.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:44:56 -0400
+
+
+
+## [Linux] Pixel 8 lineage-21.0-20240811-nightly-shiba-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=fd81ad4534c1ccc071572d058d67ee5d6d615260&f=Pixel%208%20lineage-21.0-20240811-nightly-shiba-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:44:54 -0400
+
+
+
+## [Linux] Pixel 7a lineage-21.0-20240809-nightly-lynx-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=3c7d1785c3cf5af32eb03faf6c3294e7028a7216&f=Pixel%207a%20lineage-21.0-20240809-nightly-lynx-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:44:07 -0400
+
+
+
+## [Linux] Pixel 7 Pro lineage-21.0-20240806-nightly-cheetah-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=522c9fe23c7b9b689390d603fd6d89311d197356&f=Pixel%207%20Pro%20lineage-21.0-20240806-nightly-cheetah-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:43:15 -0400
+
+
+
+## [Linux] Pixel 7 lineage-21.0-20240809-nightly-panther-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=c2ea17a3780048288fd562b12b50d3c5d15fd08a&f=Pixel%207%20lineage-21.0-20240809-nightly-panther-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:41:48 -0400
+
+
+
+## [Linux] Pixel 6a lineage-21.0-20240810-nightly-bluejay-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=3750fd1aa5f0a1cea0c6ac242bd05ecf22eda505&f=Pixel%206a%20lineage-21.0-20240810-nightly-bluejay-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:31:49 -0400
+
+
+
+## [Linux] Pixel 6 Pro lineage-21.0-20240812-nightly-raven-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=6bd973b7e2ea58a812eeab2ce52399e3f518386d&f=Pixel%206%20Pro%20lineage-21.0-20240812-nightly-raven-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:31:08 -0400
+
+
+
+## [Linux] Pixel 6 lineage-21.0-20240812-nightly-oriole-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=9d628a6ce06b04092d0cf05d8e37ed2ca140a1c1&f=Pixel%206%20lineage-21.0-20240812-nightly-oriole-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 17 Aug 2024 03:30:30 -0400
+
+
+
 ## [Linux] Pixel 5a lineage-21.0-20240809-nightly-barbet-signed (MULTI)
 [link](https://linuxtracker.org/download.php?id=c9f30fce9f16fd5f86939c1ef73db7f82a4d5e28&f=Pixel%205a%20lineage-21.0-20240809-nightly-barbet-signed.torrent&rsspid=00000000000000000000000000000000)
 
@@ -200,151 +347,4 @@ last updated: Thu, 15 Aug 2024 00:59:57 -0400
 [link](https://linuxtracker.org/download.php?id=9a78cbb54945ec4611fcff2757bf3994be8da5d0&f=Aquaris%20X%20Pro%20lineage-20.0-20240810-nightly-bardockpro-signed.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Thu, 15 Aug 2024 00:58:27 -0400
-
-
-
-## [Linux] Aquaris X lineage-20.0-20240805-nightly-bardock-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=9da26c9f047d2aba13a01777324e754920612551&f=Aquaris%20X%20lineage-20.0-20240805-nightly-bardock-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 00:57:41 -0400
-
-
-
-## [Linux] 10.or lineage-20.0-20240808-nightly-G-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=fb90cf4ebdc8cf50adea874f7721fd8d3a914177&f=10.or%20lineage-20.0-20240808-nightly-G-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 00:57:05 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 arm64 PinebookPro EN Full (MULTI)
-[link](https://linuxtracker.org/download.php?id=f0f2f42c164bb5b528859a03fcb1c3aa9f542994&f=EndlessOS%206.0.2%20arm64%20PinebookPro%20EN%20Full.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:42:18 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 arm64 PinebookPro Base Full (MULTI)
-[link](https://linuxtracker.org/download.php?id=5b0ce9998f027af068b2eedbd41fab0bc9b372ae&f=EndlessOS%206.0.2%20arm64%20PinebookPro%20Base%20Full.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:40:09 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 arm64 Raspberry Pi 4 Base Full (MULTI)
-[link](https://linuxtracker.org/download.php?id=0921d915d49c9e89f43f126c39598a99456a8574&f=EndlessOS%206.0.2%20arm64%20Raspberry%20Pi%204%20Base%20Full.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:36:24 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 arm64 Raspberry Pi 4 EN Full (MULTI)
-[link](https://linuxtracker.org/download.php?id=5f398cdd8dc491e6887de2ae9160d1d392bd91b0&f=EndlessOS%206.0.2%20arm64%20Raspberry%20Pi%204%20EN%20Full.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:34:06 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 amd64 EN OVF (MULTI)
-[link](https://linuxtracker.org/download.php?id=71ec55fa4a99759d3bda7e4aeed3ba614839a2d2&f=EndlessOS%206.0.2%20amd64%20EN%20OVF.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:30:13 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 amd64 Base OVF (MULTI)
-[link](https://linuxtracker.org/download.php?id=1ffe707e1fb1d4a898a1d3e36e558cc9cea548a3&f=EndlessOS%206.0.2%20amd64%20Base%20OVF.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:29:03 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 amd64 ES ISO (MULTI)
-[link](https://linuxtracker.org/download.php?id=88df81bc8aef9b188b23bed197d4bd62b4a71174&f=EndlessOS%206.0.2%20amd64%20ES%20ISO.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:28:06 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 amd64 FR ISO (MULTI)
-[link](https://linuxtracker.org/download.php?id=2e64df5fde6943c75eb74ad1b247f3cefdb6dc33&f=EndlessOS%206.0.2%20amd64%20FR%20ISO.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:26:15 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 amd64 EN ISO (MULTI)
-[link](https://linuxtracker.org/download.php?id=044cbe7845269707e231e20f5eda075aa4c4eee9&f=EndlessOS%206.0.2%20amd64%20EN%20ISO.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:25:07 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 amd64 PT BR ISO (MULTI)
-[link](https://linuxtracker.org/download.php?id=d6405588578c414cd928eef714028707f952626b&f=EndlessOS%206.0.2%20amd64%20PT%20BR%20ISO.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:20:13 -0400
-
-
-
-## [Endless OS] EndlessOS 6.0.2 amd64 Base ISO (MULTI)
-[link](https://linuxtracker.org/download.php?id=a79bae1604b8f5dc45bf1d71cc495c809ff7f2cc&f=EndlessOS%206.0.2%20amd64%20Base%20ISO.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:16:02 -0400
-
-
-
-## [Manjaro] manjaro-sway-24.0.1-240811-linux66.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=2ff0215a1ca10d42c9b26d63efc5d1c146260580&f=manjaro-sway-24.0.1-240811-linux66.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:11:32 -0400
-
-
-
-## [Manjaro] manjaro-i3-24.0.5-minimal-240729-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=199572246e47a781fa7ad491abd1703d07028803&f=manjaro-i3-24.0.5-minimal-240729-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:08:23 -0400
-
-
-
-## [Manjaro] manjaro-i3-24.0.5-240729-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=e21f4c809cee69afe2415afa67ff2422abce83be&f=manjaro-i3-24.0.5-240729-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 16:05:27 -0400
-
-
-
-## [Manjaro] manjaro-cinnamon-24.0.5-minimal-240729-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=69a1bc84fdb4728e18f29b3c0a4cc0e78db8a625&f=manjaro-cinnamon-24.0.5-minimal-240729-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 15:58:05 -0400
-
-
-
-## [Manjaro] manjaro-cinnamon-24.0.5-240729-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=1d972ff575e8ee26c4443ce7b1e0e645115a956d&f=manjaro-cinnamon-24.0.5-240729-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 15:57:21 -0400
-
-
-
-## [Manjaro] manjaro-gnome-24.0.5-minimal-240730-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=0a22be617a15103502d761de5ba3ec8300e75586&f=manjaro-gnome-24.0.5-minimal-240730-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 15:56:20 -0400
-
-
-
-## [Manjaro] manjaro-gnome-24.0.5-240730-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=12a6c0a8cf33e868a7e4ed2346e109f1090fa670&f=manjaro-gnome-24.0.5-240730-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 15:54:13 -0400
-
-
-
-## [Manjaro] manjaro-xfce-24.0.5-minimal-240730-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=5c7682d5de14121b4bca2dd71b18b14853a2cbad&f=manjaro-xfce-24.0.5-minimal-240730-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 14 Aug 2024 15:20:06 -0400
 
