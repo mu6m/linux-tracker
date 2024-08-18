@@ -1,7 +1,7 @@
 # Linux Torrents Tracker
 
-## [Bluestar Linux] bslx-6.10.5-1-2024.08.16-x86_64.torrent (MULTI)
-[link](https://linuxtracker.org/download.php?id=7ece93d3d88763509216339a2dec2dcbe2b035d5&f=bslx-6.10.5-1-2024.08.16-x86_64.torrent.torrent&rsspid=00000000000000000000000000000000)
+## [Bluestar Linux] Bluestar Linux - 6.10.5-1 2024.08.16 - x86_64 (MULTI)
+[link](https://linuxtracker.org/download.php?id=7ece93d3d88763509216339a2dec2dcbe2b035d5&f=Bluestar%20Linux%20-%206.10.5-1%202024.08.16%20-%20x86_64.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 18 Aug 2024 15:28:43 -0400
 
