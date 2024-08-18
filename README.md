@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Bluestar Linux] bslx-6.10.5-1-2024.08.16-x86_64.torrent (MULTI)
+[link](https://linuxtracker.org/download.php?id=7ece93d3d88763509216339a2dec2dcbe2b035d5&f=bslx-6.10.5-1-2024.08.16-x86_64.torrent.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 18 Aug 2024 15:28:43 -0400
+
+
+
 ## [Linux] Zenphone8 lineage-20.0-20240806-nightly-sake-signed (MULTI)
 [link](https://linuxtracker.org/download.php?id=784eec92ac9b6b58bb20270f14c46f1d4e9a41f3&f=Zenphone8%20lineage-20.0-20240806-nightly-sake-signed.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Thu, 15 Aug 2024 01:00:32 -0400
 [link](https://linuxtracker.org/download.php?id=b86b3ffe2bfcb8882e15bc5b775737494002ac5f&f=Aquaris%20X2%20lineage-20.0-20240805-nightly-zangya-signed.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Thu, 15 Aug 2024 00:59:57 -0400
-
-
-
-## [Linux] Aquaris X Pro lineage-20.0-20240810-nightly-bardockpro-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=9a78cbb54945ec4611fcff2757bf3994be8da5d0&f=Aquaris%20X%20Pro%20lineage-20.0-20240810-nightly-bardockpro-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 00:58:27 -0400
 
