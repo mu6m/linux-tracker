@@ -1,5 +1,54 @@
 # Linux Torrents Tracker
 
+## [Linux] Odroid C4 lineage-21.0-20240813-nightly-odroidc4_tab-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=fde3ee200952ad937919afb704212465d6bcb6c2&f=Odroid%20C4%20lineage-21.0-20240813-nightly-odroidc4_tab-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 01:04:03 -0400
+
+
+
+## [Linux] Odroid C4 Android TV lineage-21.0-20240814-nightly-odroidc4-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=121c332842db33a09dd2c401dc76a5549f65b263&f=Odroid%20C4%20Android%20TV%20lineage-21.0-20240814-nightly-odroidc4-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 01:03:31 -0400
+
+
+
+## [Linux] V40 ThinQ lineage-21.0-20240815-nightly-judypn-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=1ee27317b22d79fc864833ea2fbbc474cf31b5a7&f=V40%20ThinQ%20lineage-21.0-20240815-nightly-judypn-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 01:02:42 -0400
+
+
+
+## [Linux] V35 ThinQ lineage-21.0-20240815-nightly-judyp-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=0762ba510cf04390d8e6fe6f99fcbcfe83401219&f=V35%20ThinQ%20lineage-21.0-20240815-nightly-judyp-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 01:02:05 -0400
+
+
+
+## [Linux] V30 Unlocked, T-Mobile, Other (MULTI)
+[link](https://linuxtracker.org/download.php?id=7ce657a66b163a33d0d1883861d8f4154ffb3d44&f=V30%20Unlocked%2C%20T-Mobile%2C%20Other.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 01:01:30 -0400
+
+
+
+## [Linux] G8X ThinQ G850EM,EMW,QM,UM,V50S ThinQ (MULTI)
+[link](https://linuxtracker.org/download.php?id=2a926f3b17ad77a1230980401c516c78b1ec4771&f=G8X%20ThinQ%20G850EM%2CEMW%2CQM%2CUM%2CV50S%20ThinQ.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 01:00:49 -0400
+
+
+
+## [Linux] G8s ThinQ lineage-20.0-20240811-nightly-betalm-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=26c82a7a35530d7dfd4bfe030eba250132c7e8b2&f=G8s%20ThinQ%20lineage-20.0-20240811-nightly-betalm-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 01:00:15 -0400
+
+
+
 ## [Linux] G8 ThinQ Korea lineage-20.0-20240814-nightly-alphaplus-signed (MULTI)
 [link](https://linuxtracker.org/download.php?id=d342a33d2af1e5cf1e21f93d9390874ad0eedece&f=G8%20ThinQ%20Korea%20lineage-20.0-20240814-nightly-alphaplus-signed.torrent&rsspid=00000000000000000000000000000000)
 
@@ -298,53 +347,4 @@ last updated: Sat, 17 Aug 2024 03:09:41 -0400
 [link](https://linuxtracker.org/download.php?id=c69725a0710a0ce818f4ddf3636deb249b759af4&f=sparkylinux-2024.08-x86_64-kde.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 16 Aug 2024 12:40:34 -0400
-
-
-
-## [Tails] tails-amd64-6.6-iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=a1790d8bf06e2d9794b2307e6cf3df20cd3e2947&f=tails-amd64-6.6-iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 16 Aug 2024 01:03:00 -0400
-
-
-
-## [Tails] tails-amd64-6.6-img (MULTI)
-[link](https://linuxtracker.org/download.php?id=c9301d1022756a68c0e5733b49f1bcef419588c4&f=tails-amd64-6.6-img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 16 Aug 2024 01:02:26 -0400
-
-
-
-## [Manjaro] manjaro-kde-24.0.6-240812-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=02782633f26fa3aa744a3bd7d0bc1ad33d2b50cf&f=manjaro-kde-24.0.6-240812-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 21:29:00 -0400
-
-
-
-## [Manjaro] manjaro-gnome-24.0.6-240812-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=83ac126d34234e3dd87b11ca054cde42d25a4cd3&f=manjaro-gnome-24.0.6-240812-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 21:28:53 -0400
-
-
-
-## [Manjaro] manjaro-xfce-24.0.6-240812-linux69.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=86704285c44a603c446127695682357233a2c81e&f=manjaro-xfce-24.0.6-240812-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 21:28:51 -0400
-
-
-
-## [Linux] PH-1 lineage-21.0-20240810-nightly-mata-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=7cb7a6811482207c017b32ad88ac23bf54d075ff&f=PH-1%20lineage-21.0-20240810-nightly-mata-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 01:05:03 -0400
-
-
-
-## [Linux] M5 (Tablet) lineage-21.0-20240809-nightly-m5_tab-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=967ad2ce31018a43021f39378b44f3db29e5f339&f=M5%20%28Tablet%29%20lineage-21.0-20240809-nightly-m5_tab-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 01:04:23 -0400
 
