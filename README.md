@@ -1,5 +1,47 @@
 # Linux Torrents Tracker
 
+## [Linux] G8 ThinQ Korea lineage-20.0-20240814-nightly-alphaplus-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=d342a33d2af1e5cf1e21f93d9390874ad0eedece&f=G8%20ThinQ%20Korea%20lineage-20.0-20240814-nightly-alphaplus-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 00:59:42 -0400
+
+
+
+## [Linux] G7 ThinQ G710ULM, VMXlineage-21.0-20240810-nightly-g710ulm-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=11572c3fe1fd7555e5ed8567502d3c88f829b944&f=G7%20ThinQ%20G710ULM%2C%20VMXlineage-21.0-20240810-nightly-g710ulm-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 00:58:21 -0400
+
+
+
+## [Linux] G7 ThinQ G710N lineage-21.0-20240813-nightly-g710n-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=cc9a2d7a440d49d3fae2f0b315164627b28f1bf6&f=G7%20ThinQ%20G710N%20lineage-21.0-20240813-nightly-g710n-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 00:57:39 -0400
+
+
+
+## [Linux] G7 ThinQ G710AWM,EM,EMW,G7+ ThinQ lineage-21.0-20240811-nightly-judyln-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=21d491e036c6c2c2551c14c634eef932f1940e47&f=G7%20ThinQ%20G710AWM%2CEM%2CEMW%2CG7%2B%20ThinQ%20lineage-21.0-20240811-nightly-judyln-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 00:56:51 -0400
+
+
+
+## [Linux] Z6 Pro lineage-21.0-20240816-nightly-zippo-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=0adb8c699397673727dda5a1f41ca565c8e9ec62&f=Z6%20Pro%20lineage-21.0-20240816-nightly-zippo-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 00:56:11 -0400
+
+
+
+## [Linux] Z5 Pro GT lineage-21.0-20240811-nightly-heart-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=c1afd0c16e235c29f2e26d40f67be82d24518a66&f=Z5%20Pro%20GT%20lineage-21.0-20240811-nightly-heart-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 00:55:34 -0400
+
+
+
 ## [Bluestar Linux] Bluestar Linux - 6.10.5-1 2024.08.16 - x86_64 (MULTI)
 [link](https://linuxtracker.org/download.php?id=7ece93d3d88763509216339a2dec2dcbe2b035d5&f=Bluestar%20Linux%20-%206.10.5-1%202024.08.16%20-%20x86_64.torrent&rsspid=00000000000000000000000000000000)
 
@@ -305,46 +347,4 @@ last updated: Thu, 15 Aug 2024 01:05:03 -0400
 [link](https://linuxtracker.org/download.php?id=967ad2ce31018a43021f39378b44f3db29e5f339&f=M5%20%28Tablet%29%20lineage-21.0-20240809-nightly-m5_tab-signed.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Thu, 15 Aug 2024 01:04:23 -0400
-
-
-
-## [Linux] M5 (Android TV) lineage-21.0-20240811-nightly-m5-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=61684bed0e9c67977ff46d6d5db2aca87fbccc36&f=M5%20%28Android%20TV%29%20lineage-21.0-20240811-nightly-m5-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 01:03:50 -0400
-
-
-
-## [Linux] Fairphone 5 lineage-21.0-20240806-nightly-FP5-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=b4912cba2082efeacbe89d38934a3e4588d3ba44&f=Fairphone%205%20lineage-21.0-20240806-nightly-FP5-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 01:02:51 -0400
-
-
-
-## [Linux] Fairphone 4 lineage-21.0-20240807-nightly-FP4-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=19dfb245c33338fc589f682867bd27b3ad2a05d6&f=Fairphone%204%20lineage-21.0-20240807-nightly-FP4-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 01:02:17 -0400
-
-
-
-## [Linux] Fairphone 3,3+ lineage-21.0-20240807-nightly-FP3-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=cad296f3b47363a90ea75e4c4615691d434a521b&f=Fairphone%203%2C3%2B%20lineage-21.0-20240807-nightly-FP3-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 01:01:40 -0400
-
-
-
-## [Linux] Aquaris X2 Pro lineage-20.0-20240807-nightly-zangyapro-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=3e7d255c1fdd95e9d79629c33301033e74d098ac&f=Aquaris%20X2%20Pro%20lineage-20.0-20240807-nightly-zangyapro-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 01:00:32 -0400
-
-
-
-## [Linux] Aquaris X2 lineage-20.0-20240805-nightly-zangya-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=b86b3ffe2bfcb8882e15bc5b775737494002ac5f&f=Aquaris%20X2%20lineage-20.0-20240805-nightly-zangya-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 15 Aug 2024 00:59:57 -0400
 
