@@ -1,5 +1,26 @@
 # Linux Torrents Tracker
 
+## [Bluestar Linux] bslx-6.10.5-1-2024.08.16-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=5b636a5c7d6728f15f949c056316e1c666cede93&f=bslx-6.10.5-1-2024.08.16-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 01:04:22 -0400
+
+
+
+## [Extix] extix-deepin-24.8-refractasnapshot-4040mb-240816.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=37ddd51eedd8eb2e9dd09a6a5de168ce195af082&f=extix-deepin-24.8-refractasnapshot-4040mb-240816.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 01:02:32 -0400
+
+
+
+## [Linux] cachyos-handheld-linux-240818.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=3653852ebedc19968ddaee8f953b61938ec6eee7&f=cachyos-handheld-linux-240818.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 01:00:18 -0400
+
+
+
 ## [Linux] cachyos-desktop-linux-240818.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=e701bbb86587eec1f92f1ca92f677c9b874657be&f=cachyos-desktop-linux-240818.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -326,25 +347,4 @@ last updated: Mon, 19 Aug 2024 01:00:15 -0400
 [link](https://linuxtracker.org/download.php?id=d342a33d2af1e5cf1e21f93d9390874ad0eedece&f=G8%20ThinQ%20Korea%20lineage-20.0-20240814-nightly-alphaplus-signed.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 19 Aug 2024 00:59:42 -0400
-
-
-
-## [Linux] G7 ThinQ G710ULM, VMXlineage-21.0-20240810-nightly-g710ulm-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=11572c3fe1fd7555e5ed8567502d3c88f829b944&f=G7%20ThinQ%20G710ULM%2C%20VMXlineage-21.0-20240810-nightly-g710ulm-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 00:58:21 -0400
-
-
-
-## [Linux] G7 ThinQ G710N lineage-21.0-20240813-nightly-g710n-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=cc9a2d7a440d49d3fae2f0b315164627b28f1bf6&f=G7%20ThinQ%20G710N%20lineage-21.0-20240813-nightly-g710n-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 00:57:39 -0400
-
-
-
-## [Linux] G7 ThinQ G710AWM,EM,EMW,G7+ ThinQ lineage-21.0-20240811-nightly-judyln-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=21d491e036c6c2c2551c14c634eef932f1940e47&f=G7%20ThinQ%20G710AWM%2CEM%2CEMW%2CG7%2B%20ThinQ%20lineage-21.0-20240811-nightly-judyln-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 00:56:51 -0400
 
