@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Linux] cachyos-desktop-linux-240818.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=2be80eaf78cc15e013cb563b9fa2c38813bb62fb&f=cachyos-desktop-linux-240818.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 19 Aug 2024 21:04:01 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-BETA3-amd64-memstick.img (MULTI)
 [link](https://linuxtracker.org/download.php?id=dd91df6e2bba88c8fbc6468b98c3e03b1d92d559&f=FreeBSD-13.4-BETA3-amd64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Sat, 17 Aug 2024 03:52:50 -0400
 [link](https://linuxtracker.org/download.php?id=b98d5956442eb13b836a94a42bd3015325239468&f=Zenphone%20Max%20Pro%20M1%20lineage-20.0-20240810-nightly-X00TD-signed.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sat, 17 Aug 2024 03:52:14 -0400
-
-
-
-## [FreeNAS] TrueNAS-13.3-RELEASE.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=b2cc16f5cb348bb17d4a250cf75477d25e7519c3&f=TrueNAS-13.3-RELEASE.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 17 Aug 2024 03:52:04 -0400
 
