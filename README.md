@@ -1,5 +1,33 @@
 # Linux Torrents Tracker
 
+## [Deepin] deepin-desktop-community-23-amd64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=524911e018e3ec38945900b6768fa323c644a595&f=deepin-desktop-community-23-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 14:59:31 -0400
+
+
+
+## [Deepin] deepin-desktop-community-23-loong64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=0283eece97ffd4e5cff911283bd61efd937994f7&f=deepin-desktop-community-23-loong64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 14:56:51 -0400
+
+
+
+## [RegataOS] regata-os-24-en-us-24.0.8 (MULTI)
+[link](https://linuxtracker.org/download.php?id=c6403de072fc9a940e8ec07e0051364ddc2d54b5&f=regata-os-24-en-us-24.0.8.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 14:49:36 -0400
+
+
+
+## [RegataOS] regata-os-24-nv-en-us-24.0.8 (MULTI)
+[link](https://linuxtracker.org/download.php?id=46425e82eb2a78574c36c7aaa962ed3dc991f1d1&f=regata-os-24-nv-en-us-24.0.8.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 14:48:55 -0400
+
+
+
 ## [Bluestar Linux] bslx-6.10.5-1-2024.08.16-x86_64.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=5b636a5c7d6728f15f949c056316e1c666cede93&f=bslx-6.10.5-1-2024.08.16-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -319,32 +347,4 @@ last updated: Mon, 19 Aug 2024 01:02:42 -0400
 [link](https://linuxtracker.org/download.php?id=0762ba510cf04390d8e6fe6f99fcbcfe83401219&f=V35%20ThinQ%20lineage-21.0-20240815-nightly-judyp-signed.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 19 Aug 2024 01:02:05 -0400
-
-
-
-## [Linux] V30 Unlocked, T-Mobile, Other (MULTI)
-[link](https://linuxtracker.org/download.php?id=7ce657a66b163a33d0d1883861d8f4154ffb3d44&f=V30%20Unlocked%2C%20T-Mobile%2C%20Other.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 01:01:30 -0400
-
-
-
-## [Linux] G8X ThinQ G850EM,EMW,QM,UM,V50S ThinQ (MULTI)
-[link](https://linuxtracker.org/download.php?id=2a926f3b17ad77a1230980401c516c78b1ec4771&f=G8X%20ThinQ%20G850EM%2CEMW%2CQM%2CUM%2CV50S%20ThinQ.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 01:00:49 -0400
-
-
-
-## [Linux] G8s ThinQ lineage-20.0-20240811-nightly-betalm-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=26c82a7a35530d7dfd4bfe030eba250132c7e8b2&f=G8s%20ThinQ%20lineage-20.0-20240811-nightly-betalm-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 01:00:15 -0400
-
-
-
-## [Linux] G8 ThinQ Korea lineage-20.0-20240814-nightly-alphaplus-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=d342a33d2af1e5cf1e21f93d9390874ad0eedece&f=G8%20ThinQ%20Korea%20lineage-20.0-20240814-nightly-alphaplus-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 00:59:42 -0400
 
