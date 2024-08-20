@@ -1,6 +1,41 @@
 # Linux Torrents Tracker
 
 ## [Linux] cachyos-desktop-linux-240818.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=e701bbb86587eec1f92f1ca92f677c9b874657be&f=cachyos-desktop-linux-240818.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 00:59:35 -0400
+
+
+
+## [Fatdog64 Linux] Fatdog64-903.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=e3129870188057df753fb8f487c23d891a4737aa&f=Fatdog64-903.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 00:57:25 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-BETA3-amd64-bootonly.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=9c3dbeeac09e9779338873e9f1a1948ce2465aeb&f=FreeBSD-13.4-BETA3-amd64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 00:54:23 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-BETA3-amd64-disc1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=f8ee60e32775301196425076f7c0938e816a7526&f=FreeBSD-13.4-BETA3-amd64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 00:53:43 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-BETA3-amd64-dvd1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=5d917fe63a1c0b2e2b6041a9f4e641bc1cd830b6&f=FreeBSD-13.4-BETA3-amd64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 00:53:11 -0400
+
+
+
+## [Linux] cachyos-desktop-linux-240818.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=2be80eaf78cc15e013cb563b9fa2c38813bb62fb&f=cachyos-desktop-linux-240818.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 19 Aug 2024 21:04:01 -0400
@@ -312,39 +347,4 @@ last updated: Mon, 19 Aug 2024 00:57:39 -0400
 [link](https://linuxtracker.org/download.php?id=21d491e036c6c2c2551c14c634eef932f1940e47&f=G7%20ThinQ%20G710AWM%2CEM%2CEMW%2CG7%2B%20ThinQ%20lineage-21.0-20240811-nightly-judyln-signed.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 19 Aug 2024 00:56:51 -0400
-
-
-
-## [Linux] Z6 Pro lineage-21.0-20240816-nightly-zippo-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=0adb8c699397673727dda5a1f41ca565c8e9ec62&f=Z6%20Pro%20lineage-21.0-20240816-nightly-zippo-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 00:56:11 -0400
-
-
-
-## [Linux] Z5 Pro GT lineage-21.0-20240811-nightly-heart-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=c1afd0c16e235c29f2e26d40f67be82d24518a66&f=Z5%20Pro%20GT%20lineage-21.0-20240811-nightly-heart-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 00:55:34 -0400
-
-
-
-## [Bluestar Linux] Bluestar Linux - 6.10.5-1 2024.08.16 - x86_64 (MULTI)
-[link](https://linuxtracker.org/download.php?id=7ece93d3d88763509216339a2dec2dcbe2b035d5&f=Bluestar%20Linux%20-%206.10.5-1%202024.08.16%20-%20x86_64.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 18 Aug 2024 15:28:43 -0400
-
-
-
-## [Linux] Zenphone8 lineage-20.0-20240806-nightly-sake-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=784eec92ac9b6b58bb20270f14c46f1d4e9a41f3&f=Zenphone8%20lineage-20.0-20240806-nightly-sake-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 17 Aug 2024 03:52:50 -0400
-
-
-
-## [Linux] Zenphone Max Pro M1 lineage-20.0-20240810-nightly-X00TD-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=b98d5956442eb13b836a94a42bd3015325239468&f=Zenphone%20Max%20Pro%20M1%20lineage-20.0-20240810-nightly-X00TD-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 17 Aug 2024 03:52:14 -0400
 
