@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Debian] Dr.Parted-Live24.08-amd64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=4656d39167f304371c615ebe284ce5acd50d1ae6&f=Dr.Parted-Live24.08-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 20 Aug 2024 17:39:47 -0400
+
+
+
 ## [Deepin] deepin-desktop-community-23-amd64.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=524911e018e3ec38945900b6768fa323c644a595&f=deepin-desktop-community-23-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Mon, 19 Aug 2024 01:03:31 -0400
 [link](https://linuxtracker.org/download.php?id=1ee27317b22d79fc864833ea2fbbc474cf31b5a7&f=V40%20ThinQ%20lineage-21.0-20240815-nightly-judypn-signed.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 19 Aug 2024 01:02:42 -0400
-
-
-
-## [Linux] V35 ThinQ lineage-21.0-20240815-nightly-judyp-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=0762ba510cf04390d8e6fe6f99fcbcfe83401219&f=V35%20ThinQ%20lineage-21.0-20240815-nightly-judyp-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 01:02:05 -0400
 
