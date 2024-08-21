@@ -1,5 +1,54 @@
 # Linux Torrents Tracker
 
+## [Linux] Motorola Moto G Power 2021 lineage-21.0-20240817-nightly-borneo-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=b6412937caa1a888273122f246b3cf2ea3573dc3&f=Motorola%20Moto%20G%20Power%202021%20lineage-21.0-20240817-nightly-borneo-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 00:59:25 -0400
+
+
+
+## [Linux] Motorola Edge S, Moto G100 lineage-21.0-20240812-nightly-nio-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=fec5601611e1aeb4226c26a921533b8eeee9941d&f=Motorola%20Edge%20S%2C%20Moto%20G100%20lineage-21.0-20240812-nightly-nio-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 00:58:42 -0400
+
+
+
+## [Linux] Motorola Edge 30 lineage-21.0-20240816-nightly-dubai-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=b746326572989e683d934e5836c05fc2a8e44d2c&f=Motorola%20Edge%2030%20lineage-21.0-20240816-nightly-dubai-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 00:58:04 -0400
+
+
+
+## [Linux] Motrola Edge 2021 lineage-21.0-20240814-nightly-berlna-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=0d18922e1a53360c55950eff1834f7499df65c62&f=Motrola%20Edge%202021%20lineage-21.0-20240814-nightly-berlna-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 00:57:24 -0400
+
+
+
+## [Linux] Motorola Edge 20 Pro lineage-21.0-20240812-nightly-pstar-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=ee4971b8dd5f0c7d9ccde7791e746f44ea0cbe7c&f=Motorola%20Edge%2020%20Pro%20lineage-21.0-20240812-nightly-pstar-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 00:56:26 -0400
+
+
+
+## [Linux] Motorola Edge 20 lineage-21.0-20240810-nightly-berlin-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=72f5dc00a55521df02ffbc2f9a6c650c1a454e16&f=Motorola%20Edge%2020%20lineage-21.0-20240810-nightly-berlin-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 00:53:59 -0400
+
+
+
+## [Linux] Motorola Edge lineage-21.0-20240815-nightly-racer-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=2b0734277438f595cec072cb5f0a6606bb4bfa7c&f=Motorola%20Edge%20lineage-21.0-20240815-nightly-racer-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 00:53:22 -0400
+
+
+
 ## [Debian] Dr.Parted-Live24.08-amd64.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=4656d39167f304371c615ebe284ce5acd50d1ae6&f=Dr.Parted-Live24.08-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -298,53 +347,4 @@ last updated: Mon, 19 Aug 2024 15:41:10 -0400
 [link](https://linuxtracker.org/download.php?id=79ed8a77d81c8af882eebe1eeaaf157ffbe4bd9c&f=FreeBSD-13.4-BETA3-riscv-riscv64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 19 Aug 2024 15:40:28 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-riscv-riscv64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=411b43fa013f82ee409ac628428d519cb90c092c&f=FreeBSD-13.4-BETA3-riscv-riscv64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:39:53 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-riscv-riscv64-GENERICSD.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=b0674bad65967cd530d6a0a9dd79aab5b64e9fb3&f=FreeBSD-13.4-BETA3-riscv-riscv64-GENERICSD.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:38:48 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-riscv-riscv64-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=3aad0f64c5ef7d4a2b7206d1b161319229396ed9&f=FreeBSD-13.4-BETA3-riscv-riscv64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:38:08 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-riscv-riscv64-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=9b422b87dbb157f1a132201bdbfa7d2a6ffb2bd2&f=FreeBSD-13.4-BETA3-riscv-riscv64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:37:18 -0400
-
-
-
-## [Linux] Odroid C4 lineage-21.0-20240813-nightly-odroidc4_tab-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=fde3ee200952ad937919afb704212465d6bcb6c2&f=Odroid%20C4%20lineage-21.0-20240813-nightly-odroidc4_tab-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 01:04:03 -0400
-
-
-
-## [Linux] Odroid C4 Android TV lineage-21.0-20240814-nightly-odroidc4-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=121c332842db33a09dd2c401dc76a5549f65b263&f=Odroid%20C4%20Android%20TV%20lineage-21.0-20240814-nightly-odroidc4-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 01:03:31 -0400
-
-
-
-## [Linux] V40 ThinQ lineage-21.0-20240815-nightly-judypn-signed (MULTI)
-[link](https://linuxtracker.org/download.php?id=1ee27317b22d79fc864833ea2fbbc474cf31b5a7&f=V40%20ThinQ%20lineage-21.0-20240815-nightly-judypn-signed.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 01:02:42 -0400
 
