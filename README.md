@@ -1,5 +1,47 @@
 # Linux Torrents Tracker
 
+## [Linux] Motorola Moto x4 lineage-21.0-20240817-nightly-payton-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=f4173393a112006fe4017e3c3a502dcfc6977573&f=Motorola%20Moto%20x4%20lineage-21.0-20240817-nightly-payton-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 01:04:59 -0400
+
+
+
+## [Linux] Motorola Moto G7 Play lineage-21.0-20240814-nightly-channel-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=519fece21c9451381318f882cff2a647c6c1fea9&f=Motorola%20Moto%20G7%20Play%20lineage-21.0-20240814-nightly-channel-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 01:04:06 -0400
+
+
+
+## [Linux] Motorola Moto G32 lineage-21.0-20240817-nightly-devon-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=d80b05df615da32b6c2966d84cc0f86a2bde49af&f=Motorola%20Moto%20G32%20lineage-21.0-20240817-nightly-devon-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 01:03:19 -0400
+
+
+
+## [Linux] Motorola Moto G42 lineage-21.0-20240813-nightly-hawao-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=cd2129c6e92d434317f2a207784212decb99a114&f=Motorola%20Moto%20G42%20lineage-21.0-20240813-nightly-hawao-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 01:02:41 -0400
+
+
+
+## [Linux] Motorola Moto G52 lineage-21.0-20240817-nightly-rhode-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=1000ff8c97bca97725b53c591bb59733141b67de&f=Motorola%20Moto%20G52%20lineage-21.0-20240817-nightly-rhode-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 01:01:28 -0400
+
+
+
+## [Linux] Motorola Moto G7 lineage-21.0-20240817-nightly-river-signed (MULTI)
+[link](https://linuxtracker.org/download.php?id=a3b199b60425276d95faf9e152efc2402637b628&f=Motorola%20Moto%20G7%20lineage-21.0-20240817-nightly-river-signed.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 01:00:42 -0400
+
+
+
 ## [Linux] Motorola Moto G Power 2021 lineage-21.0-20240817-nightly-borneo-signed (MULTI)
 [link](https://linuxtracker.org/download.php?id=b6412937caa1a888273122f246b3cf2ea3573dc3&f=Motorola%20Moto%20G%20Power%202021%20lineage-21.0-20240817-nightly-borneo-signed.torrent&rsspid=00000000000000000000000000000000)
 
@@ -305,46 +347,4 @@ last updated: Mon, 19 Aug 2024 15:46:01 -0400
 [link](https://linuxtracker.org/download.php?id=fab5b2920db82e3acc8556f22b86e2bf5c3e1bcd&f=FreeBSD-13.4-BETA3-powerpc-powerpc64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 19 Aug 2024 15:44:50 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-powerpc-powerpc64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=07bf5afaf4e12858c65cc70d361d1b180fe6e812&f=FreeBSD-13.4-BETA3-powerpc-powerpc64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:44:02 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-powerpc-powerpc64le-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9ef5a1c8b2c00cb55baf7237012577ed7991e3ff&f=FreeBSD-13.4-BETA3-powerpc-powerpc64le-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:43:14 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-powerpc-powerpc64le-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=23c77c9748e99c757d1a3da9a23fa676ab8662b2&f=FreeBSD-13.4-BETA3-powerpc-powerpc64le-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:42:23 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-powerpc-powerpcspe-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=ee01115c4d17c64c460ccfc92e3be2edf3fc7870&f=FreeBSD-13.4-BETA3-powerpc-powerpcspe-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:41:46 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-powerpc-powerpcspe-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9c743fb3ab207232855a8ba5484a801d8bbaf738&f=FreeBSD-13.4-BETA3-powerpc-powerpcspe-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:41:10 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-riscv-riscv64-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=79ed8a77d81c8af882eebe1eeaaf157ffbe4bd9c&f=FreeBSD-13.4-BETA3-riscv-riscv64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:40:28 -0400
 
