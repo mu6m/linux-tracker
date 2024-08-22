@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [SmartOS] smartos-20240822T001821Z Pack (MULTI)
+[link](https://linuxtracker.org/download.php?id=795bbd2a685bb6dc80673518503acb2102cb5dcc&f=smartos-20240822T001821Z%20Pack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 22 Aug 2024 05:00:06 -0400
+
+
+
 ## [MakuluLinux] MakuluLinux-LinDoz-U-2024-08-07.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=9b1d582156f50407221f7c8dddf2d1e2a466ec95&f=MakuluLinux-LinDoz-U-2024-08-07.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Mon, 19 Aug 2024 15:55:34 -0400
 [link](https://linuxtracker.org/download.php?id=2a7bb4a156c5b0f5033b85d6fe4e44d19671319d&f=FreeBSD-13.4-BETA3-i386-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 19 Aug 2024 15:54:29 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-i386-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=eb8ce2516291d90c2a25c73c5da16d0e02c89d8b&f=FreeBSD-13.4-BETA3-i386-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:53:46 -0400
 
