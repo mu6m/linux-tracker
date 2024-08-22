@@ -1,5 +1,26 @@
 # Linux Torrents Tracker
 
+## [Manjaro] manjaro-kde-24.0.7-240821-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=836c37880a76e064b896355cada607dad3a8f2d4&f=manjaro-kde-24.0.7-240821-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 20:31:55 -0400
+
+
+
+## [Manjaro] manjaro-gnome-24.0.7-240821-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=f414797e5b2c68111a74255d215a33cb11c53bc4&f=manjaro-gnome-24.0.7-240821-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 20:31:51 -0400
+
+
+
+## [Manjaro] manjaro-xfce-24.0.7-240821-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=ce2c0cd746adc468ec51c0994ada6d1f0b551d47&f=manjaro-xfce-24.0.7-240821-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 21 Aug 2024 20:31:50 -0400
+
+
+
 ## [Linux] Motorola Moto x4 lineage-21.0-20240817-nightly-payton-signed (MULTI)
 [link](https://linuxtracker.org/download.php?id=f4173393a112006fe4017e3c3a502dcfc6977573&f=Motorola%20Moto%20x4%20lineage-21.0-20240817-nightly-payton-signed.torrent&rsspid=00000000000000000000000000000000)
 
@@ -326,25 +347,4 @@ last updated: Mon, 19 Aug 2024 15:53:46 -0400
 [link](https://linuxtracker.org/download.php?id=62fdfb59d8bf77b1c406f10dfcb0eeb7a6d98191&f=FreeBSD-13.4-BETA3-i386-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 19 Aug 2024 15:52:09 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-powerpc-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=3298dd7460fe026fa6e39345cb8df4d8aefc292d&f=FreeBSD-13.4-BETA3-powerpc-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:47:18 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-powerpc-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=3df3a78e91a58412fbc45d726e2d8aaf87d0dd9d&f=FreeBSD-13.4-BETA3-powerpc-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:46:01 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-powerpc-powerpc64-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=fab5b2920db82e3acc8556f22b86e2bf5c3e1bcd&f=FreeBSD-13.4-BETA3-powerpc-powerpc64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:44:50 -0400
 
