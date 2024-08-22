@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [MakuluLinux] MakuluLinux-LinDoz-U-2024-08-07.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=9b1d582156f50407221f7c8dddf2d1e2a466ec95&f=MakuluLinux-LinDoz-U-2024-08-07.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 22 Aug 2024 01:01:35 -0400
+
+
+
 ## [Manjaro] manjaro-kde-24.0.7-240821-linux69.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=836c37880a76e064b896355cada607dad3a8f2d4&f=manjaro-kde-24.0.7-240821-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Mon, 19 Aug 2024 15:54:29 -0400
 [link](https://linuxtracker.org/download.php?id=eb8ce2516291d90c2a25c73c5da16d0e02c89d8b&f=FreeBSD-13.4-BETA3-i386-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 19 Aug 2024 15:53:46 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-BETA3-i386-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=62fdfb59d8bf77b1c406f10dfcb0eeb7a6d98191&f=FreeBSD-13.4-BETA3-i386-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 19 Aug 2024 15:52:09 -0400
 
