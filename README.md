@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Bluestar Linux] Bluestar Linux 6.10.6-1 2024.08.23 x86 64 ISO (MULTI)
+[link](https://linuxtracker.org/download.php?id=fe005fc4c92ef12df3f540121d6cd55c700349ee&f=Bluestar%20Linux%206.10.6-1%202024.08.23%20x86%2064%20ISO.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 27 Aug 2024 01:04:44 -0400
+
+
+
+## [EasyOS] easy-6.2-amd64.img (MULTI)
+[link](https://linuxtracker.org/download.php?id=6566970d77a7a0e022304fa38e9e1a80cdcab09f&f=easy-6.2-amd64.img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 27 Aug 2024 01:01:13 -0400
+
+
+
 ## [OSMC] OSMC Vero 5 20240825 IMG GZ (MULTI)
 [link](https://linuxtracker.org/download.php?id=7173d5df5b38d59ff93cee29b78e783b88aff89a&f=OSMC%20Vero%205%2020240825%20IMG%20GZ.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Mon, 26 Aug 2024 15:51:49 -0400
 [link](https://linuxtracker.org/download.php?id=c51a3d4d46dcaa6c8be074afc6a67341415ae35e&f=CentOS-Stream-9-20240819.0-ppc64le-boot.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 26 Aug 2024 15:50:48 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240819.0-x86_64-boot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=b32f5535fe25e8f05bef03c9a17f9361c6e64795&f=CentOS-Stream-9-20240819.0-x86_64-boot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 15:50:10 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240819.0-s390x-boot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=6c3675ba4c990d9607537ee09559e7e05169ea77&f=CentOS-Stream-9-20240819.0-s390x-boot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 15:48:48 -0400
 
