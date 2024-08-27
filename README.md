@@ -1,5 +1,33 @@
 # Linux Torrents Tracker
 
+## [OSMC] OSMC Vero 5 20240825 IMG GZ (MULTI)
+[link](https://linuxtracker.org/download.php?id=7173d5df5b38d59ff93cee29b78e783b88aff89a&f=OSMC%20Vero%205%2020240825%20IMG%20GZ.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 27 Aug 2024 00:58:01 -0400
+
+
+
+## [OSMC] OSMC Vero 4k / 4k+ 20240825 IMG GZ (MULTI)
+[link](https://linuxtracker.org/download.php?id=72c34e460ce942421570b92309f1fed457e7344d&f=OSMC%20Vero%204k%20%2F%204k%2B%2020240825%20IMG%20GZ.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 27 Aug 2024 00:56:58 -0400
+
+
+
+## [OSMC] OSMC Raspberry Pi 4 / 400 20240825 IMG GZ (MULTI)
+[link](https://linuxtracker.org/download.php?id=b8243c6f1e28ab0e23a2f3016cabf5c1d49ea7ad&f=OSMC%20Raspberry%20Pi%204%20%2F%20400%2020240825%20IMG%20GZ.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 27 Aug 2024 00:55:04 -0400
+
+
+
+## [OSMC] OSMC Raspberry Pi 2 / 3 / 3+ / Zero W2 20240825 IMG GZ (MULTI)
+[link](https://linuxtracker.org/download.php?id=83d7b43b741d4bdbafd02887367e4977999ef2ed&f=OSMC%20Raspberry%20Pi%202%20%2F%203%20%2F%203%2B%20%2F%20Zero%20W2%2020240825%20IMG%20GZ.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 27 Aug 2024 00:53:44 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-RC1-arm64-aarch64-memstick.img (MULTI)
 [link](https://linuxtracker.org/download.php?id=25e5c07cff082287553c977c4df974cfd4c1be06&f=FreeBSD-13.4-RC1-arm64-aarch64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
@@ -319,32 +347,4 @@ last updated: Mon, 26 Aug 2024 15:50:10 -0400
 [link](https://linuxtracker.org/download.php?id=6c3675ba4c990d9607537ee09559e7e05169ea77&f=CentOS-Stream-9-20240819.0-s390x-boot.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 26 Aug 2024 15:48:48 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240819.0-x86_64-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=580f4b5cb0e79f0efea267f63d223ecc059fabff&f=CentOS-Stream-9-20240819.0-x86_64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 15:48:10 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240819.0-aarch64-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=1101994dd8a24b97464addf863bc899bd0816558&f=CentOS-Stream-9-20240819.0-aarch64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 15:47:35 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240819.0-aarch64-boot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=030822cd4c1fdacc72367dc8689d5afbb0d896f3&f=CentOS-Stream-9-20240819.0-aarch64-boot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 15:46:47 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240819.0-ppc64le-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=899b44053eaffb3b9355b66efa1667fcd62e4c9b&f=CentOS-Stream-9-20240819.0-ppc64le-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 15:46:10 -0400
 
