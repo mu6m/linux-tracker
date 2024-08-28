@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Arch Linux] ultimate-arch-lite-2024.08.23-x86_64-all.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=0cf3adc36a50e8b874ce1b8cadb1bf7ef4cfbef6&f=ultimate-arch-lite-2024.08.23-x86_64-all.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 28 Aug 2024 01:08:53 -0400
+
+
+
 ## [Bluestar Linux] Bluestar Linux 6.10.6-1 2024.08.23 x86 64 ISO (MULTI)
 [link](https://linuxtracker.org/download.php?id=fe005fc4c92ef12df3f540121d6cd55c700349ee&f=Bluestar%20Linux%206.10.6-1%202024.08.23%20x86%2064%20ISO.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Mon, 26 Aug 2024 15:52:25 -0400
 [link](https://linuxtracker.org/download.php?id=da54f747c55142840170c72ad4f1e98fd411cf9f&f=CentOS-Stream-10-20240822.0-x86_64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 26 Aug 2024 15:51:49 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240819.0-ppc64le-boot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=c51a3d4d46dcaa6c8be074afc6a67341415ae35e&f=CentOS-Stream-9-20240819.0-ppc64le-boot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 15:50:48 -0400
 
