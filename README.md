@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Ubuntu Cinnamon Rem] ubuntucinnamon-24.04.1-desktop-amd64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=0d7ecfda507036001e18e909e10b13a6f6784294&f=ubuntucinnamon-24.04.1-desktop-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 03 Sep 2024 17:42:20 -0400
+
+
+
+## [Edubuntu] edubuntu-24.04.1-desktop-amd64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=567b8a6ebac42ad001f6664cefeabfb37185938a&f=edubuntu-24.04.1-desktop-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 03 Sep 2024 17:31:27 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-RC2-riscv-riscv64-mini-memstick.img (MULTI)
 [link](https://linuxtracker.org/download.php?id=bc1d840bc5d1e417f243401db9bbbe202d954042&f=FreeBSD-13.4-RC2-riscv-riscv64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Tue, 27 Aug 2024 00:53:44 -0400
 [link](https://linuxtracker.org/download.php?id=25e5c07cff082287553c977c4df974cfd4c1be06&f=FreeBSD-13.4-RC1-arm64-aarch64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 26 Aug 2024 17:14:57 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC1-arm64-aarch64-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=df986c8165b5c883ff77d319935cb220b056582d&f=FreeBSD-13.4-RC1-arm64-aarch64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 17:14:15 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC1-arm64-aarch64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9aa9179578e26df345973a880feb8235819d2e51&f=FreeBSD-13.4-RC1-arm64-aarch64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 17:12:26 -0400
 
