@@ -1,5 +1,26 @@
 # Linux Torrents Tracker
 
+## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-PINE64-LTS.img.xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=c145239c9af4f66872ef288a3dfd34ecdb50d474&f=FreeBSD-13.4-RC2-arm64-aarch64-PINE64-LTS.img.xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 03 Sep 2024 01:01:57 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-mini-memstick.img (MULTI)
+[link](https://linuxtracker.org/download.php?id=9ac6a64dceaeec8b9ac2bbfdea41f1dee321a22d&f=FreeBSD-13.4-RC2-arm64-aarch64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 03 Sep 2024 01:01:12 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-memstick.img (MULTI)
+[link](https://linuxtracker.org/download.php?id=e5edb8c2f09c2297e8d01603d8972dacc62de166&f=FreeBSD-13.4-RC2-arm64-aarch64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 03 Sep 2024 01:00:29 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-dvd1.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=fc5e3b746439fb0c2d54e416194a3627293f0347&f=FreeBSD-13.4-RC2-arm64-aarch64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -326,25 +347,4 @@ last updated: Mon, 26 Aug 2024 16:15:20 -0400
 [link](https://linuxtracker.org/download.php?id=fdd48781835957e81d41659c12ad3d1aced3a873&f=FreeBSD-13.4-RC1-riscv-riscv64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 26 Aug 2024 16:14:18 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC1-riscv-riscv64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=29b977e7bde07f1b476ed9f159bb4ee224137056&f=FreeBSD-13.4-RC1-riscv-riscv64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 16:13:36 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC1-riscv-riscv64-GENERICSD.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=e5782bb90542385dc8d4278710c29181108a7dbf&f=FreeBSD-13.4-RC1-riscv-riscv64-GENERICSD.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 16:11:06 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC1-riscv-riscv64-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=083fd1444e59da7660a98c76c2d4c254c6a1d64c&f=FreeBSD-13.4-RC1-riscv-riscv64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 26 Aug 2024 16:10:09 -0400
 
