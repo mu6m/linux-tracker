@@ -1,5 +1,61 @@
 # Linux Torrents Tracker
 
+## [Debian] debian-12.7.0-armel-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=d06629e2097bfac6976351c3348335054a1ba2a5&f=debian-12.7.0-armel-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 04 Sep 2024 17:21:21 -0400
+
+
+
+## [Debian] debian-12.7.0-amd64-DVD-1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=e687fcbfab769617a697c719faf755122d7e130b&f=debian-12.7.0-amd64-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 04 Sep 2024 17:20:46 -0400
+
+
+
+## [Debian] debian-edu-12.7.0-amd64-BD-1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=3b04c2796ea1fa74d133bf595fe51e446e54d847&f=debian-edu-12.7.0-amd64-BD-1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 04 Sep 2024 17:19:25 -0400
+
+
+
+## [Debian] debian-12.7.0-arm64-DVD-1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=2772b603751354aa5cfcc949df27eb226bc1553e&f=debian-12.7.0-arm64-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 04 Sep 2024 17:18:42 -0400
+
+
+
+## [Debian] debian-12.7.0-arm64-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=e37b64d85cf4aa93e0ec4aee2b44735b7cb63967&f=debian-12.7.0-arm64-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 04 Sep 2024 17:17:54 -0400
+
+
+
+## [Debian] debian-12.7.0-amd64-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1bd088ee9166a062cf4af09cf99720fa6e1a3133&f=debian-12.7.0-amd64-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 04 Sep 2024 17:15:53 -0400
+
+
+
+## [Debian] debian-edu-12.7.0-amd64-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=8394af814822814aa997b811ed22abcd7056f575&f=debian-edu-12.7.0-amd64-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 04 Sep 2024 17:15:16 -0400
+
+
+
+## [Debian] debian-mac-12.7.0-amd64-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=f7570fa7a31b73e56163ea9784e78d0b0b3b50a0&f=debian-mac-12.7.0-amd64-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 04 Sep 2024 17:14:38 -0400
+
+
+
 ## [KDE Neon] KDE Neon Unstable 20240831 ISO (MULTI)
 [link](https://linuxtracker.org/download.php?id=480af3d9af832b8d8d0051c9d816c915df96356d&f=KDE%20Neon%20Unstable%2020240831%20ISO.torrent&rsspid=00000000000000000000000000000000)
 
@@ -291,60 +347,4 @@ last updated: Tue, 03 Sep 2024 00:53:01 -0400
 [link](https://linuxtracker.org/download.php?id=70d73f19146cc2afdbc705fd6554c96fe9a83c37&f=Voyager-24.04.1.2-LTS-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 02 Sep 2024 01:02:44 -0400
-
-
-
-## [SystemRescueCD] systemrescue-11.02-amd64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=d280ff8edb464ccd73f6699922dbc16f93504eaf&f=systemrescue-11.02-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 30 Aug 2024 15:44:54 -0400
-
-
-
-## [4MLinux] 4MLinux-46.0-64bit.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=5f032849debf2e6927d12a644fd2fe4dc14f08ad&f=4MLinux-46.0-64bit.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 29 Aug 2024 00:54:18 -0400
-
-
-
-## [4MLinux] 4MLinux-46.0-core.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=a550975db8f356cd5908c5a8bcb3abf938cacccd&f=4MLinux-46.0-core.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 29 Aug 2024 00:52:22 -0400
-
-
-
-## [Arch Linux] ultimate-arch-lite-2024.08.23-x86_64-all.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=0cf3adc36a50e8b874ce1b8cadb1bf7ef4cfbef6&f=ultimate-arch-lite-2024.08.23-x86_64-all.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 28 Aug 2024 01:08:53 -0400
-
-
-
-## [Bluestar Linux] Bluestar Linux 6.10.6-1 2024.08.23 x86 64 ISO (MULTI)
-[link](https://linuxtracker.org/download.php?id=fe005fc4c92ef12df3f540121d6cd55c700349ee&f=Bluestar%20Linux%206.10.6-1%202024.08.23%20x86%2064%20ISO.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 27 Aug 2024 01:04:44 -0400
-
-
-
-## [EasyOS] easy-6.2-amd64.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=6566970d77a7a0e022304fa38e9e1a80cdcab09f&f=easy-6.2-amd64.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 27 Aug 2024 01:01:13 -0400
-
-
-
-## [OSMC] OSMC Vero 5 20240825 IMG GZ (MULTI)
-[link](https://linuxtracker.org/download.php?id=7173d5df5b38d59ff93cee29b78e783b88aff89a&f=OSMC%20Vero%205%2020240825%20IMG%20GZ.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 27 Aug 2024 00:58:01 -0400
-
-
-
-## [OSMC] OSMC Vero 4k / 4k+ 20240825 IMG GZ (MULTI)
-[link](https://linuxtracker.org/download.php?id=72c34e460ce942421570b92309f1fed457e7344d&f=OSMC%20Vero%204k%20%2F%204k%2B%2020240825%20IMG%20GZ.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 27 Aug 2024 00:56:58 -0400
 
