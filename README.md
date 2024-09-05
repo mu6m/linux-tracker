@@ -1,5 +1,96 @@
 # Linux Torrents Tracker
 
+## [Oracle Linux] MAGIX Video Pro X16 22.0.1.226 Multilingual x64 + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=64de5c118f5747c266dafde9767de0cef6333d91&f=MAGIX%20Video%20Pro%20X16%2022.0.1.226%20Multilingual%20x64%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:59:38 -0400
+
+
+
+## [Other distros] MAGIX Movie Studio 2025 Platinum 24.0.1.206 Multilingual x64 + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=511d618338c8bbd4734a4f3c6c0a05d2c6d7eea1&f=MAGIX%20Movie%20Studio%202025%20Platinum%2024.0.1.206%20Multilingual%20x64%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:58:01 -0400
+
+
+
+## [Other distros] Loaris Trojan Remover 3.2.109 Multilingual x64 + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=2de71585fd1b5641bc36980aa072871f70cdb805&f=Loaris%20Trojan%20Remover%203.2.109%20Multilingual%20x64%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:56:27 -0400
+
+
+
+## [Other distros] ImgDrive Pro 2.1.9 Multilingual + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=3b8ced662c5780f2e6413559962e9bf6f9ccbb54&f=ImgDrive%20Pro%202.1.9%20Multilingual%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:55:30 -0400
+
+
+
+## [Other distros] IDimager Photo Supreme 2024.2.2.6636 (x64) Multilingual + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=738c6151b2e5333ce2fd1c964afded5bd084edeb&f=IDimager%20Photo%20Supreme%202024.2.2.6636%20%28x64%29%20Multilingual%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:54:28 -0400
+
+
+
+## [Other distros] FlixGrab Plus 1.8.0.2288 Premium + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=6e3a0897a23ccdadb6221a5b16ff7cf5b230ec2a&f=FlixGrab%20Plus%201.8.0.2288%20Premium%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:53:26 -0400
+
+
+
+## [Other distros] Epubor Ultimate Converter 3.0.16.286 Multilingual + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=c3593b78793eaeb201a3361fb94d3983cbaea826&f=Epubor%20Ultimate%20Converter%203.0.16.286%20Multilingual%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:52:14 -0400
+
+
+
+## [Other distros] DVDFab 13.0.2.6 Multilingual x64 + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=1e8670c02a3799a021cb151ba91b9a92086c686f&f=DVDFab%2013.0.2.6%20Multilingual%20x64%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:51:10 -0400
+
+
+
+## [Other distros] DiskGenius Professional 5.6.1.1580 Multilingual + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=02a19a184029e44f68b6d77661a0d88fe14b9d09&f=DiskGenius%20Professional%205.6.1.1580%20Multilingual%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:50:02 -0400
+
+
+
+## [Other distros] DAEMON Tools Lite 12.1.0.2197 Multilingual (MULTI)
+[link](https://linuxtracker.org/download.php?id=d2aa9f6a8652ce483e27935b4c9895ff2f321157&f=DAEMON%20Tools%20Lite%2012.1.0.2197%20Multilingual.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:49:03 -0400
+
+
+
+## [Other distros] Bandicam 7.1.4.2458 x64 Multilingual + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=64ddd08d85c540a2068c42fb9aa438c2f533e2ee&f=Bandicam%207.1.4.2458%20x64%20Multilingual%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:47:54 -0400
+
+
+
+## [Other distros] ApowerREC 1.7.2.11 Multilingual + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=da6059e6d3290a8112f4bea05e9fefb85c098459&f=ApowerREC%201.7.2.11%20Multilingual%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:46:23 -0400
+
+
+
+## [Other distros] Advanced SystemCare Pro 17.6.0.322 Multilingual + Crack (MULTI)
+[link](https://linuxtracker.org/download.php?id=940e20e4edbc3a40a6cf2a977cb10ccb0943a421&f=Advanced%20SystemCare%20Pro%2017.6.0.322%20Multilingual%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 11:31:34 -0400
+
+
+
 ## [Debian] debian-12.7.0-ppc64el-DVD-1.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=c5a47c2bb9b89f3e76d1a4a15d507d4b5c0ee539&f=debian-12.7.0-ppc64el-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -256,95 +347,4 @@ last updated: Tue, 03 Sep 2024 17:06:02 -0400
 [link](https://linuxtracker.org/download.php?id=bae06f3047fb617cd1e30c1ff1b0f0f8b41d3ba3&f=FreeBSD-13.4-RC2-powerpc-powerpc64le-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 03 Sep 2024 17:05:04 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-powerpc-powerpc64le-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=c2f300862ef574e99af7a59219ab4b1981cdd3a0&f=FreeBSD-13.4-RC2-powerpc-powerpc64le-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 17:01:40 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-powerpc-powerpc64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=707fd8cf2a8c7ee329a16afdbb1ccf637abad1d7&f=FreeBSD-13.4-RC2-powerpc-powerpc64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 17:00:56 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-powerpc-powerpc64-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=689990e0e72ef25ecdd0de0202b44c58dd4ce8d9&f=FreeBSD-13.4-RC2-powerpc-powerpc64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:53:40 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-powerpc-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9872f3b425b5ddcf631adce67d0e5fc9364e5da6&f=FreeBSD-13.4-RC2-powerpc-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:52:59 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-powerpc-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=79956ebbe0cc739f1a91fc6827de5af86c3338c7&f=FreeBSD-13.4-RC2-powerpc-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:52:16 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-i386-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=5205d364856aa57940b84780cd48067ce0e284c3&f=FreeBSD-13.4-RC2-i386-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:48:45 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-i386-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=7154ce156da030d4ec57e2313a140eefd6d218b4&f=FreeBSD-13.4-RC2-i386-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:46:21 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-i386-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=e921352110e8b803ecb76dd361e4dece5493fc9b&f=FreeBSD-13.4-RC2-i386-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:45:42 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-i386-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=c7f945bbbd608fdcb83020aa6c82cd867ea8a5d3&f=FreeBSD-13.4-RC2-i386-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:43:49 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-i386-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=7f28d28b054525f69c6a2b5b4f64134deea618d7&f=FreeBSD-13.4-RC2-i386-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:42:22 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-RPI.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=233d1853dc48d6fec5d26fcd0d632454e538e346&f=FreeBSD-13.4-RC2-arm64-aarch64-RPI.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:41:16 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-ROCKPRO64.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=c594cd7ee6cc47510bc6be2d32cd1e1c0baf2fb9&f=FreeBSD-13.4-RC2-arm64-aarch64-ROCKPRO64.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:40:39 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-ROCK64.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=cf6c2c31c37a40954ed1860521908cdf450b97e5&f=FreeBSD-13.4-RC2-arm64-aarch64-ROCK64.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:38:56 -0400
 
