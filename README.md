@@ -1,5 +1,68 @@
 # Linux Torrents Tracker
 
+## [Debian] debian-12.7.0-mips64el-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=7684272906d1739e21eadb3c460f69d908fff9f7&f=debian-12.7.0-mips64el-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:59:35 -0400
+
+
+
+## [Debian] debian-12.7.0-i386-DVD-1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=459237389a487e14c94c549b3f53be7bca713b77&f=debian-12.7.0-i386-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:58:43 -0400
+
+
+
+## [Debian] debian-mac-12.7.0-i386-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=a54fcb1b4435c03ccc6bc2f6a9acd7df30bdeda2&f=debian-mac-12.7.0-i386-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:58:08 -0400
+
+
+
+## [Debian] debian-edu-12.7.0-i386-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=5d4845f0f88d815a3a764e5d7cc5c92d1686cb05&f=debian-edu-12.7.0-i386-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:57:18 -0400
+
+
+
+## [Debian] debian-12.7.0-i386-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=7a02a6ffa9da38d29c2ec12398fec914474faa2f&f=debian-12.7.0-i386-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:55:58 -0400
+
+
+
+## [Debian] debian-edu-12.7.0-i386-BD-1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=48a9461b4f566ef596b2e2f4880e7a488b5599ca&f=debian-edu-12.7.0-i386-BD-1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:55:21 -0400
+
+
+
+## [Debian] debian-12.7.0-armhf-DVD-1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1f88696209e465cf48adaf454088f84c8332a974&f=debian-12.7.0-armhf-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:54:38 -0400
+
+
+
+## [Debian] debian-12.7.0-armhf-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=4ef3d3c118f05b91a3edd5341bfb3904dd94d9a2&f=debian-12.7.0-armhf-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:54:01 -0400
+
+
+
+## [Debian] debian-12.7.0-armel-DVD-1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=cb22f773b679f680a2d575f0c26ce3e4da8ac110&f=debian-12.7.0-armel-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:53:16 -0400
+
+
+
 ## [GhostBSD] GhostBSD-24.07.1-XFCE.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=2233e86769f70de7b592c8eaaecc437af14aba5c&f=GhostBSD-24.07.1-XFCE.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -284,67 +347,4 @@ last updated: Tue, 03 Sep 2024 01:01:12 -0400
 [link](https://linuxtracker.org/download.php?id=e5edb8c2f09c2297e8d01603d8972dacc62de166&f=FreeBSD-13.4-RC2-arm64-aarch64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 03 Sep 2024 01:00:29 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=fc5e3b746439fb0c2d54e416194a3627293f0347&f=FreeBSD-13.4-RC2-arm64-aarch64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 00:59:47 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=86d8a53e5d1f32de55943aba5ecf3deef20ed6f3&f=FreeBSD-13.4-RC2-arm64-aarch64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 00:59:10 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=523bb490e350a2d655e5a87576716b29664c0937&f=FreeBSD-13.4-RC2-arm64-aarch64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 00:58:26 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm-armv7-GENERICSD.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=fe0425bfabf34ba3688fafcadd5e486ba2e922f1&f=FreeBSD-13.4-RC2-arm-armv7-GENERICSD.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 00:57:24 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm-armv6-RPI-B.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=dbdb0b3be158bf9f8beebd417b11876e218251d9&f=FreeBSD-13.4-RC2-arm-armv6-RPI-B.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 00:56:46 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-amd64-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=f64de2dfb62f85971f65b68d0644c58528c9c074&f=FreeBSD-13.4-RC2-amd64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 00:55:52 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-amd64-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=06d56c980a943cfb7ddf1a1843931109d0c1e085&f=FreeBSD-13.4-RC2-amd64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 00:55:10 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-amd64-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=6a3870b8f5520fed7d8e6858d64e222858836058&f=FreeBSD-13.4-RC2-amd64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 00:54:26 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-amd64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9614720c000d1b6446f349abea3de64e74db93cd&f=FreeBSD-13.4-RC2-amd64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 00:53:44 -0400
 
