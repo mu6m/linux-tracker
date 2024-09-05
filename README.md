@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Ubuntu] ubuntusway-24.04.1-desktop-amd64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=64a0a92a95386fc020fb488a247918b71d13c5e3&f=ubuntusway-24.04.1-desktop-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 16:07:30 -0400
+
+
+
 ## [Other distros] Xara Designer Pro Plus 24.3.0.70123 + Crack (MULTI)
 [link](https://linuxtracker.org/download.php?id=d738581d15fb3bd609a59b2154198f6ef2c2b4d9&f=Xara%20Designer%20Pro%20Plus%2024.3.0.70123%20%2B%20Crack.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Wed, 04 Sep 2024 17:14:38 -0400
 [link](https://linuxtracker.org/download.php?id=480af3d9af832b8d8d0051c9d816c915df96356d&f=KDE%20Neon%20Unstable%2020240831%20ISO.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Wed, 04 Sep 2024 01:03:09 -0400
-
-
-
-## [KDE Neon] KDE Neon Testing 20240831 ISO (MULTI)
-[link](https://linuxtracker.org/download.php?id=24400914c480caf3a11ddc5001668dca03756b97&f=KDE%20Neon%20Testing%2020240831%20ISO.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Wed, 04 Sep 2024 01:02:08 -0400
 
