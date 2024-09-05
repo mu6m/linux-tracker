@@ -1,5 +1,40 @@
 # Linux Torrents Tracker
 
+## [Debian] debian-12.7.0-ppc64el-DVD-1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=c5a47c2bb9b89f3e76d1a4a15d507d4b5c0ee539&f=debian-12.7.0-ppc64el-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 01:04:03 -0400
+
+
+
+## [Debian] debian-12.7.0-ppc64el-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=529701435492fdde2fbee56919396f5d34b2933b&f=debian-12.7.0-ppc64el-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 01:03:01 -0400
+
+
+
+## [Debian] debian-12.7.0-mipsel-DVD-1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=da9c4608a5deb29eb72f55be9e0bc6dbe4d57352&f=debian-12.7.0-mipsel-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 01:02:27 -0400
+
+
+
+## [Debian] debian-12.7.0-mipsel-netinst.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=b628d646fccba74469e2c87e080fc4ebcca53137&f=debian-12.7.0-mipsel-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 01:01:46 -0400
+
+
+
+## [Debian] debian-12.7.0-mips64el-DVD-1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=a443b52853203bd0ffa6a081c268d5d249641573&f=debian-12.7.0-mips64el-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 01:00:13 -0400
+
+
+
 ## [Debian] debian-12.7.0-mips64el-netinst.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=7684272906d1739e21eadb3c460f69d908fff9f7&f=debian-12.7.0-mips64el-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -312,39 +347,4 @@ last updated: Tue, 03 Sep 2024 16:40:39 -0400
 [link](https://linuxtracker.org/download.php?id=cf6c2c31c37a40954ed1860521908cdf450b97e5&f=FreeBSD-13.4-RC2-arm64-aarch64-ROCK64.img.xz.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 03 Sep 2024 16:38:56 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-PINEBOOK.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=623636238735cfa02fef0bafe1c2ad8e5c1f6d3b&f=FreeBSD-13.4-RC2-arm64-aarch64-PINEBOOK.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:38:09 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-PINE64.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=5a3dc201abd39a885d9b6439c137ae02f5a7c8c8&f=FreeBSD-13.4-RC2-arm64-aarch64-PINE64.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 16:37:23 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-PINE64-LTS.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=c145239c9af4f66872ef288a3dfd34ecdb50d474&f=FreeBSD-13.4-RC2-arm64-aarch64-PINE64-LTS.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 01:01:57 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=9ac6a64dceaeec8b9ac2bbfdea41f1dee321a22d&f=FreeBSD-13.4-RC2-arm64-aarch64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 01:01:12 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-arm64-aarch64-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=e5edb8c2f09c2297e8d01603d8972dacc62de166&f=FreeBSD-13.4-RC2-arm64-aarch64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 01:00:29 -0400
 
