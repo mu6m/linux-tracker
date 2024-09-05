@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [GhostBSD] GhostBSD-24.07.1-XFCE.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=2233e86769f70de7b592c8eaaecc437af14aba5c&f=GhostBSD-24.07.1-XFCE.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:07:07 -0400
+
+
+
+## [GhostBSD] GhostBSD-24.07.1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=3c32a8010b15be59ef4cb7f9b7100c41e8df51d3&f=GhostBSD-24.07.1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 05 Sep 2024 00:07:05 -0400
+
+
+
 ## [Debian] debian-12.7.0-armel-netinst.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=d06629e2097bfac6976351c3348335054a1ba2a5&f=debian-12.7.0-armel-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Tue, 03 Sep 2024 00:54:26 -0400
 [link](https://linuxtracker.org/download.php?id=9614720c000d1b6446f349abea3de64e74db93cd&f=FreeBSD-13.4-RC2-amd64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 03 Sep 2024 00:53:44 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RC2-amd64-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=142ae96df356a9a5cd9cb66d7db4aacc0f043701&f=FreeBSD-13.4-RC2-amd64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 03 Sep 2024 00:53:01 -0400
-
-
-
-## [Voyager Live] Voyager-24.04.1.2-LTS-amd64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=70d73f19146cc2afdbc705fd6554c96fe9a83c37&f=Voyager-24.04.1.2-LTS-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 02 Sep 2024 01:02:44 -0400
 
