@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Other distros] Internet Download Manager 6.42 Build 21 Multilingual Retail (MULTI)
+[link](https://linuxtracker.org/download.php?id=8f71635d2002a243488aace8e2b33e2742a0c915&f=Internet%20Download%20Manager%206.42%20Build%2021%20Multilingual%20Retail.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 06 Sep 2024 02:41:23 -0400
+
+
+
 ## [Debian] debian-mac-11.11.0-i386-netinst.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=7c69bbb16ad0ce6f389c36b81ecf98658b6b2541&f=debian-mac-11.11.0-i386-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Fri, 06 Sep 2024 01:19:21 -0400
 [link](https://linuxtracker.org/download.php?id=20237340c1ce5d12da805436173c3aef519e9c91&f=debian-11.11.0-armel-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 06 Sep 2024 01:18:58 -0400
-
-
-
-## [Debian] debian-11.11.0-armel-DVD-1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=cd8e5ee0cd1fbdb3aa45e929b1891a20e84114b7&f=debian-11.11.0-armel-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:18:35 -0400
 
