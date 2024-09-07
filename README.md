@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [SmartOS] smartos-20240905T024838Z Pack (MULTI)
+[link](https://linuxtracker.org/download.php?id=9262c5072f4105da524a604fadaf9c084b5381b2&f=smartos-20240905T024838Z%20Pack.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 06 Sep 2024 19:40:22 -0400
+
+
+
 ## [Other distros] Internet Download Manager 6.42 Build 21 Multilingual Retail (MULTI)
 [link](https://linuxtracker.org/download.php?id=8f71635d2002a243488aace8e2b33e2742a0c915&f=Internet%20Download%20Manager%206.42%20Build%2021%20Multilingual%20Retail.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Fri, 06 Sep 2024 01:20:15 -0400
 [link](https://linuxtracker.org/download.php?id=c76431ab1d4bd08bb9b2c4b0c90f6e557a9a518d&f=debian-11.11.0-armhf-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 06 Sep 2024 01:19:21 -0400
-
-
-
-## [Debian] debian-11.11.0-armel-netinst.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=20237340c1ce5d12da805436173c3aef519e9c91&f=debian-11.11.0-armel-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:18:58 -0400
 
