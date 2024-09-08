@@ -1,5 +1,61 @@
 # Linux Torrents Tracker
 
+## [Linux] GrapheneOS Google Pixel 6 Pro raven-ota_update-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=9d9b153ce37056c227ca01e24e04a40e0fc55a4e&f=GrapheneOS%20Google%20Pixel%206%20Pro%20raven-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 11:20:29 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 6 Pro raven-install-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=abfeb498506b536f7c2cfd9d35982e75b833750b&f=GrapheneOS%20Google%20Pixel%206%20Pro%20raven-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 11:19:48 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 6 oriole-ota_update-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=76adf2e750b58d8cd3bbc3921828ee847b9df8c9&f=GrapheneOS%20Google%20Pixel%206%20oriole-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 11:17:55 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 6 oriole-install-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=69d0d369af2e2e7ea49e2523acd3f99422a6db2d&f=GrapheneOS%20Google%20Pixel%206%20oriole-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 11:17:11 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 5a (Extended Support) barbet-ota_update-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=6dcd78387c88ba7469d127c62bf53097e6b9a964&f=GrapheneOS%20Google%20Pixel%205a%20%28Extended%20Support%29%20barbet-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 11:14:55 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 5a (Extended Support) barbet-install-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=a6dbda66bbd39f54ff4dead68652a03c6c69d04e&f=GrapheneOS%20Google%20Pixel%205a%20%28Extended%20Support%29%20barbet-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 11:13:32 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 5 (Extended Support) redfin-ota_update-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=9c6b0e2b2de9a1bf3a84f05abb45b79e29b8f21e&f=GrapheneOS%20Google%20Pixel%205%20%28Extended%20Support%29%20redfin-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 11:12:36 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 5 (Extended Support) redfin-install-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=22d74f76c84c17255ab3e4b9968dffebde97f478&f=GrapheneOS%20Google%20Pixel%205%20%28Extended%20Support%29%20redfin-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 11:12:00 -0400
+
+
+
 ## [Linux] GrapheneOS Google Pixel 4a 5G (Extended Support) bramble-ota_update-2024090400.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=b57ab393cad32faf272f118049635ed617d0d974&f=GrapheneOS%20Google%20Pixel%204a%205G%20%28Extended%20Support%29%20bramble-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -291,60 +347,4 @@ last updated: Fri, 06 Sep 2024 01:28:17 -0400
 [link](https://linuxtracker.org/download.php?id=c9a8e2714bebf0d0d894fa026d2ba84c64aee5d3&f=debian-11.11.0-s390x-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 06 Sep 2024 01:27:55 -0400
-
-
-
-## [Debian] debian-11.11.0-ppc64el-netinst.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9586f36e9f653092f4bc2e40a32d47d66582a478&f=debian-11.11.0-ppc64el-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:27:31 -0400
-
-
-
-## [Debian] debian-11.11.0-ppc64el-DVD-1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=2903721c5ade5a692e5ce4b317ce4614548766f4&f=debian-11.11.0-ppc64el-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:23:32 -0400
-
-
-
-## [Debian] debian-11.11.0-mipsel-netinst.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=b5f553c5d2b1e34eb1448cace04abc02e3d05259&f=debian-11.11.0-mipsel-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:23:03 -0400
-
-
-
-## [Debian] debian-11.11.0-mipsel-DVD-1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=d4264c7fae73da0290300b820fc514d0c512265a&f=debian-11.11.0-mipsel-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:22:34 -0400
-
-
-
-## [Debian] debian-11.11.0-mips64el-netinst.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9af3d896876bc1f4592a0d59df7e3ab55fe7a2a7&f=debian-11.11.0-mips64el-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:22:06 -0400
-
-
-
-## [Debian] debian-11.11.0-mips64el-DVD-1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=4e6692932fed3b4a6deb7e07e344eca620b895a6&f=debian-11.11.0-mips64el-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:21:36 -0400
-
-
-
-## [Debian] debian-11.11.0-i386-netinst.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=098b43e6fbcbb9a2f02fe6f4a3fa46246e580e15&f=debian-11.11.0-i386-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:21:08 -0400
-
-
-
-## [Debian] debian-11.11.0-i386-DVD-1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9d4db3b9cd4033dd991062e35804366e133e2cab&f=debian-11.11.0-i386-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:20:44 -0400
 
