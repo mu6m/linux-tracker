@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Linux] GrapheneOS Google Pixel 4a 5G (Extended Support) bramble-ota_update-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=b57ab393cad32faf272f118049635ed617d0d974&f=GrapheneOS%20Google%20Pixel%204a%205G%20%28Extended%20Support%29%20bramble-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 07:18:27 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 4a 5G (Extended Support) bramble-install-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=a33549cc76b5db5c613959c11fae36f9cfde2be0&f=GrapheneOS%20Google%20Pixel%204a%205G%20%28Extended%20Support%29%20bramble-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 07:17:55 -0400
+
+
+
 ## [SmartOS] smartos-20240905T024838Z Pack (MULTI)
 [link](https://linuxtracker.org/download.php?id=9262c5072f4105da524a604fadaf9c084b5381b2&f=smartos-20240905T024838Z%20Pack.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Fri, 06 Sep 2024 01:21:08 -0400
 [link](https://linuxtracker.org/download.php?id=9d4db3b9cd4033dd991062e35804366e133e2cab&f=debian-11.11.0-i386-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 06 Sep 2024 01:20:44 -0400
-
-
-
-## [Debian] debian-11.11.0-armhf-netinst.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=b27034306b81a17bedb1281a091c7b232bdd4519&f=debian-11.11.0-armhf-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:20:15 -0400
-
-
-
-## [Debian] debian-11.11.0-armhf-DVD-1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=c76431ab1d4bd08bb9b2c4b0c90f6e557a9a518d&f=debian-11.11.0-armhf-DVD-1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:19:21 -0400
 
