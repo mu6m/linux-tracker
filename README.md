@@ -1,5 +1,47 @@
 # Linux Torrents Tracker
 
+## [Linux] GrapheneOS Google Pixel 8 Pro husky-ota_update-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=7505f1dbddfd5dbd3f76f379968e74ac2d5bd17b&f=GrapheneOS%20Google%20Pixel%208%20Pro%20husky-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 13:23:36 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 8 Pro husky-install-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=523b8739f8dedfe4bd3b117b2ac5759ad83e57f6&f=GrapheneOS%20Google%20Pixel%208%20Pro%20husky-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 13:22:52 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 7a lynx-ota_update-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=1414d705cc393a09506014d70a9fa577aa82e48f&f=GrapheneOS%20Google%20Pixel%207a%20lynx-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 13:22:13 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 7a lynx-install-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=379df004eb11b5ed7a31dd461df43e701130d3c2&f=GrapheneOS%20Google%20Pixel%207a%20lynx-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 13:21:40 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 7 Pro cheetah-ota_update-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=090d677b349f198eeb31d25acdfaeff215c7d154&f=GrapheneOS%20Google%20Pixel%207%20Pro%20cheetah-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 13:21:00 -0400
+
+
+
+## [Linux] GrapheneOS Google Pixel 7 Pro cheetah-install-2024090400.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=ccb9cf2c2e82e83319a1b869681673a61dbd981f&f=GrapheneOS%20Google%20Pixel%207%20Pro%20cheetah-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 13:20:20 -0400
+
+
+
 ## [Linux] GrapheneOS Google Pixel 7 panther-ota_update-2024090400.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=fcf351a5eb7f47bb044c91c1a609ba10d78e258f&f=GrapheneOS%20Google%20Pixel%207%20panther-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -305,46 +347,4 @@ last updated: Fri, 06 Sep 2024 01:32:51 -0400
 [link](https://linuxtracker.org/download.php?id=ffa104d52990186425897294c2c93aa155557265&f=debian-11.11.0-source-DVD-9.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 06 Sep 2024 01:32:25 -0400
-
-
-
-## [Debian] debian-11.11.0-source-DVD-8.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=5f45090581e400225a0d8fcf927c241b72cbfcb6&f=debian-11.11.0-source-DVD-8.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:32:02 -0400
-
-
-
-## [Debian] debian-11.11.0-source-DVD-7.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=53d12777faf6e0a4cbb49a457eeedf07606db033&f=debian-11.11.0-source-DVD-7.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:31:35 -0400
-
-
-
-## [Debian] debian-11.11.0-source-DVD-6.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=08f4da4424b7f1a99bc88ae7d9c1bcb5c6a73f21&f=debian-11.11.0-source-DVD-6.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:31:12 -0400
-
-
-
-## [Debian] debian-11.11.0-source-DVD-5.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9c2c8f71c2e2a07fd22464b47f84304c8c6cabce&f=debian-11.11.0-source-DVD-5.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:30:47 -0400
-
-
-
-## [Debian] debian-11.11.0-source-DVD-4.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=7d864c0d7bff395221f52599910935fc4493c286&f=debian-11.11.0-source-DVD-4.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:30:24 -0400
-
-
-
-## [Debian] debian-11.11.0-source-DVD-3.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=5559db3f992c36c04c9306fea51c3b7ddbea6434&f=debian-11.11.0-source-DVD-3.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:30:01 -0400
 
