@@ -1,5 +1,26 @@
 # Linux Torrents Tracker
 
+## [Manjaro] manjaro-gnome-24.0.8-240908-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=555a72a45bde2fe3192868426ca70b0a67ccb43a&f=manjaro-gnome-24.0.8-240908-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 23:24:05 -0400
+
+
+
+## [Manjaro] manjaro-kde-24.0.8-240908-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=c3902aad9d14f57d1b29c4fb02fc5e14712247fa&f=manjaro-kde-24.0.8-240908-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 23:24:02 -0400
+
+
+
+## [Manjaro] manjaro-xfce-24.0.8-240908-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=2b86dd2a2d294b28ca52a426fbcb04a486ff6ecd&f=manjaro-xfce-24.0.8-240908-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 08 Sep 2024 23:24:00 -0400
+
+
+
 ## [Linux] GrapheneOS Google Pixel Tablet tangorpro-ota_update-2024090400.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=471aa7604a5cea166c7a1db24a70d64eef101b5f&f=GrapheneOS%20Google%20Pixel%20Tablet%20tangorpro-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -326,25 +347,4 @@ last updated: Fri, 06 Sep 2024 01:46:01 -0400
 [link](https://linuxtracker.org/download.php?id=bf899e7e89896f7f7d9ca2ed3a40730b6e7fffc3&f=debian-live-11.11.0-i386-gnome.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 06 Sep 2024 01:42:24 -0400
-
-
-
-## [Debian] debian-live-11.11.0-i386-cinnamon.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=e97d39d209db3f4a87625e44bab3a0c49864efeb&f=debian-live-11.11.0-i386-cinnamon.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:41:56 -0400
-
-
-
-## [Debian] debian-live-11.11.0-amd64-xfce.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=c8bbc8f49abc6dd8ae77fa8232d6573534fdfeef&f=debian-live-11.11.0-amd64-xfce.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:41:32 -0400
-
-
-
-## [Debian] debian-live-11.11.0-amd64-standard.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=e4796dd81e0c6c3e996973d219e9270891534ee9&f=debian-live-11.11.0-amd64-standard.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:41:08 -0400
 
