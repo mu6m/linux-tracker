@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Linux] rescuezilla-2.5.1-64bit.noble (MULTI)
+[link](https://linuxtracker.org/download.php?id=6fd19ee0639990cd542894afc29d886e1cfe09fe&f=rescuezilla-2.5.1-64bit.noble.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 10 Sep 2024 00:50:59 -0400
+
+
+
 ## [Manjaro] manjaro-gnome-24.0.8-240908-linux69.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=555a72a45bde2fe3192868426ca70b0a67ccb43a&f=manjaro-gnome-24.0.8-240908-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Fri, 06 Sep 2024 01:46:23 -0400
 [link](https://linuxtracker.org/download.php?id=8f360feddaa36f63752241b23b43641e3d324b7f&f=debian-live-11.11.0-i386-kde.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 06 Sep 2024 01:46:01 -0400
-
-
-
-## [Debian] debian-live-11.11.0-i386-gnome.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=bf899e7e89896f7f7d9ca2ed3a40730b6e7fffc3&f=debian-live-11.11.0-i386-gnome.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:42:24 -0400
 
