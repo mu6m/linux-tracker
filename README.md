@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Tails] tails-amd64-6.7.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=04c987d54cbdfc3fddc4c972252c2ea0728a98f6&f=tails-amd64-6.7.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 10 Sep 2024 16:07:05 -0400
+
+
+
+## [Tails] tails-amd64-6.7.img (MULTI)
+[link](https://linuxtracker.org/download.php?id=b3faeab4c89e83c5b6dbb77e416f958e3b130af0&f=tails-amd64-6.7.img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 10 Sep 2024 16:07:03 -0400
+
+
+
 ## [Linux] rescuezilla-2.5.1-64bit.noble (MULTI)
 [link](https://linuxtracker.org/download.php?id=6fd19ee0639990cd542894afc29d886e1cfe09fe&f=rescuezilla-2.5.1-64bit.noble.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Fri, 06 Sep 2024 01:47:08 -0400
 [link](https://linuxtracker.org/download.php?id=38371e9288576cd7a7071b92e0a3adf9d7a61f21&f=debian-live-11.11.0-i386-lxqt.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 06 Sep 2024 01:46:45 -0400
-
-
-
-## [Debian] debian-live-11.11.0-i386-lxde.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=68dd3e7fc1e1ea6079f0ac1c70c0a86297f0ac01&f=debian-live-11.11.0-i386-lxde.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:46:23 -0400
-
-
-
-## [Debian] debian-live-11.11.0-i386-kde.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=8f360feddaa36f63752241b23b43641e3d324b7f&f=debian-live-11.11.0-i386-kde.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 01:46:01 -0400
 
