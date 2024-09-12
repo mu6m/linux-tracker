@@ -301,13 +301,6 @@ last updated: Fri, 06 Sep 2024 19:40:22 -0400
 
 
 
-## [Other distros] Internet Download Manager 6.42 Build 21 Multilingual Retail (MULTI)
-[link](https://linuxtracker.org/download.php?id=8f71635d2002a243488aace8e2b33e2742a0c915&f=Internet%20Download%20Manager%206.42%20Build%2021%20Multilingual%20Retail.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 02:41:23 -0400
-
-
-
 ## [Debian] debian-mac-11.11.0-i386-netinst.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=7c69bbb16ad0ce6f389c36b81ecf98658b6b2541&f=debian-mac-11.11.0-i386-netinst.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -347,4 +340,11 @@ last updated: Fri, 06 Sep 2024 01:47:08 -0400
 [link](https://linuxtracker.org/download.php?id=38371e9288576cd7a7071b92e0a3adf9d7a61f21&f=debian-live-11.11.0-i386-lxqt.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 06 Sep 2024 01:46:45 -0400
+
+
+
+## [Debian] debian-live-11.11.0-i386-lxde.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=68dd3e7fc1e1ea6079f0ac1c70c0a86297f0ac01&f=debian-live-11.11.0-i386-lxde.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 06 Sep 2024 01:46:23 -0400
 
