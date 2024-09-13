@@ -1,5 +1,40 @@
 # Linux Torrents Tracker
 
+## [Kali] kali-linux-2024.3-qemu-amd64.7z (MULTI)
+[link](https://linuxtracker.org/download.php?id=6fcf51d758ceead1289e513ba7b87d8933a86914&f=kali-linux-2024.3-qemu-amd64.7z.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 13 Sep 2024 01:03:23 -0400
+
+
+
+## [Kali] kali-linux-2024.3-hyperv-amd64.7z (MULTI)
+[link](https://linuxtracker.org/download.php?id=50b8d84b683c428cb89c47fd4d4bebd7edfb784e&f=kali-linux-2024.3-hyperv-amd64.7z.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 13 Sep 2024 01:02:47 -0400
+
+
+
+## [Kali] kali-linux-2024.3-virtualbox-amd64.7z (MULTI)
+[link](https://linuxtracker.org/download.php?id=c1065d8357d629fe56cefe79728f2760342e3e88&f=kali-linux-2024.3-virtualbox-amd64.7z.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 13 Sep 2024 01:01:34 -0400
+
+
+
+## [Kali] kali-linux-2024.3-vmware-amd64.7z (MULTI)
+[link](https://linuxtracker.org/download.php?id=2a02e996359c8d37a9ce308cd7c8e1819face49b&f=kali-linux-2024.3-vmware-amd64.7z.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 13 Sep 2024 01:00:55 -0400
+
+
+
+## [Kali] kali-linux-2024.3-installer-purple-amd64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=d36b3dd0f882fcafaf5e1cce07760e2414add52e&f=kali-linux-2024.3-installer-purple-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 13 Sep 2024 01:00:10 -0400
+
+
+
 ## [Kali] kali-linux-2024.3-installer-netinst-arm64.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=c9d1b66fd1a3b31fb8811a3589e956056e6f9488&f=kali-linux-2024.3-installer-netinst-arm64.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -312,39 +347,4 @@ last updated: Sun, 08 Sep 2024 11:14:55 -0400
 [link](https://linuxtracker.org/download.php?id=a6dbda66bbd39f54ff4dead68652a03c6c69d04e&f=GrapheneOS%20Google%20Pixel%205a%20%28Extended%20Support%29%20barbet-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 08 Sep 2024 11:13:32 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 5 (Extended Support) redfin-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=9c6b0e2b2de9a1bf3a84f05abb45b79e29b8f21e&f=GrapheneOS%20Google%20Pixel%205%20%28Extended%20Support%29%20redfin-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:12:36 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 5 (Extended Support) redfin-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=22d74f76c84c17255ab3e4b9968dffebde97f478&f=GrapheneOS%20Google%20Pixel%205%20%28Extended%20Support%29%20redfin-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:12:00 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 4a 5G (Extended Support) bramble-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=b57ab393cad32faf272f118049635ed617d0d974&f=GrapheneOS%20Google%20Pixel%204a%205G%20%28Extended%20Support%29%20bramble-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 07:18:27 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 4a 5G (Extended Support) bramble-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=a33549cc76b5db5c613959c11fae36f9cfde2be0&f=GrapheneOS%20Google%20Pixel%204a%205G%20%28Extended%20Support%29%20bramble-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 07:17:55 -0400
-
-
-
-## [SmartOS] smartos-20240905T024838Z Pack (MULTI)
-[link](https://linuxtracker.org/download.php?id=9262c5072f4105da524a604fadaf9c084b5381b2&f=smartos-20240905T024838Z%20Pack.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 06 Sep 2024 19:40:22 -0400
 
