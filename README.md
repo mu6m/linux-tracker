@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Kali] kali-linux-2024.3-vmware-i386.7z (MULTI)
+[link](https://linuxtracker.org/download.php?id=a99593f4e8d009fd09ac58a56bf5e29f12c259d6&f=kali-linux-2024.3-vmware-i386.7z.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 07:29:57 -0400
+
+
+
 ## [GhostBSD] GhostBSD-24.07.3.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=75934fa5a93b364ef5f92ea563c1452fc33942df&f=GhostBSD-24.07.3.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Sun, 08 Sep 2024 11:17:55 -0400
 [link](https://linuxtracker.org/download.php?id=69d0d369af2e2e7ea49e2523acd3f99422a6db2d&f=GrapheneOS%20Google%20Pixel%206%20oriole-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 08 Sep 2024 11:17:11 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 5a (Extended Support) barbet-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=6dcd78387c88ba7469d127c62bf53097e6b9a964&f=GrapheneOS%20Google%20Pixel%205a%20%28Extended%20Support%29%20barbet-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:14:55 -0400
 
