@@ -1,5 +1,61 @@
 # Linux Torrents Tracker
 
+## [Kali] kali-linux-2024.3-raspberry-pi-zero-2-w-pitail-armhf-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=a6a461a9dd869e09ce11f9bfdf51725282a8148f&f=kali-linux-2024.3-raspberry-pi-zero-2-w-pitail-armhf-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 07:56:05 -0400
+
+
+
+## [Kali] kali-linux-2024.3-raspberry-pi-zero-2-w-armhf-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=25bede394fee6750828e7ceab7399cc4e0893233&f=kali-linux-2024.3-raspberry-pi-zero-2-w-armhf-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 07:55:08 -0400
+
+
+
+## [Kali] kali-linux-2024.3-raspberry-pi1-armel-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=39c926c65104d6facb63c1b9f66ceec9772a3dc0&f=kali-linux-2024.3-raspberry-pi1-armel-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 07:44:06 -0400
+
+
+
+## [Kali] kali-linux-2024.3-raspberry-pi5-arm64-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=2773d8e0f0af12378fbe406baffe09e4172113ba&f=kali-linux-2024.3-raspberry-pi5-arm64-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 07:41:15 -0400
+
+
+
+## [Kali] kali-linux-2024.3-raspberry-pi-arm64-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=7cf3e8cf4be8c420a0b3ccaf2283ffb6b5d1191d&f=kali-linux-2024.3-raspberry-pi-arm64-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 07:39:48 -0400
+
+
+
+## [Kali] kali-linux-2024.3-raspberry-pi-armhf-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=aca3ecadd89bcc7a5c5267bbb04587c1ffa25a0f&f=kali-linux-2024.3-raspberry-pi-armhf-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 07:38:44 -0400
+
+
+
+## [Kali] kali-linux-2024.3-qemu-i386.7z (MULTI)
+[link](https://linuxtracker.org/download.php?id=3f688fc01d4480ff9427c883feb871bb19902009&f=kali-linux-2024.3-qemu-i386.7z.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 07:32:03 -0400
+
+
+
+## [Kali] kali-linux-2024.3-virtualbox-i386.7z (MULTI)
+[link](https://linuxtracker.org/download.php?id=5f2a8a2003faad2cd0f573fb3f1c1d83df8263a6&f=kali-linux-2024.3-virtualbox-i386.7z.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 07:31:05 -0400
+
+
+
 ## [Kali] kali-linux-2024.3-vmware-i386.7z (MULTI)
 [link](https://linuxtracker.org/download.php?id=a99593f4e8d009fd09ac58a56bf5e29f12c259d6&f=kali-linux-2024.3-vmware-i386.7z.torrent&rsspid=00000000000000000000000000000000)
 
@@ -291,60 +347,4 @@ last updated: Sun, 08 Sep 2024 13:21:00 -0400
 [link](https://linuxtracker.org/download.php?id=ccb9cf2c2e82e83319a1b869681673a61dbd981f&f=GrapheneOS%20Google%20Pixel%207%20Pro%20cheetah-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 08 Sep 2024 13:20:20 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 7 panther-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=fcf351a5eb7f47bb044c91c1a609ba10d78e258f&f=GrapheneOS%20Google%20Pixel%207%20panther-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:35:40 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 7 panther-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=90de6c58f632a1eca0b7d84293868b70383b89bf&f=GrapheneOS%20Google%20Pixel%207%20panther-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:32:42 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 6a bluejay-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=3c16acb9ecb46d108e22166d6d4870db6e3e4831&f=GrapheneOS%20Google%20Pixel%206a%20bluejay-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:32:00 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 6a bluejay-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=58563eeec434da3bd2e3cd413a2ef33bf79762c3&f=GrapheneOS%20Google%20Pixel%206a%20bluejay-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:31:19 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 6 Pro raven-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=9d9b153ce37056c227ca01e24e04a40e0fc55a4e&f=GrapheneOS%20Google%20Pixel%206%20Pro%20raven-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:20:29 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 6 Pro raven-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=abfeb498506b536f7c2cfd9d35982e75b833750b&f=GrapheneOS%20Google%20Pixel%206%20Pro%20raven-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:19:48 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 6 oriole-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=76adf2e750b58d8cd3bbc3921828ee847b9df8c9&f=GrapheneOS%20Google%20Pixel%206%20oriole-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:17:55 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 6 oriole-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=69d0d369af2e2e7ea49e2523acd3f99422a6db2d&f=GrapheneOS%20Google%20Pixel%206%20oriole-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 11:17:11 -0400
 
