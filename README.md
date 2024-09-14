@@ -1,5 +1,47 @@
 # Linux Torrents Tracker
 
+## [Kali] kali-linux-2024.3-usb-armory-mkii-armhf-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=5d318dcae71ddac3061a55f753286a46be7de4db&f=kali-linux-2024.3-usb-armory-mkii-armhf-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 08:19:31 -0400
+
+
+
+## [Kali] kali-linux-2024.3-gateworks-newport-arm64-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=549c1ad7aed585dc835896e19742258d053e75d8&f=kali-linux-2024.3-gateworks-newport-arm64-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 08:18:38 -0400
+
+
+
+## [Kali] kali-linux-2024.3-pinebook-pro-arm64-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=9590671c59b84db0768564f7345839b9ecea1c98&f=kali-linux-2024.3-pinebook-pro-arm64-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 08:16:56 -0400
+
+
+
+## [Kali] kali-linux-2024.3-pinebook-arm64-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=e75c4946d657c085f5993f92f5d7839b4f1ba334&f=kali-linux-2024.3-pinebook-arm64-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 08:15:20 -0400
+
+
+
+## [Kali] kali-linux-2024.3-raspberry-pi-zero-w-pitail-armel-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=3cf820d35712355d36a6f3e184b2a1c479746109&f=kali-linux-2024.3-raspberry-pi-zero-w-pitail-armel-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 08:08:44 -0400
+
+
+
+## [Kali] kali-linux-2024.3-raspberry-pi-zero-w-armel-img-xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=0a123b59af8f448758a660430ebcceb2f1af38ff&f=kali-linux-2024.3-raspberry-pi-zero-w-armel-img-xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 14 Sep 2024 08:07:43 -0400
+
+
+
 ## [Kali] kali-linux-2024.3-raspberry-pi-zero-2-w-pitail-armhf-img-xz (MULTI)
 [link](https://linuxtracker.org/download.php?id=a6a461a9dd869e09ce11f9bfdf51725282a8148f&f=kali-linux-2024.3-raspberry-pi-zero-2-w-pitail-armhf-img-xz.torrent&rsspid=00000000000000000000000000000000)
 
@@ -305,46 +347,4 @@ last updated: Sun, 08 Sep 2024 13:33:01 -0400
 [link](https://linuxtracker.org/download.php?id=6ad5bb4cc31a48775f750726b12dfe7f0e8eb7bb&f=GrapheneOS%20Google%20Pixel%208%20shiba-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 08 Sep 2024 13:32:19 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 8 Pro husky-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=7505f1dbddfd5dbd3f76f379968e74ac2d5bd17b&f=GrapheneOS%20Google%20Pixel%208%20Pro%20husky-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:23:36 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 8 Pro husky-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=523b8739f8dedfe4bd3b117b2ac5759ad83e57f6&f=GrapheneOS%20Google%20Pixel%208%20Pro%20husky-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:22:52 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 7a lynx-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=1414d705cc393a09506014d70a9fa577aa82e48f&f=GrapheneOS%20Google%20Pixel%207a%20lynx-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:22:13 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 7a lynx-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=379df004eb11b5ed7a31dd461df43e701130d3c2&f=GrapheneOS%20Google%20Pixel%207a%20lynx-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:21:40 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 7 Pro cheetah-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=090d677b349f198eeb31d25acdfaeff215c7d154&f=GrapheneOS%20Google%20Pixel%207%20Pro%20cheetah-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:21:00 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 7 Pro cheetah-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=ccb9cf2c2e82e83319a1b869681673a61dbd981f&f=GrapheneOS%20Google%20Pixel%207%20Pro%20cheetah-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:20:20 -0400
 
