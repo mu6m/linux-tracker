@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [FreeBSD] FreeBSD-13.4-RELEASE-arm64-aarch64-memstick.img (MULTI)
+[link](https://linuxtracker.org/download.php?id=9cc282503dbd1dc31c1353cc361113eb3a264cce&f=FreeBSD-13.4-RELEASE-arm64-aarch64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 17 Sep 2024 01:03:28 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-arm64-aarch64-dvd1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=936268bf97a71c7f18ca603f5bc8b4ea08501826&f=FreeBSD-13.4-RELEASE-arm64-aarch64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 17 Sep 2024 01:01:50 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-RELEASE-arm64-aarch64-disc1.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=980e0110a2c870bd2b374247bde5d9b0a6b7c708&f=FreeBSD-13.4-RELEASE-arm64-aarch64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Sun, 08 Sep 2024 13:47:48 -0400
 [link](https://linuxtracker.org/download.php?id=09191d2e1c41e7a96be6b7311c1086e0f28f6a6b&f=GrapheneOS%20Google%20Pixel%209%20tokay-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 08 Sep 2024 13:46:51 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 9 tokay-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=b07a5b7a7d210f6ec16e70a688175a19d7d0eb34&f=GrapheneOS%20Google%20Pixel%209%20tokay-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:46:15 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 9 Pro XL komodo-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=c7da6aa14c1286ecf24be33d36aaae1138e75d39&f=GrapheneOS%20Google%20Pixel%209%20Pro%20XL%20komodo-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:45:16 -0400
 
