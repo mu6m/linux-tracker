@@ -1,5 +1,26 @@
 # Linux Torrents Tracker
 
+## [FreeBSD] FreeBSD-13.4-RELEASE-arm64-aarch64-disc1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=980e0110a2c870bd2b374247bde5d9b0a6b7c708&f=FreeBSD-13.4-RELEASE-arm64-aarch64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 17 Sep 2024 00:59:40 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-arm-armv7-GENERICSD.img.xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=d363d534ab64fb7c9744fae8ab662d49164f2370&f=FreeBSD-13.4-RELEASE-arm-armv7-GENERICSD.img.xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 17 Sep 2024 00:58:00 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-arm-armv6-RPI-B.img.xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=b93604a4f614fb1c3c0d6a424af1e582e0fea5a1&f=FreeBSD-13.4-RELEASE-arm-armv6-RPI-B.img.xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 17 Sep 2024 00:57:06 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-RELEASE-amd64-mini-memstick.img (MULTI)
 [link](https://linuxtracker.org/download.php?id=08385413eca30549223174c63e0ce219b17e9c10&f=FreeBSD-13.4-RELEASE-amd64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
@@ -326,25 +347,4 @@ last updated: Sun, 08 Sep 2024 13:46:15 -0400
 [link](https://linuxtracker.org/download.php?id=c7da6aa14c1286ecf24be33d36aaae1138e75d39&f=GrapheneOS%20Google%20Pixel%209%20Pro%20XL%20komodo-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 08 Sep 2024 13:45:16 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 9 Pro XL komodo-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=155686d097c3698085f5e88b41fa853b503cc19c&f=GrapheneOS%20Google%20Pixel%209%20Pro%20XL%20komodo-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:44:21 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 9 Pro Fold comet-ota_update-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=5ab4cc1c2cf8df06385ab3697ee0cd101bf2363b&f=GrapheneOS%20Google%20Pixel%209%20Pro%20Fold%20comet-ota_update-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:43:47 -0400
-
-
-
-## [Linux] GrapheneOS Google Pixel 9 pro Fold comet-install-2024090400.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=c17a19709c9c7cb8acf9c825c39ffc5b63598308&f=GrapheneOS%20Google%20Pixel%209%20pro%20Fold%20comet-install-2024090400.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 08 Sep 2024 13:43:13 -0400
 
