@@ -1,5 +1,33 @@
 # Linux Torrents Tracker
 
+## [FreeBSD] FreeBSD-13.4-RELEASE-i386-dvd1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1adc095a7cd9b256b1ccfd6ae91d754014954b0a&f=FreeBSD-13.4-RELEASE-i386-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 01:05:26 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-i386-disc1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=c668aea9d000d583743594e9030cd4d6d11d583e&f=FreeBSD-13.4-RELEASE-i386-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 01:03:56 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-i386-bootonly.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=083bb9cf88eb53ae01ca10d04588333244c3af29&f=FreeBSD-13.4-RELEASE-i386-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 01:02:37 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-arm64-aarch64-RPI.img.xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=de597516d2d43e4a93336acab3a58c9becdb33f9&f=FreeBSD-13.4-RELEASE-arm64-aarch64-RPI.img.xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 01:01:14 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-RELEASE-arm64-aarch64-ROCKPRO64.img.xz (MULTI)
 [link](https://linuxtracker.org/download.php?id=bfb2f43d627648bfb2ac80ef6a241b8b6d39d8d8&f=FreeBSD-13.4-RELEASE-arm64-aarch64-ROCKPRO64.img.xz.torrent&rsspid=00000000000000000000000000000000)
 
@@ -319,32 +347,4 @@ last updated: Fri, 13 Sep 2024 00:59:33 -0400
 [link](https://linuxtracker.org/download.php?id=2024d5a1c347d4b4cc4f9b0cee1426c80afcad11&f=kali-linux-2024.3-installer-arm64.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 13 Sep 2024 00:55:49 -0400
-
-
-
-## [Kali] kali-linux-2024.3-installer-netinst-i386.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=b2d2b5cc005d43571ba3441e7ae5bfe176264d27&f=kali-linux-2024.3-installer-netinst-i386.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 00:55:02 -0400
-
-
-
-## [Kali] kali-linux-2024.3-installer-i386.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=2a80b0f44a71c6df5f4d7d034d2e4dbd0e31d930&f=kali-linux-2024.3-installer-i386.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 00:54:25 -0400
-
-
-
-## [Kali] kali-linux-2024.3-installer-everything-amd64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=741984548719617de80ec7f544041fe8fae295fa&f=kali-linux-2024.3-installer-everything-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 00:53:41 -0400
-
-
-
-## [Kali] kali-linux-2024.3-installer-netinst-amd64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=f402c9eb963bbba9e29d9c8b52c442cb6aa16df4&f=kali-linux-2024.3-installer-netinst-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 00:52:15 -0400
 
