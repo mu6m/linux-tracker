@@ -1,9 +1,65 @@
 # Linux Torrents Tracker
 
+## [FreeBSD] FreeBSD-13.4-RELEASE-powerpc-powerpcspe-bootonly.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=fb30bf916ec02e69e967bf6b6822972eb9e8933b&f=FreeBSD-13.4-RELEASE-powerpc-powerpcspe-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 15:16:45 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-powerpc-powerpc64le-disc1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=ffc56e43ef759c8fffe6cea76372f064d883a8b7&f=FreeBSD-13.4-RELEASE-powerpc-powerpc64le-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 15:14:18 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-powerpc-powerpc64le-bootonly.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=2c6d9227f88092721c5f07806e32cf25f1d51d52&f=FreeBSD-13.4-RELEASE-powerpc-powerpc64le-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 15:11:25 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-powerpc-powerpc64-disc1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=8860c4cee0fdb93de365762cb31d0791dbddd13b&f=FreeBSD-13.4-RELEASE-powerpc-powerpc64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 15:10:39 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-powerpc-powerpc64-bootonly.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=bdc1e09f000d70776e74123c632637dc4d61f3c8&f=FreeBSD-13.4-RELEASE-powerpc-powerpc64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 15:08:02 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-powerpc-disc1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=14dd60526505bc0b7ef3561e7f2b93032cc1b62c&f=FreeBSD-13.4-RELEASE-powerpc-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 15:06:18 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-powerpc-bootonly.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=3ef6bbbed115f78944ad83943182e8b71ff5ede6&f=FreeBSD-13.4-RELEASE-powerpc-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 15:05:32 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-i386-mini-memstick.img (MULTI)
+[link](https://linuxtracker.org/download.php?id=810164e55f9133c152ab0c7e78a7c1116da74511&f=FreeBSD-13.4-RELEASE-i386-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 18 Sep 2024 15:03:37 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-RELEASE-i386-memstick.img (MULTI)
 [link](https://linuxtracker.org/download.php?id=a6e46627b3830ff6ef0f57c996f36bf17621ca32&f=FreeBSD-13.4-RELEASE-i386-memstick.img.torrent&rsspid=00000000000000000000000000000000)
 
-last updated: Wed, 18 Sep 2024 14:57:36 -0400
+last updated: Wed, 18 Sep 2024 15:02:08 -0400
 
 
 
@@ -291,60 +347,4 @@ last updated: Sat, 14 Sep 2024 07:32:03 -0400
 [link](https://linuxtracker.org/download.php?id=5f2a8a2003faad2cd0f573fb3f1c1d83df8263a6&f=kali-linux-2024.3-virtualbox-i386.7z.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sat, 14 Sep 2024 07:31:05 -0400
-
-
-
-## [Kali] kali-linux-2024.3-vmware-i386.7z (MULTI)
-[link](https://linuxtracker.org/download.php?id=a99593f4e8d009fd09ac58a56bf5e29f12c259d6&f=kali-linux-2024.3-vmware-i386.7z.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 14 Sep 2024 07:29:57 -0400
-
-
-
-## [GhostBSD] GhostBSD-24.07.3.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=75934fa5a93b364ef5f92ea563c1452fc33942df&f=GhostBSD-24.07.3.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 12:41:59 -0400
-
-
-
-## [Kali] kali-linux-2024.3-qemu-amd64.7z (MULTI)
-[link](https://linuxtracker.org/download.php?id=6fcf51d758ceead1289e513ba7b87d8933a86914&f=kali-linux-2024.3-qemu-amd64.7z.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 01:03:23 -0400
-
-
-
-## [Kali] kali-linux-2024.3-hyperv-amd64.7z (MULTI)
-[link](https://linuxtracker.org/download.php?id=50b8d84b683c428cb89c47fd4d4bebd7edfb784e&f=kali-linux-2024.3-hyperv-amd64.7z.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 01:02:47 -0400
-
-
-
-## [Kali] kali-linux-2024.3-virtualbox-amd64.7z (MULTI)
-[link](https://linuxtracker.org/download.php?id=c1065d8357d629fe56cefe79728f2760342e3e88&f=kali-linux-2024.3-virtualbox-amd64.7z.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 01:01:34 -0400
-
-
-
-## [Kali] kali-linux-2024.3-vmware-amd64.7z (MULTI)
-[link](https://linuxtracker.org/download.php?id=2a02e996359c8d37a9ce308cd7c8e1819face49b&f=kali-linux-2024.3-vmware-amd64.7z.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 01:00:55 -0400
-
-
-
-## [Kali] kali-linux-2024.3-installer-purple-amd64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=d36b3dd0f882fcafaf5e1cce07760e2414add52e&f=kali-linux-2024.3-installer-purple-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 01:00:10 -0400
-
-
-
-## [Kali] kali-linux-2024.3-installer-netinst-arm64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=c9d1b66fd1a3b31fb8811a3589e956056e6f9488&f=kali-linux-2024.3-installer-netinst-arm64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 13 Sep 2024 00:59:33 -0400
 
