@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [FreeBSD] FreeBSD-13.4-RELEASE-riscv-riscv64-bootonly.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=365908c4809b73682099b5d4af6a6d0590f53988&f=FreeBSD-13.4-RELEASE-riscv-riscv64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 19 Sep 2024 00:59:12 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-powerpc-powerpcspe-disc1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=36ec7bf13464e43b3bf2d1110df59fa435197b1b&f=FreeBSD-13.4-RELEASE-powerpc-powerpcspe-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 19 Sep 2024 00:58:13 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-RELEASE-powerpc-powerpcspe-bootonly.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=fb30bf916ec02e69e967bf6b6822972eb9e8933b&f=FreeBSD-13.4-RELEASE-powerpc-powerpcspe-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Sat, 14 Sep 2024 07:39:48 -0400
 [link](https://linuxtracker.org/download.php?id=aca3ecadd89bcc7a5c5267bbb04587c1ffa25a0f&f=kali-linux-2024.3-raspberry-pi-armhf-img-xz.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sat, 14 Sep 2024 07:38:44 -0400
-
-
-
-## [Kali] kali-linux-2024.3-qemu-i386.7z (MULTI)
-[link](https://linuxtracker.org/download.php?id=3f688fc01d4480ff9427c883feb871bb19902009&f=kali-linux-2024.3-qemu-i386.7z.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 14 Sep 2024 07:32:03 -0400
-
-
-
-## [Kali] kali-linux-2024.3-virtualbox-i386.7z (MULTI)
-[link](https://linuxtracker.org/download.php?id=5f2a8a2003faad2cd0f573fb3f1c1d83df8263a6&f=kali-linux-2024.3-virtualbox-i386.7z.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 14 Sep 2024 07:31:05 -0400
 
