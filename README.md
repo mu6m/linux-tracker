@@ -1,5 +1,33 @@
 # Linux Torrents Tracker
 
+## [FreeBSD] FreeBSD-13.4-RELEASE-riscv-riscv64-mini-memstick.img (MULTI)
+[link](https://linuxtracker.org/download.php?id=69835c44b7a1a3f3418412f540c6bd5bfc267b0c&f=FreeBSD-13.4-RELEASE-riscv-riscv64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 19 Sep 2024 01:05:41 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-riscv-riscv64-memstick.img (MULTI)
+[link](https://linuxtracker.org/download.php?id=5444b61b8f164846df887105f99608faa62f0716&f=FreeBSD-13.4-RELEASE-riscv-riscv64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 19 Sep 2024 01:03:33 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-riscv-riscv64-GENERICSD.img.xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=65f3c13317d815f8afe78415887ef43f85ab9c75&f=FreeBSD-13.4-RELEASE-riscv-riscv64-GENERICSD.img.xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 19 Sep 2024 01:02:30 -0400
+
+
+
+## [FreeBSD] FreeBSD-13.4-RELEASE-riscv-riscv64-disc1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=04b35b1d79aa997df2ca482756c58e85731be152&f=FreeBSD-13.4-RELEASE-riscv-riscv64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 19 Sep 2024 01:00:05 -0400
+
+
+
 ## [FreeBSD] FreeBSD-13.4-RELEASE-riscv-riscv64-bootonly.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=365908c4809b73682099b5d4af6a6d0590f53988&f=FreeBSD-13.4-RELEASE-riscv-riscv64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -319,32 +347,4 @@ last updated: Sat, 14 Sep 2024 07:56:05 -0400
 [link](https://linuxtracker.org/download.php?id=25bede394fee6750828e7ceab7399cc4e0893233&f=kali-linux-2024.3-raspberry-pi-zero-2-w-armhf-img-xz.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sat, 14 Sep 2024 07:55:08 -0400
-
-
-
-## [Kali] kali-linux-2024.3-raspberry-pi1-armel-img-xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=39c926c65104d6facb63c1b9f66ceec9772a3dc0&f=kali-linux-2024.3-raspberry-pi1-armel-img-xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 14 Sep 2024 07:44:06 -0400
-
-
-
-## [Kali] kali-linux-2024.3-raspberry-pi5-arm64-img-xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=2773d8e0f0af12378fbe406baffe09e4172113ba&f=kali-linux-2024.3-raspberry-pi5-arm64-img-xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 14 Sep 2024 07:41:15 -0400
-
-
-
-## [Kali] kali-linux-2024.3-raspberry-pi-arm64-img-xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=7cf3e8cf4be8c420a0b3ccaf2283ffb6b5d1191d&f=kali-linux-2024.3-raspberry-pi-arm64-img-xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 14 Sep 2024 07:39:48 -0400
-
-
-
-## [Kali] kali-linux-2024.3-raspberry-pi-armhf-img-xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=aca3ecadd89bcc7a5c5267bbb04587c1ffa25a0f&f=kali-linux-2024.3-raspberry-pi-armhf-img-xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 14 Sep 2024 07:38:44 -0400
 
