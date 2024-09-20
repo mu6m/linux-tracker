@@ -1,5 +1,40 @@
 # Linux Torrents Tracker
 
+## [CentOS] CentOS-Stream-10-20240913.0-ppc64le-boot.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=e554edd42cb985e425a480fa085802816c1efd7e&f=CentOS-Stream-10-20240913.0-ppc64le-boot.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 20 Sep 2024 01:05:37 -0400
+
+
+
+## [CentOS] CentOS-Stream-10-20240913.0-aarch64-dvd1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=b0c75f3f2e638acfc9778ce4545c98704a8c7593&f=CentOS-Stream-10-20240913.0-aarch64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 20 Sep 2024 01:04:49 -0400
+
+
+
+## [CentOS] CentOS-Stream-10-20240913.0-aarch64-boot.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=c45288e381807b00ccac400fe27d9d6488bee84a&f=CentOS-Stream-10-20240913.0-aarch64-boot.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 20 Sep 2024 01:04:02 -0400
+
+
+
+## [CentOS] CentOS-Stream-9-20240909.0-x86_64-dvd1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=e2f50df92bb8b58c8fa00437c58efc26b5ba6231&f=CentOS-Stream-9-20240909.0-x86_64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 20 Sep 2024 01:01:32 -0400
+
+
+
+## [CentOS] CentOS-Stream-9-20240909.0-x86_64-boot.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=9662406b97dfa8129be57dbc4eae48164ce2c19b&f=CentOS-Stream-9-20240909.0-x86_64-boot.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 20 Sep 2024 01:00:09 -0400
+
+
+
 ## [CentOS] CentOS-Stream-9-20240909.0-s390x-dvd1.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=60514c99921fff1a908f122b912b26dda3d36211&f=CentOS-Stream-9-20240909.0-s390x-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -312,39 +347,4 @@ last updated: Mon, 16 Sep 2024 01:02:58 -0400
 [link](https://linuxtracker.org/download.php?id=4f0dc93196fdb15c49a2a5f0e2da04a2c3750e89&f=FreeBSD-13.4-RELEASE-amd64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 16 Sep 2024 01:02:06 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RELEASE-amd64-disc1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=c84ddb0a41109f0ea34c36fb8056af3e57154d9a&f=FreeBSD-13.4-RELEASE-amd64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 16 Sep 2024 01:01:10 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RELEASE-amd64-bootonly.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=c152bcb49fedd3b46e0a1db8c657b99005f37d00&f=FreeBSD-13.4-RELEASE-amd64-bootonly.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 16 Sep 2024 01:00:15 -0400
-
-
-
-## [Alpine Linux] Alpine Standard 3 20 3 x86 64 ISO (MULTI)
-[link](https://linuxtracker.org/download.php?id=538712d419a653c7fb77312eab4c71c8ef3dd8b9&f=Alpine%20Standard%203%2020%203%20x86%2064%20ISO.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 15 Sep 2024 13:29:47 -0400
-
-
-
-## [Kali] kali-linux-2024.3-usb-armory-mkii-armhf-img-xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=5d318dcae71ddac3061a55f753286a46be7de4db&f=kali-linux-2024.3-usb-armory-mkii-armhf-img-xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 14 Sep 2024 08:19:31 -0400
-
-
-
-## [Kali] kali-linux-2024.3-gateworks-newport-arm64-img-xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=549c1ad7aed585dc835896e19742258d053e75d8&f=kali-linux-2024.3-gateworks-newport-arm64-img-xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 14 Sep 2024 08:18:38 -0400
 
