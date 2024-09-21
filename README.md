@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [CentOS] CentOS-Stream-10-20240913.0-s390x-boot.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=14a7afa4d2305aca26b8a7d8895c61507da06bdc&f=CentOS-Stream-10-20240913.0-s390x-boot.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 21 Sep 2024 10:32:51 -0400
+
+
+
+## [CentOS] CentOS-Stream-10-20240913.0-s390x-dvd1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=b45fc8843f07170a812379733b6df4388e931207&f=CentOS-Stream-10-20240913.0-s390x-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 21 Sep 2024 10:32:04 -0400
+
+
+
 ## [CentOS] CentOS-Stream-10-20240913.0-x86_64-boot.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=aa49c7b508e08f60e35c5129f666ad15d910f506&f=CentOS-Stream-10-20240913.0-x86_64-boot.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Tue, 17 Sep 2024 01:01:50 -0400
 [link](https://linuxtracker.org/download.php?id=980e0110a2c870bd2b374247bde5d9b0a6b7c708&f=FreeBSD-13.4-RELEASE-arm64-aarch64-disc1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 17 Sep 2024 00:59:40 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RELEASE-arm-armv7-GENERICSD.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=d363d534ab64fb7c9744fae8ab662d49164f2370&f=FreeBSD-13.4-RELEASE-arm-armv7-GENERICSD.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 17 Sep 2024 00:58:00 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RELEASE-arm-armv6-RPI-B.img.xz (MULTI)
-[link](https://linuxtracker.org/download.php?id=b93604a4f614fb1c3c0d6a424af1e582e0fea5a1&f=FreeBSD-13.4-RELEASE-arm-armv6-RPI-B.img.xz.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 17 Sep 2024 00:57:06 -0400
 
