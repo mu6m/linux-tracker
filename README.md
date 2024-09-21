@@ -1,5 +1,26 @@
 # Linux Torrents Tracker
 
+## [CentOS] CentOS-Stream-10-20240913.0-x86_64-boot.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=aa49c7b508e08f60e35c5129f666ad15d910f506&f=CentOS-Stream-10-20240913.0-x86_64-boot.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 21 Sep 2024 10:28:52 -0400
+
+
+
+## [CentOS] CentOS-Stream-10-20240913.0-x86_64-dvd1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=abbba068b895658ca962919fa6784785a1862fa4&f=CentOS-Stream-10-20240913.0-x86_64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 21 Sep 2024 10:27:14 -0400
+
+
+
+## [CentOS] CentOS-Stream-10-20240913.0-ppc64le-dvd1.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1eb3dabaf99dfb3a81281a78c976c9261c1d0bb1&f=CentOS-Stream-10-20240913.0-ppc64le-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sat, 21 Sep 2024 10:25:37 -0400
+
+
+
 ## [CentOS] CentOS-Stream-10-20240913.0-ppc64le-boot.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=e554edd42cb985e425a480fa085802816c1efd7e&f=CentOS-Stream-10-20240913.0-ppc64le-boot.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -326,25 +347,4 @@ last updated: Tue, 17 Sep 2024 00:58:00 -0400
 [link](https://linuxtracker.org/download.php?id=b93604a4f614fb1c3c0d6a424af1e582e0fea5a1&f=FreeBSD-13.4-RELEASE-arm-armv6-RPI-B.img.xz.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 17 Sep 2024 00:57:06 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RELEASE-amd64-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=08385413eca30549223174c63e0ce219b17e9c10&f=FreeBSD-13.4-RELEASE-amd64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 16 Sep 2024 01:03:46 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RELEASE-amd64-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=95d4ca733bac55e04f34afffdd1d840a61b5b47b&f=FreeBSD-13.4-RELEASE-amd64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 16 Sep 2024 01:02:58 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RELEASE-amd64-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=4f0dc93196fdb15c49a2a5f0e2da04a2c3750e89&f=FreeBSD-13.4-RELEASE-amd64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 16 Sep 2024 01:02:06 -0400
 
