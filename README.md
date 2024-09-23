@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Live Raizo] Live-Raizo-v15.24.09.08p.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=81f95d61626e5fd716bacf99761cd5f39f32e2eb&f=Live-Raizo-v15.24.09.08p.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 23 Sep 2024 03:54:25 -0400
+
+
+
+## [EasyOS] easy-6.3-amd64.img (MULTI)
+[link](https://linuxtracker.org/download.php?id=25e48f4e4ae6ed8dbb1054ac70e3a0fdea14d625&f=easy-6.3-amd64.img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 23 Sep 2024 03:46:08 -0400
+
+
+
 ## [Haiku] haiku-r1beta5-x86_64-anyboot.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=c53b7f8e4ef8fd0eb5d7092e62af5003c118cfc9&f=haiku-r1beta5-x86_64-anyboot.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Tue, 17 Sep 2024 02:05:16 -0400
 [link](https://linuxtracker.org/download.php?id=a0686dfb72d48cdcc5c12179bfbe2bdb3c09ca7c&f=MX-23.4_ahs_x64.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 17 Sep 2024 02:05:15 -0400
-
-
-
-## [MX Linux] MX-23.4_x64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=c63a772102952fd53ece929b0e877c507c529d60&f=MX-23.4_x64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 17 Sep 2024 02:05:08 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RELEASE-arm64-aarch64-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=9cc282503dbd1dc31c1353cc361113eb3a264cce&f=FreeBSD-13.4-RELEASE-arm64-aarch64-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 17 Sep 2024 01:03:28 -0400
 
