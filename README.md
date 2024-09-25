@@ -1,5 +1,33 @@
 # Linux Torrents Tracker
 
+## [IPFire] ipfire-2.29-core188-x86_64.img.xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=155f4d59e5d2cbbfe2c809f6d0f51eb38e743039&f=ipfire-2.29-core188-x86_64.img.xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 25 Sep 2024 05:09:29 -0400
+
+
+
+## [IPFire] ipfire-2.29-core188-aarch64.img.xz (MULTI)
+[link](https://linuxtracker.org/download.php?id=59c8ab3fc5ae3a33a3139c626fdf453f8b367c96&f=ipfire-2.29-core188-aarch64.img.xz.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 25 Sep 2024 05:08:55 -0400
+
+
+
+## [IPFire] ipfire-2.29-core188-aarch64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=bbdf5ffe2c69d4efd7aefb08fc4478dd08c5b6f1&f=ipfire-2.29-core188-aarch64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 25 Sep 2024 05:08:25 -0400
+
+
+
+## [IPFire] ipfire-2.29-core188-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=d21f23286874888fa3f918d578c94444784a1512&f=ipfire-2.29-core188-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 25 Sep 2024 05:07:27 -0400
+
+
+
 ## [Fedora] Fedora-i3-Live-x86_64-41_Beta (MULTI)
 [link](https://linuxtracker.org/download.php?id=f4b94bf174c494c73c69f530f9c15023092fe747&f=Fedora-i3-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
 
@@ -319,32 +347,4 @@ last updated: Fri, 20 Sep 2024 00:58:41 -0400
 [link](https://linuxtracker.org/download.php?id=9469a45074c36f091363acd52359497ad2c19361&f=CentOS-Stream-9-20240909.0-ppc64le-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 20 Sep 2024 00:53:11 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240909.0-ppc64le-boot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=efc4fe7e9eddfd6b915f9997f3e588a3875869fc&f=CentOS-Stream-9-20240909.0-ppc64le-boot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 20 Sep 2024 00:52:04 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240909.0-aarch64-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=e60d67fafdbc2232e695c9a3f1cc0aab35b3c103&f=CentOS-Stream-9-20240909.0-aarch64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 20 Sep 2024 00:50:52 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240909.0-aarch64-boot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=b05f48d3610d1d69db1d29b36722d7f3d8daa456&f=CentOS-Stream-9-20240909.0-aarch64-boot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 20 Sep 2024 00:49:39 -0400
-
-
-
-## [FreeBSD] FreeBSD-13.4-RELEASE-riscv-riscv64-mini-memstick.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=69835c44b7a1a3f3418412f540c6bd5bfc267b0c&f=FreeBSD-13.4-RELEASE-riscv-riscv64-mini-memstick.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 19 Sep 2024 01:05:41 -0400
 
