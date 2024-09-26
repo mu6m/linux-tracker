@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Damnsmall] dsl-2024.rc7.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=920c4ff1197fa3e827c01570ff12b2cac8e5de71&f=dsl-2024.rc7.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 05:52:50 -0400
+
+
+
+## [EasyOS] easy-6.3.1-amd64.img (MULTI)
+[link](https://linuxtracker.org/download.php?id=31b5d16f6f50a50d643fdf72b39bbe3758840c47&f=easy-6.3.1-amd64.img.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 05:36:58 -0400
+
+
+
 ## [SparkyLinux] sparkylinux-7.5-armhf-cli.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=7dd713af286a0cee04fe849c8854640ffb219da2&f=sparkylinux-7.5-armhf-cli.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Mon, 23 Sep 2024 03:46:08 -0400
 [link](https://linuxtracker.org/download.php?id=c53b7f8e4ef8fd0eb5d7092e62af5003c118cfc9&f=haiku-r1beta5-x86_64-anyboot.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Mon, 23 Sep 2024 02:49:04 -0400
-
-
-
-## [Haiku] haiku-r1beta5-x86_gcc2h-anyboot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=de8282e7e28a64a771871510e05777c3cfe3a7a4&f=haiku-r1beta5-x86_gcc2h-anyboot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 23 Sep 2024 02:48:26 -0400
-
-
-
-## [CentOS] CentOS-Stream-10-20240913.0-s390x-boot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=14a7afa4d2305aca26b8a7d8895c61507da06bdc&f=CentOS-Stream-10-20240913.0-s390x-boot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sat, 21 Sep 2024 10:32:51 -0400
 
