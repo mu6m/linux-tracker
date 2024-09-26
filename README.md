@@ -1,5 +1,54 @@
 # Linux Torrents Tracker
 
+## [SparkyLinux] sparkylinux-7.5-x86_64-minimalcli.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=c81e866b54370f952bdcdb798e7ad27a443fd17a&f=sparkylinux-7.5-x86_64-minimalcli.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 04:59:44 -0400
+
+
+
+## [SparkyLinux] sparkylinux-7.5-i686-minimalgui.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=ddf53a0ec9059c5239b40de3e259ba060c0c607b&f=sparkylinux-7.5-i686-minimalgui.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 04:58:40 -0400
+
+
+
+## [SparkyLinux] sparkylinux-7.5-x86_64-minimalgui.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=9b2069bdc7b15917cfcc4344846e5b4e10752572&f=sparkylinux-7.5-x86_64-minimalgui.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 04:58:04 -0400
+
+
+
+## [SparkyLinux] sparkylinux-7.5-x86_64-kde.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=3f08280fff0465a4596e374e63d216f57e89a0cb&f=sparkylinux-7.5-x86_64-kde.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 04:56:43 -0400
+
+
+
+## [SparkyLinux] sparkylinux-7.5-x86_64-xfce.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=bd4d735ddacaa4f9c75145fb1695ee6f721444a6&f=sparkylinux-7.5-x86_64-xfce.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 04:55:45 -0400
+
+
+
+## [SparkyLinux] sparkylinux-7.5-x86_64-mate.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=7ca390a5b08345332fe82e2473d0a9957110eef8&f=sparkylinux-7.5-x86_64-mate.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 04:55:00 -0400
+
+
+
+## [SparkyLinux] sparkylinux-7.5-x86_64-lxqt.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=f8fedb5291cc3a9df81e69e244c0fc3285f03922&f=sparkylinux-7.5-x86_64-lxqt.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 04:54:18 -0400
+
+
+
 ## [IPFire] ipfire-2.29-core188-x86_64.img.xz (MULTI)
 [link](https://linuxtracker.org/download.php?id=155f4d59e5d2cbbfe2c809f6d0f51eb38e743039&f=ipfire-2.29-core188-x86_64.img.xz.torrent&rsspid=00000000000000000000000000000000)
 
@@ -298,53 +347,4 @@ last updated: Sat, 21 Sep 2024 10:25:37 -0400
 [link](https://linuxtracker.org/download.php?id=e554edd42cb985e425a480fa085802816c1efd7e&f=CentOS-Stream-10-20240913.0-ppc64le-boot.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 20 Sep 2024 01:05:37 -0400
-
-
-
-## [CentOS] CentOS-Stream-10-20240913.0-aarch64-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=b0c75f3f2e638acfc9778ce4545c98704a8c7593&f=CentOS-Stream-10-20240913.0-aarch64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 20 Sep 2024 01:04:49 -0400
-
-
-
-## [CentOS] CentOS-Stream-10-20240913.0-aarch64-boot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=c45288e381807b00ccac400fe27d9d6488bee84a&f=CentOS-Stream-10-20240913.0-aarch64-boot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 20 Sep 2024 01:04:02 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240909.0-x86_64-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=e2f50df92bb8b58c8fa00437c58efc26b5ba6231&f=CentOS-Stream-9-20240909.0-x86_64-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 20 Sep 2024 01:01:32 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240909.0-x86_64-boot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9662406b97dfa8129be57dbc4eae48164ce2c19b&f=CentOS-Stream-9-20240909.0-x86_64-boot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 20 Sep 2024 01:00:09 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240909.0-s390x-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=60514c99921fff1a908f122b912b26dda3d36211&f=CentOS-Stream-9-20240909.0-s390x-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 20 Sep 2024 00:59:25 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240909.0-s390x-boot.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=4bd78a9147f6319ea1c83e1a09b325b39aed2b9e&f=CentOS-Stream-9-20240909.0-s390x-boot.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 20 Sep 2024 00:58:41 -0400
-
-
-
-## [CentOS] CentOS-Stream-9-20240909.0-ppc64le-dvd1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=9469a45074c36f091363acd52359497ad2c19361&f=CentOS-Stream-9-20240909.0-ppc64le-dvd1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 20 Sep 2024 00:53:11 -0400
 
