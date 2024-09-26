@@ -1,5 +1,26 @@
 # Linux Torrents Tracker
 
+## [Linux Lite] linux-lite-7.2-rc1-64bit.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=aeaeac8d6f819e693b41b4c3abca6b4285d08171&f=linux-lite-7.2-rc1-64bit.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 16:11:55 -0400
+
+
+
+## [Zorin] Zorin-OS-17.2-Core-64-bit.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=6249fa6af99d833e657673b3529bd88515e0b6a6&f=Zorin-OS-17.2-Core-64-bit.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 16:03:38 -0400
+
+
+
+## [Zorin] Zorin-OS-17.2-Education-64-bit.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1d409e83ddc4c296d21c0be3b12f8c895f4d2570&f=Zorin-OS-17.2-Education-64-bit.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 16:03:05 -0400
+
+
+
 ## [Linux] DragonOS_FocalX_R37.1.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=e5e5424591a9c67e7e25e47b82436119dd0e2231&f=DragonOS_FocalX_R37.1.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -326,25 +347,4 @@ last updated: Tue, 24 Sep 2024 16:49:52 -0400
 [link](https://linuxtracker.org/download.php?id=7a6454c2e962e75f248a664389f074de37f874fc&f=ReactOS-0.4.15-2-src.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 24 Sep 2024 16:49:18 -0400
-
-
-
-## [Live Raizo] Live-Raizo-v15.24.09.08i.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=b1c022ac234f5f6edae992e563953a98836a6eee&f=Live-Raizo-v15.24.09.08i.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 16:43:16 -0400
-
-
-
-## [Live Raizo] Live-Raizo-v15.24.09.08p.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=81f95d61626e5fd716bacf99761cd5f39f32e2eb&f=Live-Raizo-v15.24.09.08p.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 23 Sep 2024 03:54:25 -0400
-
-
-
-## [EasyOS] easy-6.3-amd64.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=25e48f4e4ae6ed8dbb1054ac70e3a0fdea14d625&f=easy-6.3-amd64.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Mon, 23 Sep 2024 03:46:08 -0400
 
