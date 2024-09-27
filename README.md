@@ -14,6 +14,13 @@ last updated: Thu, 26 Sep 2024 16:45:42 -0400
 
 
 
+## [Xubuntu] xubuntu-24.10-beta-minimal-amd64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=955ef1ce42deb682325b36db42433d70db2b07c5&f=xubuntu-24.10-beta-minimal-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 16:44:47 -0400
+
+
+
 ## [Linux Lite] linux-lite-7.2-rc1-64bit.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=aeaeac8d6f819e693b41b4c3abca6b4285d08171&f=linux-lite-7.2-rc1-64bit.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Tue, 24 Sep 2024 17:02:59 -0400
 [link](https://linuxtracker.org/download.php?id=bb2d1548f4809e9bbf0bbf971addff942956d8f7&f=linuxconsole.2024-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 24 Sep 2024 17:01:57 -0400
-
-
-
-## [Reactos] ReactOS-0.4.15-2-x86-live.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=17feb741df7f18fb90bf4b58ec08f83daa13ce8f&f=ReactOS-0.4.15-2-x86-live.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 16:51:12 -0400
 
