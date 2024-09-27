@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Xubuntu] xubuntu-24.10-beta-desktop-amd64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=3c1cf8bfd7f4f3548b1385741a894fdccea2048a&f=xubuntu-24.10-beta-desktop-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 26 Sep 2024 16:45:42 -0400
+
+
+
 ## [Linux Lite] linux-lite-7.2-rc1-64bit.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=aeaeac8d6f819e693b41b4c3abca6b4285d08171&f=linux-lite-7.2-rc1-64bit.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Tue, 24 Sep 2024 16:51:12 -0400
 [link](https://linuxtracker.org/download.php?id=23c7f7c9459ca644fdafc0e9f98ecd3a9d53ae5a&f=ReactOS-0.4.15-2-x86-iso.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 24 Sep 2024 16:49:52 -0400
-
-
-
-## [Reactos] ReactOS-0.4.15-2-src.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=7a6454c2e962e75f248a664389f074de37f874fc&f=ReactOS-0.4.15-2-src.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 16:49:18 -0400
 
