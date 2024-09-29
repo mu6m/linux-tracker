@@ -1,5 +1,33 @@
 # Linux Torrents Tracker
 
+## [Linux] GrapheneOS Pixel 7a lynx-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=cae2524b6c3a0fa6eb25edf86a31ded3dd5e7240&f=GrapheneOS%20Pixel%207a%20lynx-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 15:29:29 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 7 Pro cheetah-ota_update-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=5e2788511189c3d4769f9b6efa153622b4c12787&f=GrapheneOS%20Pixel%207%20Pro%20cheetah-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 15:28:33 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 7 Pro cheetah-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=e8b5cd8eef88861263f158f32697addad05c3b15&f=GrapheneOS%20Pixel%207%20Pro%20cheetah-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 15:27:51 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 7 panther-ota_update-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=3718526948459808b683c9fb0ac96b5552d9afaa&f=GrapheneOS%20Pixel%207%20panther-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 15:22:45 -0400
+
+
+
 ## [Linux] GrapheneOS Pixel 7 panther-install-2024091900.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=4a34b1f148bd9eba2efb5a2822d11564fe2e6dcf&f=GrapheneOS%20Pixel%207%20panther-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -319,32 +347,4 @@ last updated: Tue, 24 Sep 2024 17:37:22 -0400
 [link](https://linuxtracker.org/download.php?id=98e8b71f703b796d6ca11374bff54b8df8167b1d&f=Fedora-Xfce-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 24 Sep 2024 17:36:31 -0400
-
-
-
-## [Fedora] Fedora-Workstation-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=8f8273defcebdf93e38b42a7f2e3717275788f03&f=Fedora-Workstation-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:35:31 -0400
-
-
-
-## [Fedora] Fedora-Workstation-Live-osb-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=eab7728c774099a458cdd310df0642d7a0955f7e&f=Fedora-Workstation-Live-osb-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:33:26 -0400
-
-
-
-## [Fedora] Fedora-Workstation-Live-osb-aarch64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=9d2ea1f35706b4e6e27aff7ed53560d51cb7fc23&f=Fedora-Workstation-Live-osb-aarch64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:32:33 -0400
-
-
-
-## [Fedora] Fedora-Sway-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=0807c2ba8328f52bb5cba60f47bf136cb0c4df66&f=Fedora-Sway-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:31:38 -0400
 
