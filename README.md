@@ -1,5 +1,47 @@
 # Linux Torrents Tracker
 
+## [Linux] GrapheneOS Pixel 4a (Legacy Extended Support) sunfish-factory-2024092100.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=8ec260f459cc270d09e726d8ad4d67db68bc879f&f=GrapheneOS%20Pixel%204a%20%28Legacy%20Extended%20Support%29%20sunfish-factory-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 09:17:43 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 4 XL (Legacy Extended Support) coral-ota_update-2024092100.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=938a1395446a930e5b4b5d6f30ace241721b0072&f=GrapheneOS%20Pixel%204%20XL%20%28Legacy%20Extended%20Support%29%20coral-ota_update-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 09:17:11 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 4 XL (Legacy Extended Support) coral-factory-2024092100.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=1382b4d67930f2002c9cbb4265d2409736b55caf&f=GrapheneOS%20Pixel%204%20XL%20%28Legacy%20Extended%20Support%29%20coral-factory-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 09:15:44 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 4 (Legacy Extended Support) flame-ota_update-2024092100.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=f0eaddcb7c7ee7e5cf6af92f2d0e1d9d5c638ac8&f=GrapheneOS%20Pixel%204%20%28Legacy%20Extended%20Support%29%20flame-ota_update-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 09:15:10 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 4 (Legacy Extended Support) flame-factory-2024092100.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=d2e4de174ea6a05293cf7db5c923c31b6e01d833&f=GrapheneOS%20Pixel%204%20%28Legacy%20Extended%20Support%29%20flame-factory-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 09:14:38 -0400
+
+
+
+## [Linux] Graphene Pixel 4a 5G (Legacy Extended Support) bramble-ota_update-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=57c1d27d8fe67b9918fb27292c494f4b2bc568fa&f=Graphene%20Pixel%204a%205G%20%28Legacy%20Extended%20Support%29%20bramble-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 09:13:45 -0400
+
+
+
 ## [Ubuntu] slimbookos-24-r76.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=4a0ff1b1ab490021e789d7789c9d9a012a94dbc5&f=slimbookos-24-r76.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -305,46 +347,4 @@ last updated: Tue, 24 Sep 2024 17:20:01 -0400
 [link](https://linuxtracker.org/download.php?id=88314c1d9b05049fb9c4df3c8c71efe9b80bfb7d&f=Fedora-Kinoite-ostree-aarch64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 24 Sep 2024 17:17:59 -0400
-
-
-
-## [Fedora] Fedora-KDE-Mobile-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=203b56e454f0736280d3523a25331d010f092939&f=Fedora-KDE-Mobile-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:17:14 -0400
-
-
-
-## [Fedora] Fedora-KDE-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=68b9e56e955024ad8357c2e2c9838455a2ea250a&f=Fedora-KDE-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:16:30 -0400
-
-
-
-## [Fedora] Fedora-Cinnamon-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=40e09e7aac464fca7d4d37dd085f823a168a8ef0&f=Fedora-Cinnamon-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:13:40 -0400
-
-
-
-## [Fedora] Fedora-Budgie-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=e2b25cee353ba895957f010224457e99a06bb5a0&f=Fedora-Budgie-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:12:49 -0400
-
-
-
-## [LinuxConsole] linuxconsole.2024-x86.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=6fd00adf663e7f9ddde8e3e438b25312aface7e2&f=linuxconsole.2024-x86.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:02:59 -0400
-
-
-
-## [LinuxConsole] linuxconsole.2024-x86_64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=bb2d1548f4809e9bbf0bbf971addff942956d8f7&f=linuxconsole.2024-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:01:57 -0400
 
