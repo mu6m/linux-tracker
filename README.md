@@ -1,5 +1,33 @@
 # Linux Torrents Tracker
 
+## [Linux] GrapheneOS Pixel Tablet tangorpro-ota_update-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=0a59a05ec6a88c472aa16d6e94ece5cbf0e81ab0&f=GrapheneOS%20Pixel%20Tablet%20tangorpro-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 16:09:24 -0400
+
+
+
+## [Linux] GrapheneOS Pixel Tablet tangorpro-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=7b90567b4226329bdab71ff51cc05b40103988b9&f=GrapheneOS%20Pixel%20Tablet%20tangorpro-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 16:08:51 -0400
+
+
+
+## [Linux] GrapheneOS Pixel Fold felix-ota_update-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=67ae09defb42c7a20fe171df8c82368a2222be4f&f=GrapheneOS%20Pixel%20Fold%20felix-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 16:08:09 -0400
+
+
+
+## [Linux] GrapheneOS Pixel Fold felix-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=2191f5279d0ac810a484d41d3e6031e8d78a01c4&f=GrapheneOS%20Pixel%20Fold%20felix-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 16:00:30 -0400
+
+
+
 ## [Linux] GrapheneOS Pixel 9 tokay-ota_update-2024091900.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=1459a604ca0573aed6dc0113eb5129a353f3b56e&f=GrapheneOS%20Pixel%209%20tokay-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -319,32 +347,4 @@ last updated: Thu, 26 Sep 2024 16:00:00 -0400
 [link](https://linuxtracker.org/download.php?id=920c4ff1197fa3e827c01570ff12b2cac8e5de71&f=dsl-2024.rc7.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Thu, 26 Sep 2024 05:52:50 -0400
-
-
-
-## [EasyOS] easy-6.3.1-amd64.img (MULTI)
-[link](https://linuxtracker.org/download.php?id=31b5d16f6f50a50d643fdf72b39bbe3758840c47&f=easy-6.3.1-amd64.img.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 05:36:58 -0400
-
-
-
-## [SparkyLinux] sparkylinux-7.5-armhf-cli.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=7dd713af286a0cee04fe849c8854640ffb219da2&f=sparkylinux-7.5-armhf-cli.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 05:02:59 -0400
-
-
-
-## [SparkyLinux] sparkylinux-7.5-arm64-cli.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=525b20a862acb0c462bdeb82ac1e2d7e162613c9&f=sparkylinux-7.5-arm64-cli.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 05:02:24 -0400
-
-
-
-## [SparkyLinux] sparkylinux-7.5-armhf.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=7eb51ba11edafcdbe402a2a7b9e350bbe61037fe&f=sparkylinux-7.5-armhf.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 05:01:51 -0400
 
