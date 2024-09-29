@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Linux] GrapheneOS Pixel 4a 5G (Legacy Extended Support)  bramble-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=438aeba9885863f0de591be9a3de93cb001f2da8&f=GrapheneOS%20Pixel%204a%205G%20%28Legacy%20Extended%20Support%29%20%20bramble-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 10:55:25 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 4a (Legacy Extended Support) sunfish-ota_update-2024092100.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=af1364e496c58b04ab2ec3a2188bf6910a494bf8&f=GrapheneOS%20Pixel%204a%20%28Legacy%20Extended%20Support%29%20sunfish-ota_update-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 10:53:39 -0400
+
+
+
 ## [Linux] GrapheneOS Pixel 4a (Legacy Extended Support) sunfish-factory-2024092100.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=8ec260f459cc270d09e726d8ad4d67db68bc879f&f=GrapheneOS%20Pixel%204a%20%28Legacy%20Extended%20Support%29%20sunfish-factory-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Tue, 24 Sep 2024 17:21:17 -0400
 [link](https://linuxtracker.org/download.php?id=72186db619748ec4db61e54e3aee3808871919a0&f=Fedora-LXDE-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 24 Sep 2024 17:20:40 -0400
-
-
-
-## [Fedora] Fedora-Kinoite-ostree-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=6a5669d2dc2a9af6d8d83ea5a258a531461d036b&f=Fedora-Kinoite-ostree-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:20:01 -0400
-
-
-
-## [Fedora] Fedora-Kinoite-ostree-aarch64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=88314c1d9b05049fb9c4df3c8c71efe9b80bfb7d&f=Fedora-Kinoite-ostree-aarch64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:17:59 -0400
 
