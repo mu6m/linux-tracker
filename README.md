@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Linux] GrapheneOS Pixel 7 panther-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=4a34b1f148bd9eba2efb5a2822d11564fe2e6dcf&f=GrapheneOS%20Pixel%207%20panther-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 12:16:25 -0400
+
+
+
 ## [Linux] GrapheneOS Pixel 6a bluejay-ota_update-2024091900.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=529d999022ad0772b4ed4a0e18f9105676f3462b&f=GrapheneOS%20Pixel%206a%20bluejay-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Tue, 24 Sep 2024 17:32:33 -0400
 [link](https://linuxtracker.org/download.php?id=0807c2ba8328f52bb5cba60f47bf136cb0c4df66&f=Fedora-Sway-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 24 Sep 2024 17:31:38 -0400
-
-
-
-## [Fedora] Fedora-SoaS-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=9666d2b4704bd390768d4fd422f2925afd9d81a4&f=Fedora-SoaS-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:30:12 -0400
 
