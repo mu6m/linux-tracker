@@ -1,5 +1,33 @@
 # Linux Torrents Tracker
 
+## [Linux] GrapheneOS Pixel 6a bluejay-ota_update-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=529d999022ad0772b4ed4a0e18f9105676f3462b&f=GrapheneOS%20Pixel%206a%20bluejay-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 11:55:05 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 6a bluejay-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=65d45f794db842f38fed9be0d97b96b06a66c535&f=GrapheneOS%20Pixel%206a%20bluejay-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 11:54:32 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 6 Pro raven-ota_update-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=e1af78e54c2803bb023b1556006285f232d0fa7e&f=GrapheneOS%20Pixel%206%20Pro%20raven-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 11:54:02 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 6 Pro raven-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=2091d6a8c8efe03f3c2d89d0223bacfb964300ca&f=GrapheneOS%20Pixel%206%20Pro%20raven-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 11:53:09 -0400
+
+
+
 ## [Linux] GrapheneOS Pixel 6 oriole-ota_update-2024091900.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=8739ce50e4025b00412e157594715525101de8df&f=GrapheneOS%20Pixel%206%20oriole-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -319,32 +347,4 @@ last updated: Tue, 24 Sep 2024 17:31:38 -0400
 [link](https://linuxtracker.org/download.php?id=9666d2b4704bd390768d4fd422f2925afd9d81a4&f=Fedora-SoaS-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 24 Sep 2024 17:30:12 -0400
-
-
-
-## [Fedora] Fedora-Silverblue-ostree-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=52ef2b0db058a7ce80aede39a0c3ad3a2ed54020&f=Fedora-Silverblue-ostree-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:28:17 -0400
-
-
-
-## [Fedora] Fedora-Silverblue-ostree-aarch64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=eeec02c6099b30dabe23165fc4ea8ab0fbd91943&f=Fedora-Silverblue-ostree-aarch64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:27:29 -0400
-
-
-
-## [Fedora] Fedora-Server-dvd-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=edb283071899a17a0639a3865dc6de44e25921d5&f=Fedora-Server-dvd-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:26:47 -0400
-
-
-
-## [Fedora] Fedora-Server-dvd-aarch64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=5a1acd4a5554c37530d5a81bb7f7fdfc2c349da7&f=Fedora-Server-dvd-aarch64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:26:07 -0400
 
