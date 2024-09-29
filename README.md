@@ -1,5 +1,47 @@
 # Linux Torrents Tracker
 
+## [Linux] GrapheneOS Pixel 6 oriole-ota_update-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=8739ce50e4025b00412e157594715525101de8df&f=GrapheneOS%20Pixel%206%20oriole-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 11:12:19 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 6 oriole-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=73744c2c8b1bb07c597ce38d6280afd916082eb4&f=GrapheneOS%20Pixel%206%20oriole-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 11:11:43 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 5a (Legacy Extended Support) barbet-ota_update-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=da8740114f759c89eaa78be1f001d6f6b55ff73e&f=GrapheneOS%20Pixel%205a%20%28Legacy%20Extended%20Support%29%20barbet-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 11:11:14 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 5a (Legacy Extended Support) barbet-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=3e937ff6a4dfd80987d1fba53e4b6df4ba1ab3b7&f=GrapheneOS%20Pixel%205a%20%28Legacy%20Extended%20Support%29%20barbet-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 11:10:39 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 5 (Legacy Extended Support) redfin-ota_update-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=1dfd6cd1148fad72a5b2711b37ecbe2cdf14f8bf&f=GrapheneOS%20Pixel%205%20%28Legacy%20Extended%20Support%29%20redfin-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 11:09:41 -0400
+
+
+
+## [Linux] GrapheneOS Pixel 5 (Legacy Extended Support) redfin-install-2024091900.zip (MULTI)
+[link](https://linuxtracker.org/download.php?id=b84db396998f87e03e103f174c7007b8d946fadc&f=GrapheneOS%20Pixel%205%20%28Legacy%20Extended%20Support%29%20redfin-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Sun, 29 Sep 2024 11:09:09 -0400
+
+
+
 ## [Linux] GrapheneOS Pixel 4a 5G (Legacy Extended Support)  bramble-install-2024091900.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=438aeba9885863f0de591be9a3de93cb001f2da8&f=GrapheneOS%20Pixel%204a%205G%20%28Legacy%20Extended%20Support%29%20%20bramble-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -305,46 +347,4 @@ last updated: Tue, 24 Sep 2024 17:26:47 -0400
 [link](https://linuxtracker.org/download.php?id=5a1acd4a5554c37530d5a81bb7f7fdfc2c349da7&f=Fedora-Server-dvd-aarch64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Tue, 24 Sep 2024 17:26:07 -0400
-
-
-
-## [Fedora] Fedora-Sericea-ostree-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=d1105e2d63f007d66ac1f06eb3de654c47bc5fb9&f=Fedora-Sericea-ostree-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:23:56 -0400
-
-
-
-## [Fedora] Fedora-Onyx-ostree-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=723f043500e5f2fee243abd6bcb178ba5602b61b&f=Fedora-Onyx-ostree-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:23:17 -0400
-
-
-
-## [Fedora] Fedora-MiracleWM-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=567b7d8b3116787c5ce92269808f77af0915a3a9&f=Fedora-MiracleWM-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:22:39 -0400
-
-
-
-## [Fedora] Fedora-MATE_Compiz-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=3e0440ee1ff283b1bdc9fd3968570b3b2be42812&f=Fedora-MATE_Compiz-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:21:55 -0400
-
-
-
-## [Fedora] Fedora-LXQt-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=2639d0c1233ce6d7e0522da5022c89ef92e8b00d&f=Fedora-LXQt-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:21:17 -0400
-
-
-
-## [Fedora] Fedora-LXDE-Live-x86_64-41_Beta (MULTI)
-[link](https://linuxtracker.org/download.php?id=72186db619748ec4db61e54e3aee3808871919a0&f=Fedora-LXDE-Live-x86_64-41_Beta.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Tue, 24 Sep 2024 17:20:40 -0400
 
