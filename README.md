@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [GParted] gparted-live-1.6.0-10-amd64 (MULTI)
+[link](https://linuxtracker.org/download.php?id=d77a428fb4335a5acd6dd5e31c8e4c7586aa74d7&f=gparted-live-1.6.0-10-amd64.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 30 Sep 2024 00:53:52 -0400
+
+
+
 ## [Linux] GrapheneOS Pixel Tablet tangorpro-ota_update-2024091900.zip (MULTI)
 [link](https://linuxtracker.org/download.php?id=0a59a05ec6a88c472aa16d6e94ece5cbf0e81ab0&f=GrapheneOS%20Pixel%20Tablet%20tangorpro-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Thu, 26 Sep 2024 16:03:05 -0400
 [link](https://linuxtracker.org/download.php?id=e5e5424591a9c67e7e25e47b82436119dd0e2231&f=DragonOS_FocalX_R37.1.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Thu, 26 Sep 2024 16:00:00 -0400
-
-
-
-## [Damnsmall] dsl-2024.rc7.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=920c4ff1197fa3e827c01570ff12b2cac8e5de71&f=dsl-2024.rc7.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 05:52:50 -0400
 
