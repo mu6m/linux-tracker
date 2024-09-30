@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [GParted] gparted-live-1.6.0-10-i686 (MULTI)
+[link](https://linuxtracker.org/download.php?id=b8fbf4d72e4b2cf34393c30341e57081f02b40e1&f=gparted-live-1.6.0-10-i686.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 30 Sep 2024 17:59:08 -0400
+
+
+
+## [GParted] gparted-live-1.6.0-10-i686-pae (MULTI)
+[link](https://linuxtracker.org/download.php?id=bb9b66caa08b5fb014b1203a7049c3d396f8ed0f&f=gparted-live-1.6.0-10-i686-pae.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Mon, 30 Sep 2024 17:56:12 -0400
+
+
+
 ## [GParted] gparted-live-1.6.0-10-amd64 (MULTI)
 [link](https://linuxtracker.org/download.php?id=d77a428fb4335a5acd6dd5e31c8e4c7586aa74d7&f=gparted-live-1.6.0-10-amd64.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Thu, 26 Sep 2024 16:11:55 -0400
 [link](https://linuxtracker.org/download.php?id=6249fa6af99d833e657673b3529bd88515e0b6a6&f=Zorin-OS-17.2-Core-64-bit.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Thu, 26 Sep 2024 16:03:38 -0400
-
-
-
-## [Zorin] Zorin-OS-17.2-Education-64-bit.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=1d409e83ddc4c296d21c0be3b12f8c895f4d2570&f=Zorin-OS-17.2-Education-64-bit.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 16:03:05 -0400
-
-
-
-## [Linux] DragonOS_FocalX_R37.1.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=e5e5424591a9c67e7e25e47b82436119dd0e2231&f=DragonOS_FocalX_R37.1.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 16:00:00 -0400
 
