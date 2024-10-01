@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Manjaro] manjaro-kde-24.0.7-minimal-240821-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=b08b053bf1af8d4ed8bfc33004af5cba58bff136&f=manjaro-kde-24.0.7-minimal-240821-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 00:59:26 -0400
+
+
+
+## [Manjaro] manjaro-kde-24.0.7-240821-linux69.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1f37f7389b9cadbc9e9b6b8cb8f01602333f4ba3&f=manjaro-kde-24.0.7-240821-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 00:58:32 -0400
+
+
+
 ## [GParted] gparted-live-1.6.0-10-i686 (MULTI)
 [link](https://linuxtracker.org/download.php?id=b8fbf4d72e4b2cf34393c30341e57081f02b40e1&f=gparted-live-1.6.0-10-i686.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Thu, 26 Sep 2024 16:45:42 -0400
 [link](https://linuxtracker.org/download.php?id=955ef1ce42deb682325b36db42433d70db2b07c5&f=xubuntu-24.10-beta-minimal-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Thu, 26 Sep 2024 16:44:47 -0400
-
-
-
-## [Linux Lite] linux-lite-7.2-rc1-64bit.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=aeaeac8d6f819e693b41b4c3abca6b4285d08171&f=linux-lite-7.2-rc1-64bit.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 16:11:55 -0400
-
-
-
-## [Zorin] Zorin-OS-17.2-Core-64-bit.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=6249fa6af99d833e657673b3529bd88515e0b6a6&f=Zorin-OS-17.2-Core-64-bit.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 16:03:38 -0400
 
