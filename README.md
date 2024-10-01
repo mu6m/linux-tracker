@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Pop!_OS] pop-os_24.04_amd64_intel_10.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=bdbe2cbf232b24d115e7a981158510f8bf2c08f9&f=pop-os_24.04_amd64_intel_10.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 18:00:35 -0400
+
+
+
 ## [Manjaro] manjaro-gnome-24.1.0-241001-linux610.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=2c9159591d74e0b153d632ea1fbea682983cad1e&f=manjaro-gnome-24.1.0-241001-linux610.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Sun, 29 Sep 2024 11:09:41 -0400
 [link](https://linuxtracker.org/download.php?id=b84db396998f87e03e103f174c7007b8d946fadc&f=GrapheneOS%20Pixel%205%20%28Legacy%20Extended%20Support%29%20redfin-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 29 Sep 2024 11:09:09 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 4a 5G (Legacy Extended Support)  bramble-install-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=438aeba9885863f0de591be9a3de93cb001f2da8&f=GrapheneOS%20Pixel%204a%205G%20%28Legacy%20Extended%20Support%29%20%20bramble-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 10:55:25 -0400
 
