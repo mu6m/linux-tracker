@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [KDE Neon] neon-testing-20240924-0248.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=d765b752c20885fa3a75f2e4ca0c7e610a5eb5a9&f=neon-testing-20240924-0248.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 14:59:08 -0400
+
+
+
+## [KDE Neon] neon-user-20240926-0714.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=2eb30b63ec4f6afb89b0d1f6092adad53ef4ba83&f=neon-user-20240926-0714.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 14:58:02 -0400
+
+
+
 ## [Qubes] Qubes-R4.2.3-x86_64 (MULTI)
 [link](https://linuxtracker.org/download.php?id=9bb7278e56fc473a1c4096136fbb2cca934de03b&f=Qubes-R4.2.3-x86_64.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Sun, 29 Sep 2024 09:15:10 -0400
 [link](https://linuxtracker.org/download.php?id=d2e4de174ea6a05293cf7db5c923c31b6e01d833&f=GrapheneOS%20Pixel%204%20%28Legacy%20Extended%20Support%29%20flame-factory-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 29 Sep 2024 09:14:38 -0400
-
-
-
-## [Linux] Graphene Pixel 4a 5G (Legacy Extended Support) bramble-ota_update-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=57c1d27d8fe67b9918fb27292c494f4b2bc568fa&f=Graphene%20Pixel%204a%205G%20%28Legacy%20Extended%20Support%29%20bramble-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 09:13:45 -0400
-
-
-
-## [Ubuntu] slimbookos-24-r76.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=4a0ff1b1ab490021e789d7789c9d9a012a94dbc5&f=slimbookos-24-r76.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Fri, 27 Sep 2024 14:07:22 -0400
 
