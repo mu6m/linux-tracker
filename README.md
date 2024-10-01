@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Qubes] Qubes-R4.2.3-x86_64 (MULTI)
+[link](https://linuxtracker.org/download.php?id=9bb7278e56fc473a1c4096136fbb2cca934de03b&f=Qubes-R4.2.3-x86_64.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 14:22:57 -0400
+
+
+
 ## [Linux] TUXEDO-OS-3-202409191352.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=22c876407ae51eaf5d624eccafd117b4c22914e6&f=TUXEDO-OS-3-202409191352.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Sun, 29 Sep 2024 09:13:45 -0400
 [link](https://linuxtracker.org/download.php?id=4a0ff1b1ab490021e789d7789c9d9a012a94dbc5&f=slimbookos-24-r76.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Fri, 27 Sep 2024 14:07:22 -0400
-
-
-
-## [Xubuntu] xubuntu-24.10-beta-desktop-amd64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=3c1cf8bfd7f4f3548b1385741a894fdccea2048a&f=xubuntu-24.10-beta-desktop-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 16:45:42 -0400
 
