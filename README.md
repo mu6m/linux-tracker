@@ -1,5 +1,40 @@
 # Linux Torrents Tracker
 
+## [Manjaro] manjaro-gnome-24.1.0-241001-linux610.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=2c9159591d74e0b153d632ea1fbea682983cad1e&f=manjaro-gnome-24.1.0-241001-linux610.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 17:54:44 -0400
+
+
+
+## [Manjaro] manjaro-kde-24.1.0-241001-linux610.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=97fce22a668600487bf8cf9003a5c58550cf1d60&f=manjaro-kde-24.1.0-241001-linux610.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 17:54:41 -0400
+
+
+
+## [Manjaro] manjaro-xfce-24.1.0-241001-linux610.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=c4b27477b24473ac7ff671e8481b81fa61be088f&f=manjaro-xfce-24.1.0-241001-linux610.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 17:54:39 -0400
+
+
+
+## [EndeavourOS] EndeavourOS_Endeavour_neo-2024.09.22.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=91ae2363c70ae92ffc4f7988cf787b73c338a927&f=EndeavourOS_Endeavour_neo-2024.09.22.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 17:45:52 -0400
+
+
+
+## [KaOS] KaOS-2024.09-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=ad0ffeda5580b2b0e342f370ac9033270467811d&f=KaOS-2024.09-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 17:40:18 -0400
+
+
+
 ## [KDE Neon] neon-unstable-20240922-1122.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=a3c28fbe36d20e412743f1cdd0caea05ac3b8d02&f=neon-unstable-20240922-1122.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -312,39 +347,4 @@ last updated: Sun, 29 Sep 2024 11:09:09 -0400
 [link](https://linuxtracker.org/download.php?id=438aeba9885863f0de591be9a3de93cb001f2da8&f=GrapheneOS%20Pixel%204a%205G%20%28Legacy%20Extended%20Support%29%20%20bramble-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 29 Sep 2024 10:55:25 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 4a (Legacy Extended Support) sunfish-ota_update-2024092100.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=af1364e496c58b04ab2ec3a2188bf6910a494bf8&f=GrapheneOS%20Pixel%204a%20%28Legacy%20Extended%20Support%29%20sunfish-ota_update-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 10:53:39 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 4a (Legacy Extended Support) sunfish-factory-2024092100.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=8ec260f459cc270d09e726d8ad4d67db68bc879f&f=GrapheneOS%20Pixel%204a%20%28Legacy%20Extended%20Support%29%20sunfish-factory-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 09:17:43 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 4 XL (Legacy Extended Support) coral-ota_update-2024092100.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=938a1395446a930e5b4b5d6f30ace241721b0072&f=GrapheneOS%20Pixel%204%20XL%20%28Legacy%20Extended%20Support%29%20coral-ota_update-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 09:17:11 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 4 XL (Legacy Extended Support) coral-factory-2024092100.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=1382b4d67930f2002c9cbb4265d2409736b55caf&f=GrapheneOS%20Pixel%204%20XL%20%28Legacy%20Extended%20Support%29%20coral-factory-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 09:15:44 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 4 (Legacy Extended Support) flame-ota_update-2024092100.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=f0eaddcb7c7ee7e5cf6af92f2d0e1d9d5c638ac8&f=GrapheneOS%20Pixel%204%20%28Legacy%20Extended%20Support%29%20flame-ota_update-2024092100.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 09:15:10 -0400
 
