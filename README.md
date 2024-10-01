@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Linux] TUXEDO-OS-3-202409191352.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=22c876407ae51eaf5d624eccafd117b4c22914e6&f=TUXEDO-OS-3-202409191352.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Tue, 01 Oct 2024 01:04:01 -0400
+
+
+
 ## [Manjaro] manjaro-kde-24.0.7-minimal-240821-linux69.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=b08b053bf1af8d4ed8bfc33004af5cba58bff136&f=manjaro-kde-24.0.7-minimal-240821-linux69.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Fri, 27 Sep 2024 14:07:22 -0400
 [link](https://linuxtracker.org/download.php?id=3c1cf8bfd7f4f3548b1385741a894fdccea2048a&f=xubuntu-24.10-beta-desktop-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Thu, 26 Sep 2024 16:45:42 -0400
-
-
-
-## [Xubuntu] xubuntu-24.10-beta-minimal-amd64.iso (MULTI)
-[link](https://linuxtracker.org/download.php?id=955ef1ce42deb682325b36db42433d70db2b07c5&f=xubuntu-24.10-beta-minimal-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Thu, 26 Sep 2024 16:44:47 -0400
 
