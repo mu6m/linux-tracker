@@ -1,5 +1,26 @@
 # Linux Torrents Tracker
 
+## [Calculate Linux] calculate container manager-20240923-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1d47d16cefa49c4a76ff0d969de66f63aed7da83&f=calculate%20container%20manager-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 15:03:09 -0400
+
+
+
+## [Calculate Linux] calculate directory server-20240923-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=2c1c7c1787b41b4eff9b147bfb752be184047df8&f=calculate%20directory%20server-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 15:02:21 -0400
+
+
+
+## [Calculate Linux] calculate linux desktop cinnamon-20240923-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=52cc723e05d30ba50802e834c033f4e0e21d007b&f=calculate%20linux%20desktop%20cinnamon-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 15:01:16 -0400
+
+
+
 ## [Calculate Linux] calculate linux desktop KDE-20240923-x86_64.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=7fba0f4a3352fec96f651d394d8fd9dd9a7a89e8&f=calculate%20linux%20desktop%20KDE-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -326,25 +347,4 @@ last updated: Sun, 29 Sep 2024 15:28:33 -0400
 [link](https://linuxtracker.org/download.php?id=e8b5cd8eef88861263f158f32697addad05c3b15&f=GrapheneOS%20Pixel%207%20Pro%20cheetah-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 29 Sep 2024 15:27:51 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 7 panther-ota_update-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=3718526948459808b683c9fb0ac96b5552d9afaa&f=GrapheneOS%20Pixel%207%20panther-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 15:22:45 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 7 panther-install-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=4a34b1f148bd9eba2efb5a2822d11564fe2e6dcf&f=GrapheneOS%20Pixel%207%20panther-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 12:16:25 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 6a bluejay-ota_update-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=529d999022ad0772b4ed4a0e18f9105676f3462b&f=GrapheneOS%20Pixel%206a%20bluejay-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 11:55:05 -0400
 
