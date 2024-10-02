@@ -1,5 +1,54 @@
 # Linux Torrents Tracker
 
+## [Calculate Linux] calculate linux desktop KDE-20240923-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=7fba0f4a3352fec96f651d394d8fd9dd9a7a89e8&f=calculate%20linux%20desktop%20KDE-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 14:59:46 -0400
+
+
+
+## [Calculate Linux] calculate linux desktop LXQt-20240923-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=317eb8f9d21777f477563032cc40e03df1c5dab2&f=calculate%20linux%20desktop%20LXQt-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 14:58:02 -0400
+
+
+
+## [Calculate Linux] calculate linux desktop mate-20240923-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=83d0f07e2efb9b41a5a7b4ca1526460a212eae33&f=calculate%20linux%20desktop%20mate-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 14:56:37 -0400
+
+
+
+## [Calculate Linux] calculate linux desktop XFCE scientific-20240923-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=976c30d649f5cf6640709ce39773430f6735270a&f=calculate%20linux%20desktop%20XFCE%20scientific-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 14:55:31 -0400
+
+
+
+## [Calculate Linux] calculate linux desktop XFCE-20240923-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=09282f5ef39b628fddf87224b678a5b19c6c9da9&f=calculate%20linux%20desktop%20XFCE-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 14:37:33 -0400
+
+
+
+## [Calculate Linux] calculate linux scratch-20240923-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=67eb53535419c3ee655d92abdc54ca63177f4d9f&f=calculate%20linux%20scratch-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 14:36:46 -0400
+
+
+
+## [Calculate Linux] calculate scratch server-20240923-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=1322f8f0e42b6294eecf3b37394a6992338a4ab2&f=calculate%20scratch%20server-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 14:35:29 -0400
+
+
+
 ## [Linux] Liya-2.1_MATE-x86_64.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=6b558798562754fe8ebe7d0397c7be6c3f460388&f=Liya-2.1_MATE-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -298,53 +347,4 @@ last updated: Sun, 29 Sep 2024 12:16:25 -0400
 [link](https://linuxtracker.org/download.php?id=529d999022ad0772b4ed4a0e18f9105676f3462b&f=GrapheneOS%20Pixel%206a%20bluejay-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 29 Sep 2024 11:55:05 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 6a bluejay-install-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=65d45f794db842f38fed9be0d97b96b06a66c535&f=GrapheneOS%20Pixel%206a%20bluejay-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 11:54:32 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 6 Pro raven-ota_update-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=e1af78e54c2803bb023b1556006285f232d0fa7e&f=GrapheneOS%20Pixel%206%20Pro%20raven-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 11:54:02 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 6 Pro raven-install-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=2091d6a8c8efe03f3c2d89d0223bacfb964300ca&f=GrapheneOS%20Pixel%206%20Pro%20raven-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 11:53:09 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 6 oriole-ota_update-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=8739ce50e4025b00412e157594715525101de8df&f=GrapheneOS%20Pixel%206%20oriole-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 11:12:19 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 6 oriole-install-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=73744c2c8b1bb07c597ce38d6280afd916082eb4&f=GrapheneOS%20Pixel%206%20oriole-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 11:11:43 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 5a (Legacy Extended Support) barbet-ota_update-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=da8740114f759c89eaa78be1f001d6f6b55ff73e&f=GrapheneOS%20Pixel%205a%20%28Legacy%20Extended%20Support%29%20barbet-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 11:11:14 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 5a (Legacy Extended Support) barbet-install-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=3e937ff6a4dfd80987d1fba53e4b6df4ba1ab3b7&f=GrapheneOS%20Pixel%205a%20%28Legacy%20Extended%20Support%29%20barbet-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 11:10:39 -0400
 
