@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Linux] Liya-2.1_MATE-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=6b558798562754fe8ebe7d0397c7be6c3f460388&f=Liya-2.1_MATE-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 01:03:27 -0400
+
+
+
+## [Linux] Liya-2.1-x86_64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=95717db8907eaabb45d017c21f192a669c51a51a&f=Liya-2.1-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Wed, 02 Oct 2024 01:02:21 -0400
+
+
+
 ## [Pop!_OS] pop-os_24.04_amd64_intel_10.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=bdbe2cbf232b24d115e7a981158510f8bf2c08f9&f=pop-os_24.04_amd64_intel_10.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Sun, 29 Sep 2024 11:11:14 -0400
 [link](https://linuxtracker.org/download.php?id=3e937ff6a4dfd80987d1fba53e4b6df4ba1ab3b7&f=GrapheneOS%20Pixel%205a%20%28Legacy%20Extended%20Support%29%20barbet-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 29 Sep 2024 11:10:39 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 5 (Legacy Extended Support) redfin-ota_update-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=1dfd6cd1148fad72a5b2711b37ecbe2cdf14f8bf&f=GrapheneOS%20Pixel%205%20%28Legacy%20Extended%20Support%29%20redfin-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 11:09:41 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 5 (Legacy Extended Support) redfin-install-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=b84db396998f87e03e103f174c7007b8d946fadc&f=GrapheneOS%20Pixel%205%20%28Legacy%20Extended%20Support%29%20redfin-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 11:09:09 -0400
 
