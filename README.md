@@ -1,5 +1,19 @@
 # Linux Torrents Tracker
 
+## [Ubuntu Studio] ubuntustudio-22.04.5-dvd-amd64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=3aa5ad5e62eaffd148cff3dbe93ff2e1e9cbcf01&f=ubuntustudio-22.04.5-dvd-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 03 Oct 2024 01:03:18 -0400
+
+
+
+## [Xubuntu] xubuntu-22.04.5-desktop-amd64.iso (MULTI)
+[link](https://linuxtracker.org/download.php?id=077831815c08853f2afc9fbe69049dab715472fa&f=xubuntu-22.04.5-desktop-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Thu, 03 Oct 2024 00:59:34 -0400
+
+
+
 ## [Calculate Linux] calculate container manager-20240923-x86_64.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=1d47d16cefa49c4a76ff0d969de66f63aed7da83&f=calculate%20container%20manager-20240923-x86_64.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -333,18 +347,4 @@ last updated: Sun, 29 Sep 2024 15:30:15 -0400
 [link](https://linuxtracker.org/download.php?id=cae2524b6c3a0fa6eb25edf86a31ded3dd5e7240&f=GrapheneOS%20Pixel%207a%20lynx-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 29 Sep 2024 15:29:29 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 7 Pro cheetah-ota_update-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=5e2788511189c3d4769f9b6efa153622b4c12787&f=GrapheneOS%20Pixel%207%20Pro%20cheetah-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 15:28:33 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 7 Pro cheetah-install-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=e8b5cd8eef88861263f158f32697addad05c3b15&f=GrapheneOS%20Pixel%207%20Pro%20cheetah-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 15:27:51 -0400
 
