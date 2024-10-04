@@ -1,5 +1,12 @@
 # Linux Torrents Tracker
 
+## [Skywave Linux] Skywave Linux 5.3.0 (MULTI)
+[link](https://linuxtracker.org/download.php?id=174cc71f7cf77fda2fc8a80d09e63236f049dfd6&f=Skywave%20Linux%205.3.0.torrent&rsspid=00000000000000000000000000000000)
+
+last updated: Fri, 04 Oct 2024 07:54:17 -0400
+
+
+
 ## [Ubuntu Studio] ubuntustudio-22.04.5-dvd-amd64.iso (MULTI)
 [link](https://linuxtracker.org/download.php?id=3aa5ad5e62eaffd148cff3dbe93ff2e1e9cbcf01&f=ubuntustudio-22.04.5-dvd-amd64.iso.torrent&rsspid=00000000000000000000000000000000)
 
@@ -340,11 +347,4 @@ last updated: Sun, 29 Sep 2024 15:31:07 -0400
 [link](https://linuxtracker.org/download.php?id=4b63950b9f93c860a5f07432db4f43339a96772e&f=GrapheneOS%20Pixel%207a%20lynx-ota_update-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
 
 last updated: Sun, 29 Sep 2024 15:30:15 -0400
-
-
-
-## [Linux] GrapheneOS Pixel 7a lynx-install-2024091900.zip (MULTI)
-[link](https://linuxtracker.org/download.php?id=cae2524b6c3a0fa6eb25edf86a31ded3dd5e7240&f=GrapheneOS%20Pixel%207a%20lynx-install-2024091900.zip.torrent&rsspid=00000000000000000000000000000000)
-
-last updated: Sun, 29 Sep 2024 15:29:29 -0400
 
